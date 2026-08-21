@@ -1,0 +1,53 @@
+{
+  "title": "Do you have good dining etiquette?",
+  "vocabulary": [
+    {
+      "word": "cutlery",
+      "meaning": "knives, forks, and spoons used for eating",
+      "examples": [
+        "The cutlery was arranged neatly beside the plate.",
+        "Use the correct cutlery for each course at a formal dinner."
+      ]
+    },
+    {
+      "word": "table manners",
+      "meaning": "accepted polite behaviour while eating",
+      "examples": [
+        "Good table manners vary between cultures.",
+        "Children often learn table manners from their families."
+      ]
+    },
+    {
+      "word": "napkin",
+      "meaning": "a piece of cloth or paper used to protect clothing and wipe the mouth while eating",
+      "examples": [
+        "Place the napkin on your lap.",
+        "He folded his napkin after the meal."
+      ]
+    },
+    {
+      "word": "course",
+      "meaning": "one part of a meal served separately",
+      "examples": [
+        "The main course was followed by dessert.",
+        "A formal dinner may have several courses."
+      ]
+    },
+    {
+      "word": "host",
+      "meaning": "a person who invites and welcomes guests",
+      "examples": [
+        "Wait for the host before beginning the meal.",
+        "The host introduced the guests to one another."
+      ]
+    },
+    {
+      "word": "guest",
+      "meaning": "a person invited to a meal, home, or event",
+      "examples": [
+        "Guests should tell the host about serious food allergies.",
+        "She was a guest at a formal dinner."
+      ]
+    }
+  ]
+}

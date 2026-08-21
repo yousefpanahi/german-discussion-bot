@@ -1,0 +1,53 @@
+{
+  "title": "Family belongings",
+  "vocabulary": [
+    {
+      "word": "belonging",
+      "meaning": "an object owned by a person",
+      "examples": [
+        "She packed her personal belongings into boxes.",
+        "Family belongings can have strong emotional value."
+      ]
+    },
+    {
+      "word": "heirloom",
+      "meaning": "a valuable or meaningful object passed down through a family",
+      "examples": [
+        "The watch is a family heirloom.",
+        "She inherited an heirloom from her grandmother."
+      ]
+    },
+    {
+      "word": "inherit",
+      "meaning": "to receive money, property, or an object from someone who has died",
+      "examples": [
+        "He inherited several books from his father.",
+        "Children may inherit objects with sentimental value."
+      ]
+    },
+    {
+      "word": "sentimental value",
+      "meaning": "emotional importance that an object has because of memories or relationships",
+      "examples": [
+        "The ring has great sentimental value.",
+        "An old photograph can have more sentimental value than financial value."
+      ]
+    },
+    {
+      "word": "keepsake",
+      "meaning": "a small object kept because it reminds someone of a person or event",
+      "examples": [
+        "She kept the ticket as a keepsake.",
+        "The box contains family keepsakes."
+      ]
+    },
+    {
+      "word": "possession",
+      "meaning": "something owned by someone",
+      "examples": [
+        "The photograph is one of his most treasured possessions.",
+        "People often keep possessions connected with important memories."
+      ]
+    }
+  ]
+}

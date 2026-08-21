@@ -1,0 +1,53 @@
+{
+  "title": "E-books",
+  "vocabulary": [
+    {
+      "word": "e-book",
+      "meaning": "a book in digital form that can be read on an electronic device",
+      "examples": [
+        "I downloaded the e-book to my tablet.",
+        "E-books are convenient when travelling."
+      ]
+    },
+    {
+      "word": "e-reader",
+      "meaning": "a portable electronic device designed mainly for reading digital books",
+      "examples": [
+        "Her e-reader can store hundreds of books.",
+        "The screen of an e-reader is easy to read outdoors."
+      ]
+    },
+    {
+      "word": "download",
+      "meaning": "to copy data or a file from the internet to your device",
+      "examples": [
+        "You can download the book in a few seconds.",
+        "I downloaded several novels before my holiday."
+      ]
+    },
+    {
+      "word": "digital library",
+      "meaning": "an online collection of books, articles, or other reading material",
+      "examples": [
+        "Students can access the university's digital library from home.",
+        "The digital library contains thousands of free books."
+      ]
+    },
+    {
+      "word": "print edition",
+      "meaning": "a version of a book or publication produced on paper",
+      "examples": [
+        "Some readers still prefer the print edition.",
+        "The print edition costs more than the e-book."
+      ]
+    },
+    {
+      "word": "highlight",
+      "meaning": "to mark an important part of a digital or printed text",
+      "examples": [
+        "I highlighted several useful sentences in the e-book.",
+        "Most reading apps let users highlight text."
+      ]
+    }
+  ]
+}

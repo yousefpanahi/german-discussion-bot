@@ -1,0 +1,53 @@
+{
+  "title": "Animal species 'extinction crisis'",
+  "vocabulary": [
+    {
+      "word": "extinction",
+      "meaning": "the complete disappearance of a species",
+      "examples": [
+        "Habitat loss can push animals towards extinction.",
+        "Conservation aims to prevent extinction."
+      ]
+    },
+    {
+      "word": "endangered",
+      "meaning": "at serious risk of extinction",
+      "examples": [
+        "The species is officially classified as endangered.",
+        "Endangered animals need effective protection."
+      ]
+    },
+    {
+      "word": "biodiversity",
+      "meaning": "the variety of living species in an area or on Earth",
+      "examples": [
+        "Biodiversity is declining in many regions.",
+        "Healthy ecosystems depend on biodiversity."
+      ]
+    },
+    {
+      "word": "habitat loss",
+      "meaning": "the destruction or reduction of the natural places where species live",
+      "examples": [
+        "Deforestation causes major habitat loss.",
+        "Habitat loss is one of the biggest threats to wildlife."
+      ]
+    },
+    {
+      "word": "conservation",
+      "meaning": "the protection and careful management of nature",
+      "examples": [
+        "Conservation programmes have helped some species recover.",
+        "International cooperation is important for conservation."
+      ]
+    },
+    {
+      "word": "species",
+      "meaning": "a group of living organisms that can reproduce with one another",
+      "examples": [
+        "Scientists discover new species every year.",
+        "Some species adapt better to environmental change than others."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Online shopping",
+  "vocabulary": [
+    {
+      "word": "e-commerce",
+      "meaning": "the buying and selling of goods and services over the internet",
+      "examples": [
+        "E-commerce has grown rapidly in the last decade.",
+        "Small businesses can reach global customers through e-commerce."
+      ]
+    },
+    {
+      "word": "checkout",
+      "meaning": "the stage of an online purchase when a customer pays",
+      "examples": [
+        "The website has a simple checkout process.",
+        "She left the site before completing checkout."
+      ]
+    },
+    {
+      "word": "delivery",
+      "meaning": "the act of taking goods to a customer",
+      "examples": [
+        "Free delivery can encourage people to buy online.",
+        "The delivery arrived two days late."
+      ]
+    },
+    {
+      "word": "return policy",
+      "meaning": "a store's rules about sending unwanted goods back",
+      "examples": [
+        "Always check the return policy before ordering clothes.",
+        "A flexible return policy can increase customer confidence."
+      ]
+    },
+    {
+      "word": "review",
+      "meaning": "an opinion written by a customer about a product or service",
+      "examples": [
+        "I read several reviews before buying the laptop.",
+        "Positive reviews can strongly influence online sales."
+      ]
+    },
+    {
+      "word": "retailer",
+      "meaning": "a business that sells goods directly to customers",
+      "examples": [
+        "Many traditional retailers now sell products online.",
+        "The retailer offered a discount for new customers."
+      ]
+    }
+  ]
+}

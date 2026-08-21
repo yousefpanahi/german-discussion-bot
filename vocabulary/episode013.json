@@ -1,0 +1,53 @@
+{
+  "title": "Should we eat ultra-processed food?",
+  "vocabulary": [
+    {
+      "word": "ultra-processed food",
+      "meaning": "food made through extensive industrial processing and often containing many additives",
+      "examples": [
+        "Ultra-processed food is common in modern diets.",
+        "Some studies link high consumption of ultra-processed food with health risks."
+      ]
+    },
+    {
+      "word": "additive",
+      "meaning": "a substance added to food to improve flavour, colour, texture, or shelf life",
+      "examples": [
+        "The product contains several food additives.",
+        "Not all additives are harmful."
+      ]
+    },
+    {
+      "word": "preservative",
+      "meaning": "a substance added to food to stop it spoiling quickly",
+      "examples": [
+        "Preservatives can extend the shelf life of packaged food.",
+        "Some consumers prefer products without artificial preservatives."
+      ]
+    },
+    {
+      "word": "ingredient",
+      "meaning": "one of the foods or substances used to make a dish or product",
+      "examples": [
+        "Always check the ingredient list if you have allergies.",
+        "The sauce contains only five ingredients."
+      ]
+    },
+    {
+      "word": "nutrition",
+      "meaning": "the process of getting and using the food needed for health and growth",
+      "examples": [
+        "Good nutrition supports physical and mental health.",
+        "Schools can teach children about nutrition."
+      ]
+    },
+    {
+      "word": "processed",
+      "meaning": "changed from its natural state, usually during food production",
+      "examples": [
+        "Not all processed foods are unhealthy.",
+        "Frozen vegetables are processed but can still be nutritious."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "title": "One-way ticket to Mars",
+  "vocabulary": [
+    {
+      "word": "one-way mission",
+      "meaning": "a journey planned without a return trip",
+      "examples": [
+        "The proposal involved a one-way mission to Mars.",
+        "A one-way mission raises serious ethical questions."
+      ]
+    },
+    {
+      "word": "colonise",
+      "meaning": "to establish a permanent community in a new place",
+      "examples": [
+        "Some scientists discuss whether humans could colonise Mars.",
+        "Colonising another planet would require enormous resources."
+      ]
+    },
+    {
+      "word": "settlement",
+      "meaning": "a place where people establish a new community",
+      "examples": [
+        "A Martian settlement would need reliable energy and food.",
+        "The first settlement might be very small."
+      ]
+    },
+    {
+      "word": "life-support system",
+      "meaning": "equipment that provides air, water, and other conditions needed to stay alive",
+      "examples": [
+        "A Mars base would depend on a reliable life-support system.",
+        "Engineers test life-support systems for long missions."
+      ]
+    },
+    {
+      "word": "isolation",
+      "meaning": "the state of being separated from other people or places",
+      "examples": [
+        "Long-term isolation could affect astronauts' mental health.",
+        "Living on Mars would involve extreme isolation."
+      ]
+    },
+    {
+      "word": "radiation",
+      "meaning": "high-energy particles or waves that can harm living tissue",
+      "examples": [
+        "Space radiation is a major risk on a Mars mission.",
+        "Habitats would need shielding from radiation."
+      ]
+    }
+  ]
+}

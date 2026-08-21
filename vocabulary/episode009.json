@@ -1,0 +1,53 @@
+{
+  "title": "Tea drinking in the UK",
+  "vocabulary": [
+    {
+      "word": "brew",
+      "meaning": "to make tea or coffee by adding hot water",
+      "examples": [
+        "Let the tea brew for a few minutes.",
+        "She brewed a pot of tea for the guests."
+      ]
+    },
+    {
+      "word": "teapot",
+      "meaning": "a container with a handle and spout used for making and serving tea",
+      "examples": [
+        "The tea was served from a traditional teapot.",
+        "He warmed the teapot before adding the leaves."
+      ]
+    },
+    {
+      "word": "tea bag",
+      "meaning": "a small bag containing dried tea leaves for making a drink",
+      "examples": [
+        "I usually make tea with a tea bag.",
+        "Remove the tea bag after a few minutes."
+      ]
+    },
+    {
+      "word": "tea leaves",
+      "meaning": "dried leaves used to make tea",
+      "examples": [
+        "Loose tea leaves can have a stronger flavour.",
+        "The shop sells tea leaves from several countries."
+      ]
+    },
+    {
+      "word": "caffeine",
+      "meaning": "a substance in tea, coffee, and some other drinks that can make people feel more alert",
+      "examples": [
+        "Black tea contains caffeine.",
+        "Too much caffeine can affect sleep."
+      ]
+    },
+    {
+      "word": "tradition",
+      "meaning": "a custom or belief passed from one generation to another",
+      "examples": [
+        "Afternoon tea is a well-known British tradition.",
+        "Food and drink traditions change over time."
+      ]
+    }
+  ]
+}

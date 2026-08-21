@@ -1,0 +1,53 @@
+{
+  "title": "Is social media dead?",
+  "vocabulary": [
+    {
+      "word": "social media",
+      "meaning": "websites and apps that allow people to create, share, and interact with content",
+      "examples": [
+        "Social media has changed how people communicate.",
+        "Many businesses rely on social media for marketing."
+      ]
+    },
+    {
+      "word": "platform",
+      "meaning": "an online service where users communicate or share content",
+      "examples": [
+        "Young users often move from one platform to another.",
+        "The platform changed its privacy settings."
+      ]
+    },
+    {
+      "word": "engagement",
+      "meaning": "likes, comments, shares, and other interactions with online content",
+      "examples": [
+        "The post received high engagement.",
+        "Platforms try to keep users engaged for longer."
+      ]
+    },
+    {
+      "word": "algorithm",
+      "meaning": "a set of computer rules used to select or recommend content",
+      "examples": [
+        "The algorithm decides which posts appear first.",
+        "Algorithms can shape what users see online."
+      ]
+    },
+    {
+      "word": "influencer",
+      "meaning": "a person with an online audience who can affect other people's opinions or purchases",
+      "examples": [
+        "The brand hired an influencer to promote the product.",
+        "Some influencers have millions of followers."
+      ]
+    },
+    {
+      "word": "feed",
+      "meaning": "the stream of posts and content shown to a social-media user",
+      "examples": [
+        "My feed is full of travel videos.",
+        "The app personalises each user's feed."
+      ]
+    }
+  ]
+}

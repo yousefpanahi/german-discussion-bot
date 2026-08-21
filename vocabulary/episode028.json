@@ -1,0 +1,53 @@
+{
+  "title": "Pain",
+  "vocabulary": [
+    {
+      "word": "pain",
+      "meaning": "an unpleasant physical or emotional feeling caused by injury, illness, or distress",
+      "examples": [
+        "The patient described a sharp pain in his shoulder.",
+        "Pain can be difficult to measure objectively."
+      ]
+    },
+    {
+      "word": "chronic pain",
+      "meaning": "pain that continues for a long period of time",
+      "examples": [
+        "Chronic pain can affect work and sleep.",
+        "Treatment for chronic pain often combines several methods."
+      ]
+    },
+    {
+      "word": "acute pain",
+      "meaning": "pain that begins suddenly and usually has a clear cause",
+      "examples": [
+        "The injury caused severe acute pain.",
+        "Acute pain often improves as the body heals."
+      ]
+    },
+    {
+      "word": "pain threshold",
+      "meaning": "the point at which a sensation begins to feel painful",
+      "examples": [
+        "People have different pain thresholds.",
+        "Stress can influence a person's pain threshold."
+      ]
+    },
+    {
+      "word": "painkiller",
+      "meaning": "a medicine used to reduce pain",
+      "examples": [
+        "The doctor recommended a mild painkiller.",
+        "Strong painkillers can have serious side effects."
+      ]
+    },
+    {
+      "word": "inflammation",
+      "meaning": "the body's response to injury or infection, often causing swelling and pain",
+      "examples": [
+        "The medicine reduced inflammation in the joint.",
+        "Inflammation can be a normal part of healing."
+      ]
+    }
+  ]
+}

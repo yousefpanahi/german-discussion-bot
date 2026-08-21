@@ -1,0 +1,53 @@
+{
+  "title": "World Wide Web",
+  "vocabulary": [
+    {
+      "word": "World Wide Web",
+      "meaning": "the system of linked pages and resources accessed over the internet",
+      "examples": [
+        "The article gave a clear example of World Wide Web.",
+        "We discussed World Wide Web during the session."
+      ]
+    },
+    {
+      "word": "hyperlink",
+      "meaning": "a clickable connection that takes a user from one digital page or resource to another",
+      "examples": [
+        "Many people have strong opinions about hyperlink.",
+        "Understanding hyperlink helped me follow the discussion."
+      ]
+    },
+    {
+      "word": "browser",
+      "meaning": "software used to access and view websites",
+      "examples": [
+        "Browser was one of the key ideas in the article.",
+        "I used the term browser when explaining my opinion."
+      ]
+    },
+    {
+      "word": "website",
+      "meaning": "a collection of related web pages available under one domain",
+      "examples": [
+        "The speaker described how website can affect people's lives.",
+        "Our group talked about the advantages and disadvantages of website."
+      ]
+    },
+    {
+      "word": "internet",
+      "meaning": "the global network of connected computers and digital systems",
+      "examples": [
+        "The discussion made me think more carefully about internet.",
+        "Different countries may have different experiences with internet."
+      ]
+    },
+    {
+      "word": "web page",
+      "meaning": "a single document or page viewed through a web browser",
+      "examples": [
+        "I had heard of web page before, but I did not fully understand it.",
+        "After the lesson, I could explain web page in my own words."
+      ]
+    }
+  ]
+}

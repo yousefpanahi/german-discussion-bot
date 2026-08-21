@@ -1,0 +1,53 @@
+{
+  "title": "Poverty and education",
+  "vocabulary": [
+    {
+      "word": "poverty",
+      "meaning": "the condition of having very little money and not enough resources for basic needs",
+      "examples": [
+        "Poverty can prevent children from attending school regularly.",
+        "Reducing poverty can improve educational opportunities."
+      ]
+    },
+    {
+      "word": "access to education",
+      "meaning": "the ability to enter and take part in schooling or learning",
+      "examples": [
+        "Rural children may have limited access to education.",
+        "Governments are working to improve access to education."
+      ]
+    },
+    {
+      "word": "literacy",
+      "meaning": "the ability to read and write",
+      "examples": [
+        "Adult literacy programmes can change people's lives.",
+        "Higher literacy rates are often linked to better employment."
+      ]
+    },
+    {
+      "word": "school attendance",
+      "meaning": "the regular presence of students at school",
+      "examples": [
+        "Poverty can reduce school attendance.",
+        "Free meals can improve school attendance in some areas."
+      ]
+    },
+    {
+      "word": "tuition",
+      "meaning": "money paid for teaching, especially at a school or university",
+      "examples": [
+        "Some families cannot afford school tuition.",
+        "The university increased its tuition fees."
+      ]
+    },
+    {
+      "word": "scholarship",
+      "meaning": "money given to a student to help pay for education",
+      "examples": [
+        "She received a scholarship to continue her studies.",
+        "Scholarships can help talented students from low-income families."
+      ]
+    }
+  ]
+}

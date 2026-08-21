@@ -1,0 +1,53 @@
+{
+  "title": "Sleeping for learning",
+  "vocabulary": [
+    {
+      "word": "sleep",
+      "meaning": "the natural state of rest in which the body and brain recover",
+      "examples": [
+        "Good sleep supports learning and concentration.",
+        "Students should not sacrifice sleep every night to study."
+      ]
+    },
+    {
+      "word": "memory consolidation",
+      "meaning": "the process by which new memories become more stable after learning",
+      "examples": [
+        "Sleep plays an important role in memory consolidation.",
+        "Researchers study memory consolidation after different kinds of learning."
+      ]
+    },
+    {
+      "word": "recall",
+      "meaning": "the ability to remember information",
+      "examples": [
+        "A good night's sleep may improve recall.",
+        "The test measured students' recall of new words."
+      ]
+    },
+    {
+      "word": "retention",
+      "meaning": "the ability to keep information in memory over time",
+      "examples": [
+        "Spaced practice improves long-term retention.",
+        "Sleep may support the retention of newly learned material."
+      ]
+    },
+    {
+      "word": "nap",
+      "meaning": "a short period of sleep, usually during the day",
+      "examples": [
+        "A short nap helped him feel more alert.",
+        "Some studies examine whether a nap improves learning."
+      ]
+    },
+    {
+      "word": "sleep cycle",
+      "meaning": "a repeated sequence of stages during sleep",
+      "examples": [
+        "We pass through several sleep cycles each night.",
+        "Different parts of the sleep cycle may support different brain functions."
+      ]
+    }
+  ]
+}

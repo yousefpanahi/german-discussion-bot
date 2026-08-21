@@ -1,0 +1,53 @@
+{
+  "title": "Global traffic jam",
+  "vocabulary": [
+    {
+      "word": "traffic jam",
+      "meaning": "a long line of vehicles moving very slowly or not at all",
+      "examples": [
+        "We were stuck in a traffic jam for more than an hour.",
+        "Traffic jams are common during rush hour."
+      ]
+    },
+    {
+      "word": "congestion",
+      "meaning": "the state of roads being too crowded with traffic",
+      "examples": [
+        "Road congestion increases travel times.",
+        "The city introduced new measures to reduce congestion."
+      ]
+    },
+    {
+      "word": "rush hour",
+      "meaning": "the busy time when many people travel to or from work",
+      "examples": [
+        "Trains are crowded during rush hour.",
+        "Try to avoid driving through the city at rush hour."
+      ]
+    },
+    {
+      "word": "commuter",
+      "meaning": "a person who regularly travels between home and work or study",
+      "examples": [
+        "Thousands of commuters enter the city every morning.",
+        "Long delays frustrate commuters."
+      ]
+    },
+    {
+      "word": "gridlock",
+      "meaning": "a situation in which traffic cannot move because roads are completely blocked",
+      "examples": [
+        "A crash caused gridlock across the city centre.",
+        "Poor planning can lead to severe gridlock."
+      ]
+    },
+    {
+      "word": "public transport",
+      "meaning": "buses, trains, and other shared transport services",
+      "examples": [
+        "Better public transport can reduce car use.",
+        "Many commuters depend on public transport."
+      ]
+    }
+  ]
+}

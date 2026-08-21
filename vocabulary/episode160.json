@@ -1,0 +1,85 @@
+{
+  "title": "Road safety for cyclists",
+  "vocabulary": [
+    {
+      "word": "cyclist",
+      "meaning": "a person who rides a bicycle",
+      "examples": [
+        "Cyclists need safe space on busy roads.",
+        "The driver waited until it was safe to pass the cyclist."
+      ]
+    },
+    {
+      "word": "helmet",
+      "meaning": "protective equipment worn on the head",
+      "examples": [
+        "A helmet can reduce the risk of serious head injury.",
+        "The child always wears a helmet when cycling."
+      ]
+    },
+    {
+      "word": "cycle lane",
+      "meaning": "a part of the road or path intended for bicycles",
+      "examples": [
+        "Protected cycle lanes can improve safety.",
+        "Cars should not park in the cycle lane."
+      ]
+    },
+    {
+      "word": "visibility",
+      "meaning": "how easily someone or something can be seen",
+      "examples": [
+        "Bright clothing improves cyclist visibility at night.",
+        "Poor weather can reduce visibility."
+      ]
+    },
+    {
+      "word": "junction",
+      "meaning": "a place where roads meet",
+      "examples": [
+        "Many cycling collisions happen at junctions.",
+        "Drivers should check carefully for cyclists at a junction."
+      ]
+    },
+    {
+      "word": "right of way",
+      "meaning": "the legal right to go first in a traffic situation",
+      "examples": [
+        "Learn who has right of way at crossings and junctions.",
+        "Confusion about right of way can cause accidents."
+      ]
+    },
+    {
+      "word": "reflective",
+      "meaning": "able to send light back and therefore be easier to see",
+      "examples": [
+        "Reflective clothing is useful after dark.",
+        "The bicycle has reflective strips on the wheels."
+      ]
+    },
+    {
+      "word": "overtake",
+      "meaning": "to pass a slower vehicle or cyclist travelling in the same direction",
+      "examples": [
+        "Drivers should leave enough space when overtaking cyclists.",
+        "Do not overtake near a blind corner."
+      ]
+    },
+    {
+      "word": "collision",
+      "meaning": "an accident in which vehicles, cyclists, or objects hit each other",
+      "examples": [
+        "Safe road design can reduce collisions.",
+        "The cyclist avoided a collision by braking quickly."
+      ]
+    },
+    {
+      "word": "road user",
+      "meaning": "any person who uses a road, including drivers, cyclists, and pedestrians",
+      "examples": [
+        "All road users have responsibilities.",
+        "Road design should protect vulnerable road users."
+      ]
+    }
+  ]
+}

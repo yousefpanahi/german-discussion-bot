@@ -1,0 +1,53 @@
+{
+  "title": "Families",
+  "vocabulary": [
+    {
+      "word": "household",
+      "meaning": "a person or group of people living together in the same home",
+      "examples": [
+        "The article gave a clear example of household.",
+        "We discussed household during the session."
+      ]
+    },
+    {
+      "word": "nuclear family",
+      "meaning": "a family consisting mainly of parents and their children",
+      "examples": [
+        "Many people have strong opinions about nuclear family.",
+        "Understanding nuclear family helped me follow the discussion."
+      ]
+    },
+    {
+      "word": "extended family",
+      "meaning": "a family group that includes relatives beyond parents and children",
+      "examples": [
+        "Extended family was one of the key ideas in the article.",
+        "I used the term extended family when explaining my opinion."
+      ]
+    },
+    {
+      "word": "upbringing",
+      "meaning": "the way a child is raised and educated by family or caregivers",
+      "examples": [
+        "The speaker described how upbringing can affect people's lives.",
+        "Our group talked about the advantages and disadvantages of upbringing."
+      ]
+    },
+    {
+      "word": "relationship",
+      "meaning": "the way two or more people are connected and interact",
+      "examples": [
+        "The discussion made me think more carefully about relationship.",
+        "Different countries may have different experiences with relationship."
+      ]
+    },
+    {
+      "word": "generation",
+      "meaning": "a group of people born and living around the same period",
+      "examples": [
+        "I had heard of generation before, but I did not fully understand it.",
+        "After the lesson, I could explain generation in my own words."
+      ]
+    }
+  ]
+}

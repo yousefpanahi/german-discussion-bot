@@ -1,0 +1,53 @@
+{
+  "title": "Robots",
+  "vocabulary": [
+    {
+      "word": "automation",
+      "meaning": "the use of machines or software to do work with little human involvement",
+      "examples": [
+        "Automation has changed many factory jobs.",
+        "Companies use automation to increase efficiency."
+      ]
+    },
+    {
+      "word": "robotics",
+      "meaning": "the science and technology of designing and using robots",
+      "examples": [
+        "She studies robotics at university.",
+        "Advances in robotics are creating new medical tools."
+      ]
+    },
+    {
+      "word": "artificial intelligence",
+      "meaning": "computer technology that can perform tasks that normally require human intelligence",
+      "examples": [
+        "Artificial intelligence helps some robots recognise objects.",
+        "Many companies are investing in artificial intelligence."
+      ]
+    },
+    {
+      "word": "sensor",
+      "meaning": "a device that detects changes such as movement, heat, or light",
+      "examples": [
+        "The robot uses a sensor to avoid obstacles.",
+        "Modern cars contain many different sensors."
+      ]
+    },
+    {
+      "word": "autonomous",
+      "meaning": "able to operate or make decisions without direct human control",
+      "examples": [
+        "The company is testing autonomous delivery robots.",
+        "An autonomous machine still needs careful safety rules."
+      ]
+    },
+    {
+      "word": "program",
+      "meaning": "to give a computer or machine instructions for what it should do",
+      "examples": [
+        "Engineers programmed the robot to follow a route.",
+        "You can program the machine to repeat the same task."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "title": "What class are you?",
+  "vocabulary": [
+    {
+      "word": "social class",
+      "meaning": "a group in society based on factors such as income, occupation, education, and status",
+      "examples": [
+        "Social class can influence access to opportunities.",
+        "Attitudes toward social class differ between countries."
+      ]
+    },
+    {
+      "word": "working class",
+      "meaning": "a social group traditionally associated with manual or lower-paid work",
+      "examples": [
+        "The area has a strong working-class history.",
+        "Definitions of working class have changed over time."
+      ]
+    },
+    {
+      "word": "middle class",
+      "meaning": "a broad social group generally between the working and upper classes",
+      "examples": [
+        "Education and occupation are often used to describe the middle class.",
+        "The size of the middle class varies between countries."
+      ]
+    },
+    {
+      "word": "upper class",
+      "meaning": "the social group traditionally associated with high wealth or status",
+      "examples": [
+        "The programme discussed stereotypes about the upper class.",
+        "Some upper-class advantages are inherited."
+      ]
+    },
+    {
+      "word": "status",
+      "meaning": "a person's social or professional position",
+      "examples": [
+        "People sometimes use clothing to signal social status.",
+        "Status can come from wealth, occupation, or reputation."
+      ]
+    },
+    {
+      "word": "income",
+      "meaning": "money received regularly from work, investments, or other sources",
+      "examples": [
+        "Household income affects many life choices.",
+        "Income is only one way to measure social class."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "title": "Do you have good dining etiquette?",
+  "vocabulary": [
+    {
+      "word": "cutlery",
+      "meaning": "knives, forks, and spoons used for eating",
+      "examples": [
+        "The cutlery was arranged neatly beside the plate.",
+        "Use the correct cutlery for each course at a formal dinner."
+      ]
+    },
+    {
+      "word": "table manners",
+      "meaning": "accepted polite behaviour while eating",
+      "examples": [
+        "Good table manners vary between cultures.",
+        "Children often learn table manners from their families."
+      ]
+    },
+    {
+      "word": "napkin",
+      "meaning": "a piece of cloth or paper used to protect clothing and wipe the mouth while eating",
+      "examples": [
+        "Place the napkin on your lap.",
+        "He folded his napkin after the meal."
+      ]
+    },
+    {
+      "word": "course",
+      "meaning": "one part of a meal served separately",
+      "examples": [
+        "The main course was followed by dessert.",
+        "A formal dinner may have several courses."
+      ]
+    },
+    {
+      "word": "host",
+      "meaning": "a person who invites and welcomes guests",
+      "examples": [
+        "Wait for the host before beginning the meal.",
+        "The host introduced the guests to one another."
+      ]
+    },
+    {
+      "word": "guest",
+      "meaning": "a person invited to a meal, home, or event",
+      "examples": [
+        "Guests should tell the host about serious food allergies.",
+        "She was a guest at a formal dinner."
+      ]
+    },
+    {
+      "word": "serve",
+      "meaning": "to give food or drink to someone",
+      "examples": [
+        "Dinner will be served at eight.",
+        "The waiter served the soup first."
+      ]
+    },
+    {
+      "word": "chew",
+      "meaning": "to break food into smaller pieces with your teeth",
+      "examples": [
+        "Chew with your mouth closed in formal settings.",
+        "Take time to chew your food properly."
+      ]
+    },
+    {
+      "word": "table setting",
+      "meaning": "the arrangement of plates, glasses, cutlery, and other items on a dining table",
+      "examples": [
+        "The restaurant used a formal table setting.",
+        "A simple table setting is enough for an informal meal."
+      ]
+    },
+    {
+      "word": "polite",
+      "meaning": "showing good manners and consideration",
+      "examples": [
+        "It is polite to thank the host.",
+        "Dining etiquette is mainly about being polite and considerate."
+      ]
+    }
+  ]
+}

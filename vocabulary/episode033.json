@@ -1,0 +1,53 @@
+{
+  "title": "Arranging meetings",
+  "vocabulary": [
+    {
+      "word": "arrange",
+      "meaning": "to organise or plan something in advance",
+      "examples": [
+        "I'll arrange a meeting for next Tuesday.",
+        "Could you arrange a suitable time with the client?"
+      ]
+    },
+    {
+      "word": "availability",
+      "meaning": "the times when someone is free or able to do something",
+      "examples": [
+        "Please send me your availability for this week.",
+        "We need to check everyone's availability before booking the meeting."
+      ]
+    },
+    {
+      "word": "schedule",
+      "meaning": "a plan showing when activities or events will happen",
+      "examples": [
+        "The meeting is already on my schedule.",
+        "We changed the schedule because two people were unavailable."
+      ]
+    },
+    {
+      "word": "reschedule",
+      "meaning": "to arrange an event for a different time",
+      "examples": [
+        "Can we reschedule the meeting for Friday?",
+        "The manager had to reschedule because of an urgent appointment."
+      ]
+    },
+    {
+      "word": "agenda",
+      "meaning": "a list of topics to be discussed at a meeting",
+      "examples": [
+        "I'll send the agenda before the meeting.",
+        "The first item on the agenda is the project deadline."
+      ]
+    },
+    {
+      "word": "confirm",
+      "meaning": "to state that an arrangement or piece of information is definite",
+      "examples": [
+        "Please confirm whether you can attend.",
+        "She confirmed the meeting by email."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Are you a winner",
+  "vocabulary": [
+    {
+      "word": "competition",
+      "meaning": "an activity in which people try to perform better than others",
+      "examples": [
+        "Competition can motivate some people.",
+        "Not every situation needs to become a competition."
+      ]
+    },
+    {
+      "word": "achievement",
+      "meaning": "something successfully completed through effort or skill",
+      "examples": [
+        "Winning the award was a major achievement.",
+        "Personal achievements can be more important than public prizes."
+      ]
+    },
+    {
+      "word": "success",
+      "meaning": "the achievement of a goal or desired result",
+      "examples": [
+        "People define success in different ways.",
+        "Hard work can contribute to success, but luck also matters."
+      ]
+    },
+    {
+      "word": "failure",
+      "meaning": "lack of success in achieving something",
+      "examples": [
+        "Failure can provide useful lessons.",
+        "One failure does not define a person's ability."
+      ]
+    },
+    {
+      "word": "resilience",
+      "meaning": "the ability to recover after problems or disappointment",
+      "examples": [
+        "Athletes need resilience after losing.",
+        "Resilience helps people continue after setbacks."
+      ]
+    },
+    {
+      "word": "goal",
+      "meaning": "something you aim to achieve",
+      "examples": [
+        "Set a clear goal before you begin.",
+        "Her goal was to improve rather than simply win."
+      ]
+    }
+  ]
+}

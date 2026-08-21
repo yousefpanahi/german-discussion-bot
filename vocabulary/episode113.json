@@ -1,0 +1,53 @@
+{
+  "title": "Food and mood",
+  "vocabulary": [
+    {
+      "word": "mood",
+      "meaning": "a temporary emotional state or general feeling",
+      "examples": [
+        "The article gave a clear example of mood.",
+        "We discussed mood during the session."
+      ]
+    },
+    {
+      "word": "nutrition",
+      "meaning": "the process of getting and using the nutrients needed for health",
+      "examples": [
+        "Many people have strong opinions about nutrition.",
+        "Understanding nutrition helped me follow the discussion."
+      ]
+    },
+    {
+      "word": "gut-brain connection",
+      "meaning": "the two-way communication between the digestive system and the brain",
+      "examples": [
+        "Gut-brain connection was one of the key ideas in the article.",
+        "I used the term gut-brain connection when explaining my opinion."
+      ]
+    },
+    {
+      "word": "comfort food",
+      "meaning": "food eaten because it gives emotional comfort or pleasant memories",
+      "examples": [
+        "The speaker described how comfort food can affect people's lives.",
+        "Our group talked about the advantages and disadvantages of comfort food."
+      ]
+    },
+    {
+      "word": "blood sugar",
+      "meaning": "the amount of glucose present in the blood",
+      "examples": [
+        "The discussion made me think more carefully about blood sugar.",
+        "Different countries may have different experiences with blood sugar."
+      ]
+    },
+    {
+      "word": "balanced diet",
+      "meaning": "a diet containing appropriate amounts of different foods and nutrients",
+      "examples": [
+        "I had heard of balanced diet before, but I did not fully understand it.",
+        "After the lesson, I could explain balanced diet in my own words."
+      ]
+    }
+  ]
+}
