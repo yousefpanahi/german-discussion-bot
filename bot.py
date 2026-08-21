@@ -461,9 +461,9 @@ elif message_type == "vocabulary":
     )
 
     # After the final episode, restart the full cycle
-    if episode_number == 146:
+    if episode_number == 100:
         save_episode_number(0)
-        print("Episode 146 completed. Counter reset to 0.")
+        print("Episode 100 completed. Counter reset to 0.")
         
 # ==================================================
 # INVALID MESSAGE TYPE
