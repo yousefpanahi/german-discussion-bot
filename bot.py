@@ -320,7 +320,7 @@ elif message_type == "bbc_unpin":
         
 
 # ==================================================
-# 4. BBC 6 MINUTE ENGLISH EPISODE
+# 4. GERMAN DW DISCUSSION EPISODE
 # ==================================================
 
 elif message_type == "bbc":
@@ -331,78 +331,72 @@ elif message_type == "bbc":
     # The next episode
     next_episode = episode_number + 1
 
-    # Load the exact Telegram message IDs for this episode
-    episode_map = get_episode_map()
-
-    episode_key = str(next_episode)
-
-    if episode_key not in episode_map:
-        raise Exception(
-            f"Episode {next_episode} not found in episode map."
-        )
-
-    episode_info = episode_map[episode_key]
-    message_ids = episode_info["message_ids"]
-
-    print(f"Sending Episode {next_episode}")
-    print(f"Message IDs: {message_ids}")
-
-    # Load questions for this episode
+    # Load episode information
     episode_data = get_questions(next_episode)
 
     title = episode_data["title"]
     questions = episode_data["questions"]
+    audio_url = episode_data["audio_url"]
+    pdf_url = episode_data["pdf_url"]
 
-    # Send introduction first
-    message = """Hello Guys
+    print(f"Sending German Episode {next_episode}: {title}")
 
-The next topic for our free discussion will be the episode below."""
+    # Send and pin introduction
+    message = f"""Hallo zusammen 👋
+
+🇩🇪 Das nächste Thema für unsere freie Diskussion ist:
+
+Episode {next_episode}: {title}"""
 
     bbc_intro_message_id = send_message(message)
 
-    # Pin the BBC introduction
     pin_message(bbc_intro_message_id)
 
-    # Remember it so it can be unpinned later
     save_bbc_pinned_message_id(bbc_intro_message_id)
 
-    print(
-        f"BBC intro message {bbc_intro_message_id} pinned."
-    )
+    # Send DW learning material
+    material_message = f"""🎧📖 DW Deutsch lernen
 
-    # Copy description, audio and PDF using exact message IDs
-    for message_id in message_ids:
-        copy_message(message_id)
+🎧 Audio:
+{audio_url}
+
+📄 Manuskript & Wortschatz:
+{pdf_url}
+
+Bitte hört euch zuerst das Audio an und lest danach den Text."""
+
+    send_message(material_message)
 
     # Discussion introduction
-    discussion_message = f"""📚 Discussion Time!
+    discussion_message = f"""📚 Diskussionszeit!
 
-Next Session's Topic: {title}
+Thema der nächsten Sitzung:
+{title}
 
-Please discuss the following questions and try to speak as much as possible.
+Bitte besprecht die folgenden Fragen und versucht, so viel Deutsch wie möglich zu sprechen.
 
-Remember:
-• There are no perfect answers.
-• Respect different opinions.
-• Help others practice English.
+Denkt daran:
+• Es gibt keine perfekten Antworten.
+• Respektiert unterschiedliche Meinungen.
+• Helft einander beim Deutschlernen.
 
-Good luck and enjoy the discussion! 😊"""
+Viel Spaß bei der Diskussion! 😊"""
 
     send_message(discussion_message)
 
-    # Send the six questions
-    questions_message = "💬 Discussion Questions\n\n"
+    # Send six questions
+    questions_message = "💬 Diskussionsfragen\n\n"
 
     for i, question in enumerate(questions, start=1):
         questions_message += f"{i}️⃣ {question}\n\n"
 
     send_message(questions_message)
 
-    # Only advance after everything succeeded
+    # Advance counter only after everything succeeded
     save_episode_number(next_episode)
 
-    print(f"Episode {next_episode} completed successfully.")
-    
+    print(f"German Episode {next_episode} completed successfully.")
+
 
 # ==================================================
 # 5. EPISODE VOCABULARY
