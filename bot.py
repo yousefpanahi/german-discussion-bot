@@ -453,8 +453,10 @@ elif message_type == "vocabulary":
             message += (
                 f"{number_icons[i]} {item['word']}\n"
                 f"Meaning: {item['meaning']}\n\n"
-                f"🔹 {item['examples'][0]}\n"
-                f"🔹 {item['examples'][1]}\n\n"
+                f"🔹 {item['examples'][0]['de']}\n"
+                f"   🇬🇧 {item['examples'][0]['en']}\n\n"
+                f"🔹 {item['examples'][1]['de']}\n"
+                f"   🇬🇧 {item['examples'][1]['en']}\n\n"
             )
 
         send_message(message)
