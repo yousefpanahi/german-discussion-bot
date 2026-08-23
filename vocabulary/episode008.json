@@ -1,52 +1,88 @@
 {
-  "title": "Poverty and education",
+  "title": "Mit Wohnungsangeboten gegen den Fachkräftemangel?",
   "vocabulary": [
     {
-      "word": "poverty",
-      "meaning": "the condition of having very little money and not enough resources for basic needs",
+      "word": "die Fachkraft",
+      "meaning": "skilled worker",
       "examples": [
-        "Poverty can prevent children from attending school regularly.",
-        "Reducing poverty can improve educational opportunities."
+        {
+          "de": "Viele Unternehmen suchen dringend qualifizierte Fachkräfte.",
+          "en": "Many companies are urgently looking for qualified skilled workers."
+        },
+        {
+          "de": "Bezahlbarer Wohnraum kann helfen, Fachkräfte anzuziehen.",
+          "en": "Affordable housing can help attract skilled workers."
+        }
       ]
     },
     {
-      "word": "access to education",
-      "meaning": "the ability to enter and take part in schooling or learning",
+      "word": "der Wohnraum",
+      "meaning": "housing; residential space",
       "examples": [
-        "Rural children may have limited access to education.",
-        "Governments are working to improve access to education."
+        {
+          "de": "In großen Städten fehlt oft bezahlbarer Wohnraum.",
+          "en": "Large cities often lack affordable housing."
+        },
+        {
+          "de": "Die Gemeinde will neuen Wohnraum schaffen.",
+          "en": "The municipality wants to create new housing."
+        }
       ]
     },
     {
-      "word": "literacy",
-      "meaning": "the ability to read and write",
+      "word": "bezahlbar",
+      "meaning": "affordable",
       "examples": [
-        "Adult literacy programmes can change people's lives.",
-        "Higher literacy rates are often linked to better employment."
+        {
+          "de": "Für viele Familien sind die Mieten kaum noch bezahlbar.",
+          "en": "For many families, rents are hardly affordable anymore."
+        },
+        {
+          "de": "Das Unternehmen bietet seinen Mitarbeitern bezahlbare Wohnungen an.",
+          "en": "The company offers its employees affordable apartments."
+        }
       ]
     },
     {
-      "word": "school attendance",
-      "meaning": "the regular presence of students at school",
+      "word": "etwas anmieten",
+      "meaning": "to rent or lease something",
       "examples": [
-        "Poverty can reduce school attendance.",
-        "Free meals can improve school attendance in some areas."
+        {
+          "de": "Die Firma möchte mehrere Wohnungen anmieten.",
+          "en": "The company wants to rent several apartments."
+        },
+        {
+          "de": "Für neue Beschäftigte wurden Zimmer in der Nähe angemietet.",
+          "en": "Rooms nearby were rented for new employees."
+        }
       ]
     },
     {
-      "word": "tuition",
-      "meaning": "money paid for teaching, especially at a school or university",
+      "word": "der Standort",
+      "meaning": "location; business site",
       "examples": [
-        "Some families cannot afford school tuition.",
-        "The university increased its tuition fees."
+        {
+          "de": "Ein guter Standort braucht auch genügend Wohnraum.",
+          "en": "A good business location also needs enough housing."
+        },
+        {
+          "de": "Die hohen Mieten machen den Standort für Fachkräfte weniger attraktiv.",
+          "en": "High rents make the location less attractive to skilled workers."
+        }
       ]
     },
     {
-      "word": "scholarship",
-      "meaning": "money given to a student to help pay for education",
+      "word": "etwas zur Verfügung stellen",
+      "meaning": "to make something available",
       "examples": [
-        "She received a scholarship to continue her studies.",
-        "Scholarships can help talented students from low-income families."
+        {
+          "de": "Der Arbeitgeber stellt neuen Mitarbeitern Wohnungen zur Verfügung.",
+          "en": "The employer makes apartments available to new employees."
+        },
+        {
+          "de": "Die Stadt stellt zusätzliche Flächen für Wohnungsbau zur Verfügung.",
+          "en": "The city makes additional land available for housing construction."
+        }
       ]
     }
   ]

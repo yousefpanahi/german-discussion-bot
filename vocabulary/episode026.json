@@ -1,52 +1,88 @@
 {
-  "title": "The secret of happiness",
+  "title": "Die Macht des Geruchssinns",
   "vocabulary": [
     {
-      "word": "happiness",
-      "meaning": "a feeling of pleasure, satisfaction, or contentment",
+      "word": "der Geruchssinn",
+      "meaning": "sense of smell",
       "examples": [
-        "People define happiness in different ways.",
-        "Good relationships are strongly linked to happiness."
+        {
+          "de": "Der Geruchssinn ist eng mit Erinnerungen verbunden.",
+          "en": "The sense of smell is closely connected to memories."
+        },
+        {
+          "de": "Nach einer Erkältung war sein Geruchssinn für einige Tage schwächer.",
+          "en": "After a cold, his sense of smell was weaker for a few days."
+        }
       ]
     },
     {
-      "word": "contentment",
-      "meaning": "a peaceful feeling of being satisfied with what you have",
+      "word": "der Körperduft",
+      "meaning": "body scent; natural smell of a person",
       "examples": [
-        "She found contentment in a simple daily routine.",
-        "Money alone does not guarantee contentment."
+        {
+          "de": "Der natürliche Körperduft kann unsere Wahrnehmung anderer Menschen beeinflussen.",
+          "en": "A person's natural body scent can influence how we perceive them."
+        },
+        {
+          "de": "Parfüm verändert den wahrgenommenen Körperduft.",
+          "en": "Perfume changes the perceived body scent."
+        }
       ]
     },
     {
-      "word": "wellbeing",
-      "meaning": "the state of being healthy, comfortable, and satisfied with life",
+      "word": "das Wahrnehmungssystem",
+      "meaning": "perceptual system",
       "examples": [
-        "Regular exercise can improve mental wellbeing.",
-        "Social connection is important for wellbeing."
+        {
+          "de": "Unser Wahrnehmungssystem verarbeitet gleichzeitig viele Informationen.",
+          "en": "Our perceptual system processes many pieces of information at the same time."
+        },
+        {
+          "de": "Gerüche sind ein wichtiger Teil des menschlichen Wahrnehmungssystems.",
+          "en": "Smells are an important part of the human perceptual system."
+        }
       ]
     },
     {
-      "word": "gratitude",
-      "meaning": "a feeling of appreciation for something good",
+      "word": "jemanden beeinflussen",
+      "meaning": "to influence someone",
       "examples": [
-        "Practising gratitude can change how people view their lives.",
-        "She expressed gratitude for her friends' support."
+        {
+          "de": "Gerüche können unsere Stimmung unbewusst beeinflussen.",
+          "en": "Smells can unconsciously influence our mood."
+        },
+        {
+          "de": "Werbung versucht, Kaufentscheidungen gezielt zu beeinflussen.",
+          "en": "Advertising tries to deliberately influence purchasing decisions."
+        }
       ]
     },
     {
-      "word": "purpose",
-      "meaning": "a meaningful reason for doing something or living in a particular way",
+      "word": "eine Bindung schaffen",
+      "meaning": "to create a bond or connection",
       "examples": [
-        "Having a sense of purpose can improve wellbeing.",
-        "Volunteering gave him a stronger sense of purpose."
+        {
+          "de": "Gemeinsame Erlebnisse können eine starke Bindung schaffen.",
+          "en": "Shared experiences can create a strong bond."
+        },
+        {
+          "de": "Auch vertraute Gerüche können zwischen Menschen eine emotionale Bindung schaffen.",
+          "en": "Familiar smells can also create an emotional bond between people."
+        }
       ]
     },
     {
-      "word": "fulfilment",
-      "meaning": "a feeling of satisfaction from doing something meaningful",
+      "word": "zuverlässig",
+      "meaning": "reliable; dependable",
       "examples": [
-        "She found fulfilment in teaching.",
-        "Career success does not always lead to personal fulfilment."
+        {
+          "de": "Der Test liefert nicht in jedem Fall zuverlässige Ergebnisse.",
+          "en": "The test does not produce reliable results in every case."
+        },
+        {
+          "de": "Mein Geruchssinn erkennt vertraute Düfte sehr zuverlässig.",
+          "en": "My sense of smell recognises familiar scents very reliably."
+        }
       ]
     }
   ]

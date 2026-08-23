@@ -1,52 +1,88 @@
 {
-  "title": "TV addicts",
+  "title": "Dunkle Nächte – wichtig für Mensch und Natur",
   "vocabulary": [
     {
-      "word": "addiction",
-      "meaning": "a strong and difficult-to-control need to do or use something",
+      "word": "die Lichtverschmutzung",
+      "meaning": "light pollution",
       "examples": [
-        "Screen addiction can affect sleep and concentration.",
-        "Some people describe their television habits as an addiction."
+        {
+          "de": "Lichtverschmutzung macht den Nachthimmel in Städten sehr hell.",
+          "en": "Light pollution makes the night sky in cities very bright."
+        },
+        {
+          "de": "Weniger Beleuchtung kann die Lichtverschmutzung reduzieren.",
+          "en": "Less lighting can reduce light pollution."
+        }
       ]
     },
     {
-      "word": "binge-watch",
-      "meaning": "to watch many episodes of a programme one after another",
+      "word": "die Beleuchtung",
+      "meaning": "lighting; illumination",
       "examples": [
-        "We binge-watched the whole series over the weekend.",
-        "Streaming platforms make it easy to binge-watch."
+        {
+          "de": "Die Beleuchtung auf dieser Straße ist nachts sehr stark.",
+          "en": "The lighting on this street is very strong at night."
+        },
+        {
+          "de": "Die Stadt möchte ihre öffentliche Beleuchtung energiesparender machen.",
+          "en": "The city wants to make its public lighting more energy-efficient."
+        }
       ]
     },
     {
-      "word": "screen time",
-      "meaning": "the amount of time spent using televisions, computers, or phones",
+      "word": "das Wahrzeichen",
+      "meaning": "landmark; a well-known symbol of a place",
       "examples": [
-        "Parents often worry about children's screen time.",
-        "Reducing screen time before bed may improve sleep."
+        {
+          "de": "Der Turm ist ein bekanntes Wahrzeichen der Stadt.",
+          "en": "The tower is a well-known landmark of the city."
+        },
+        {
+          "de": "Manche Wahrzeichen werden nachts nicht mehr die ganze Zeit beleuchtet.",
+          "en": "Some landmarks are no longer illuminated all night."
+        }
       ]
     },
     {
-      "word": "viewer",
-      "meaning": "a person who watches television or online video",
+      "word": "künstlich",
+      "meaning": "artificial; not natural",
       "examples": [
-        "The programme attracted millions of viewers.",
-        "Viewers can now choose what they watch and when."
+        {
+          "de": "Künstliches Licht kann den Schlaf beeinflussen.",
+          "en": "Artificial light can affect sleep."
+        },
+        {
+          "de": "Viele Tiere reagieren empfindlich auf künstliche Beleuchtung.",
+          "en": "Many animals react sensitively to artificial lighting."
+        }
       ]
     },
     {
-      "word": "sedentary",
-      "meaning": "involving a lot of sitting and little physical activity",
+      "word": "die Orientierung verlieren",
+      "meaning": "to lose one's sense of direction",
       "examples": [
-        "Watching television for hours is a sedentary activity.",
-        "A sedentary lifestyle can affect your health."
+        {
+          "de": "Manche Zugvögel verlieren durch starkes Licht die Orientierung.",
+          "en": "Some migratory birds lose their sense of direction because of strong light."
+        },
+        {
+          "de": "Im dunklen Wald kann man schnell die Orientierung verlieren.",
+          "en": "You can quickly lose your sense of direction in a dark forest."
+        }
       ]
     },
     {
-      "word": "habit",
-      "meaning": "something you do regularly, often without thinking",
+      "word": "den Energieverbrauch reduzieren",
+      "meaning": "to reduce energy consumption",
       "examples": [
-        "Watching the news after dinner became a daily habit.",
-        "Changing a long-term habit can be difficult."
+        {
+          "de": "Die Stadt will nachts den Energieverbrauch reduzieren.",
+          "en": "The city wants to reduce energy consumption at night."
+        },
+        {
+          "de": "LED-Lampen können helfen, den Energieverbrauch zu reduzieren.",
+          "en": "LED lights can help reduce energy consumption."
+        }
       ]
     }
   ]

@@ -1,52 +1,88 @@
 {
-  "title": "The power of poetry",
+  "title": "Singlereisen liegen im Trend",
   "vocabulary": [
     {
-      "word": "poetry",
-      "meaning": "literature written in a concentrated and imaginative form, often using rhythm or imagery",
+      "word": "im Trend liegen",
+      "meaning": "to be trendy; to be increasingly popular",
       "examples": [
-        "Poetry can express feelings that are difficult to explain directly.",
-        "She began reading poetry when she was a teenager."
+        {
+          "de": "Reisen allein liegt bei vielen Menschen im Trend.",
+          "en": "Travelling alone is increasingly popular with many people."
+        },
+        {
+          "de": "Auch nachhaltige Urlaubsformen liegen im Trend.",
+          "en": "Sustainable forms of travel are also becoming trendy."
+        }
       ]
     },
     {
-      "word": "verse",
-      "meaning": "writing arranged in lines with a particular rhythm, especially poetry",
+      "word": "die Autonomie",
+      "meaning": "autonomy; the ability to make independent decisions",
       "examples": [
-        "The poem is written in simple verse.",
-        "He memorised a short verse for the event."
+        {
+          "de": "Auf einer Singlereise genießt sie ihre Autonomie.",
+          "en": "She enjoys her autonomy on a solo trip."
+        },
+        {
+          "de": "Für viele Reisende ist persönliche Autonomie sehr wichtig.",
+          "en": "Personal autonomy is very important to many travellers."
+        }
       ]
     },
     {
-      "word": "metaphor",
-      "meaning": "a way of describing something by saying it is something else",
+      "word": "das Image",
+      "meaning": "image; the public impression of a person or thing",
       "examples": [
-        "The poet uses a river as a metaphor for life.",
-        "Metaphors can make difficult ideas easier to imagine."
+        {
+          "de": "Singlereisen hatten früher manchmal ein anderes Image.",
+          "en": "Solo travel sometimes had a different image in the past."
+        },
+        {
+          "de": "Soziale Medien können das Image eines Reiseziels verändern.",
+          "en": "Social media can change the image of a travel destination."
+        }
       ]
     },
     {
-      "word": "imagery",
-      "meaning": "language that creates strong pictures or sensations in the mind",
+      "word": "sich mit jemandem abstimmen",
+      "meaning": "to coordinate or agree with someone",
       "examples": [
-        "The poem uses vivid imagery of the sea.",
-        "Good imagery can make a poem memorable."
+        {
+          "de": "In einer Gruppe muss man sich oft mit anderen abstimmen.",
+          "en": "In a group, you often have to coordinate with others."
+        },
+        {
+          "de": "Alle Reisenden stimmten sich über den Tagesplan ab.",
+          "en": "All the travellers coordinated with each other about the day's plan."
+        }
       ]
     },
     {
-      "word": "rhythm",
-      "meaning": "a regular pattern of sounds or movements",
+      "word": "die Studienreise",
+      "meaning": "study trip; an organised trip with an educational focus",
       "examples": [
-        "The poem has a gentle rhythm.",
-        "Rhythm helps give spoken poetry its musical quality."
+        {
+          "de": "Meine Eltern haben eine Studienreise nach Italien gebucht.",
+          "en": "My parents booked a study trip to Italy."
+        },
+        {
+          "de": "Bei einer Studienreise lernt man viel über Kultur und Geschichte.",
+          "en": "On a study trip, you learn a lot about culture and history."
+        }
       ]
     },
     {
-      "word": "recite",
-      "meaning": "to say a poem or other text aloud from memory",
+      "word": "etwas schätzen",
+      "meaning": "to appreciate or value something",
       "examples": [
-        "The student recited a poem in front of the class.",
-        "Actors often practise how to recite verse naturally."
+        {
+          "de": "Ich schätze die Freiheit, meinen Tag selbst zu planen.",
+          "en": "I appreciate the freedom to plan my day myself."
+        },
+        {
+          "de": "Viele Alleinreisende schätzen ihre Unabhängigkeit.",
+          "en": "Many solo travellers value their independence."
+        }
       ]
     }
   ]

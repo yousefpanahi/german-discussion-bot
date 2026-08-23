@@ -1,52 +1,88 @@
 {
-  "title": "Good news",
+  "title": "Lehrermangel in Deutschland",
   "vocabulary": [
     {
-      "word": "headline",
-      "meaning": "the title of a newspaper or online news story",
+      "word": "der Mangel",
+      "meaning": "shortage; lack",
       "examples": [
-        "The positive story became the main headline.",
-        "Headlines are designed to attract readers' attention."
+        {
+          "de": "An vielen Schulen herrscht ein Mangel an Lehrkräften.",
+          "en": "Many schools have a shortage of teachers."
+        },
+        {
+          "de": "Der Mangel an Personal führt zu zusätzlichen Belastungen.",
+          "en": "The shortage of staff creates additional pressure."
+        }
       ]
     },
     {
-      "word": "uplifting",
-      "meaning": "making someone feel happier or more hopeful",
+      "word": "sich verschärfen",
+      "meaning": "to become more severe or serious",
       "examples": [
-        "The programme shared several uplifting stories.",
-        "People sometimes need uplifting news during difficult periods."
+        {
+          "de": "Der Lehrermangel könnte sich in den nächsten Jahren verschärfen.",
+          "en": "The teacher shortage could become more severe in the coming years."
+        },
+        {
+          "de": "Ohne neue Maßnahmen wird sich das Problem weiter verschärfen.",
+          "en": "Without new measures, the problem will become even more serious."
+        }
       ]
     },
     {
-      "word": "positive news",
-      "meaning": "news about helpful, successful, or hopeful events",
+      "word": "die Lehrkraft",
+      "meaning": "teacher; teaching professional",
       "examples": [
-        "The website focuses on positive news.",
-        "Positive news can balance constant coverage of crises."
+        {
+          "de": "Jede Lehrkraft betreut mehrere Klassen.",
+          "en": "Each teacher looks after several classes."
+        },
+        {
+          "de": "Gute Arbeitsbedingungen können den Beruf für Lehrkräfte attraktiver machen.",
+          "en": "Good working conditions can make the profession more attractive to teachers."
+        }
       ]
     },
     {
-      "word": "news coverage",
-      "meaning": "the way a news organisation reports an event or topic",
+      "word": "ausfallen",
+      "meaning": "to be cancelled or not take place",
       "examples": [
-        "The discovery received wide news coverage.",
-        "News coverage often focuses on conflict and problems."
+        {
+          "de": "Wegen Personalmangels fällt heute eine Unterrichtsstunde aus.",
+          "en": "A lesson is cancelled today because of staff shortages."
+        },
+        {
+          "de": "Wenn viele Lehrkräfte krank sind, kann Unterricht ausfallen.",
+          "en": "When many teachers are ill, lessons may be cancelled."
+        }
       ]
     },
     {
-      "word": "bias",
-      "meaning": "an unfair preference that influences judgement or reporting",
+      "word": "die Bürokratie",
+      "meaning": "bureaucracy; administrative rules and paperwork",
       "examples": [
-        "Readers should be aware of possible media bias.",
-        "Selection bias can affect which stories appear in the news."
+        {
+          "de": "Zu viel Bürokratie kostet Schulen viel Zeit.",
+          "en": "Too much bureaucracy costs schools a lot of time."
+        },
+        {
+          "de": "Ausländische Fachkräfte erleben bei der Anerkennung oft komplizierte Bürokratie.",
+          "en": "Foreign professionals often face complicated bureaucracy when getting their qualifications recognised."
+        }
       ]
     },
     {
-      "word": "audience",
-      "meaning": "the people who watch, read, or listen to media",
+      "word": "die Anerkennung",
+      "meaning": "recognition; official acceptance of a qualification",
       "examples": [
-        "News organisations compete for audience attention.",
-        "Different audiences prefer different kinds of stories."
+        {
+          "de": "Die Anerkennung ausländischer Abschlüsse kann lange dauern.",
+          "en": "Recognition of foreign qualifications can take a long time."
+        },
+        {
+          "de": "Eine schnellere Anerkennung könnte mehr Lehrkräfte in die Schulen bringen.",
+          "en": "Faster recognition could bring more teachers into schools."
+        }
       ]
     }
   ]

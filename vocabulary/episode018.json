@@ -1,52 +1,88 @@
 {
-  "title": "Texting and walking made illegal",
+  "title": "Handy aus: Offline sein ist im Trend",
   "vocabulary": [
     {
-      "word": "distracted walking",
-      "meaning": "walking while paying attention to a phone or another distraction",
+      "word": "offline",
+      "meaning": "offline; not connected to the internet",
       "examples": [
-        "Distracted walking can be dangerous near traffic.",
-        "The campaign warns pedestrians about distracted walking."
+        {
+          "de": "Am Wochenende möchte ich einige Stunden offline sein.",
+          "en": "At the weekend, I want to be offline for a few hours."
+        },
+        {
+          "de": "Im Urlaub war sie bewusst einen ganzen Tag offline.",
+          "en": "On holiday, she deliberately stayed offline for a whole day."
+        }
       ]
     },
     {
-      "word": "pedestrian",
-      "meaning": "a person travelling on foot",
+      "word": "die Bildschirmzeit",
+      "meaning": "screen time",
       "examples": [
-        "Drivers must give way to pedestrians at crossings.",
-        "The law was designed to protect pedestrians."
+        {
+          "de": "Ich versuche, meine tägliche Bildschirmzeit zu reduzieren.",
+          "en": "I try to reduce my daily screen time."
+        },
+        {
+          "de": "Eltern diskutieren oft darüber, wie viel Bildschirmzeit für Kinder sinnvoll ist.",
+          "en": "Parents often discuss how much screen time is appropriate for children."
+        }
       ]
     },
     {
-      "word": "fine",
-      "meaning": "money paid as a punishment for breaking a rule or law",
+      "word": "etwas ausschalten",
+      "meaning": "to switch something off",
       "examples": [
-        "People caught texting while crossing may receive a fine.",
-        "The city increased the fine for dangerous behaviour."
+        {
+          "de": "Beim Essen schalten wir unsere Handys aus.",
+          "en": "We switch off our phones while eating."
+        },
+        {
+          "de": "Es tut gut, Benachrichtigungen für eine Weile auszuschalten.",
+          "en": "It feels good to switch off notifications for a while."
+        }
       ]
     },
     {
-      "word": "ban",
-      "meaning": "an official rule that prevents an activity",
+      "word": "die Altersgrenze",
+      "meaning": "age limit",
       "examples": [
-        "Some cities have discussed a ban on texting while crossing roads.",
-        "Critics say a ban is difficult to enforce."
+        {
+          "de": "Für manche Plattformen gibt es eine offizielle Altersgrenze.",
+          "en": "Some platforms have an official age limit."
+        },
+        {
+          "de": "Eine Altersgrenze allein löst das Problem der Mediennutzung nicht.",
+          "en": "An age limit alone does not solve the problem of media use."
+        }
       ]
     },
     {
-      "word": "enforcement",
-      "meaning": "the act of making sure a law or rule is followed",
+      "word": "die psychische Gesundheit",
+      "meaning": "mental health",
       "examples": [
-        "Police are responsible for enforcement of the new rule.",
-        "Without enforcement, the law may have little effect."
+        {
+          "de": "Zu wenig Schlaf kann die psychische Gesundheit belasten.",
+          "en": "Too little sleep can harm mental health."
+        },
+        {
+          "de": "Viele Jugendliche sprechen heute offener über psychische Gesundheit.",
+          "en": "Many young people today talk more openly about mental health."
+        }
       ]
     },
     {
-      "word": "distraction",
-      "meaning": "something that takes attention away from what a person should be focusing on",
+      "word": "bildschirmfixiert",
+      "meaning": "overly focused on screens",
       "examples": [
-        "Phones are a major distraction for some pedestrians.",
-        "A moment of distraction can cause an accident."
+        {
+          "de": "Manche Eltern machen sich Sorgen, dass ihre Kinder zu bildschirmfixiert sind.",
+          "en": "Some parents worry that their children are too focused on screens."
+        },
+        {
+          "de": "Wer ständig aufs Handy schaut, wirkt schnell bildschirmfixiert.",
+          "en": "Someone who constantly looks at their phone can quickly seem overly focused on screens."
+        }
       ]
     }
   ]

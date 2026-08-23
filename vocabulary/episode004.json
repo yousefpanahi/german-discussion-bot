@@ -1,52 +1,88 @@
 {
-  "title": "How advertisers make us spend money",
+  "title": "#BookTok: Wo junge Menschen Bücher entdecken",
   "vocabulary": [
     {
-      "word": "advertising",
-      "meaning": "the activity of promoting products or services to persuade people to buy them",
+      "word": "der Hashtag",
+      "meaning": "hashtag; a keyword marked with # on social media",
       "examples": [
-        "Advertising can strongly influence consumer behaviour.",
-        "Children are exposed to advertising on many digital platforms."
+        {
+          "de": "Unter dem Hashtag BookTok findet man viele Buchempfehlungen.",
+          "en": "You can find many book recommendations under the BookTok hashtag."
+        },
+        {
+          "de": "Ein Hashtag kann ein Thema schnell sichtbar machen.",
+          "en": "A hashtag can quickly make a topic visible."
+        }
       ]
     },
     {
-      "word": "consumer",
-      "meaning": "a person who buys goods or services",
+      "word": "die Rezension",
+      "meaning": "review; an evaluation of a book, film, or other work",
       "examples": [
-        "Consumers often compare prices before making a purchase.",
-        "Advertising tries to attract the attention of consumers."
+        {
+          "de": "Ich lese vor dem Kauf oft Rezensionen.",
+          "en": "I often read reviews before buying."
+        },
+        {
+          "de": "Ihre kurze Rezension hat mich neugierig auf den Roman gemacht.",
+          "en": "Her short review made me curious about the novel."
+        }
       ]
     },
     {
-      "word": "persuasion",
-      "meaning": "the act of convincing someone to think or do something",
+      "word": "der Roman",
+      "meaning": "novel",
       "examples": [
-        "Advertisers use several techniques of persuasion.",
-        "Emotional persuasion can be more effective than facts."
+        {
+          "de": "Dieser Roman wurde durch soziale Medien sehr bekannt.",
+          "en": "This novel became very well known through social media."
+        },
+        {
+          "de": "Ich lese im Urlaub gern einen langen Roman.",
+          "en": "I like reading a long novel on holiday."
+        }
       ]
     },
     {
-      "word": "brand",
-      "meaning": "a name or image that identifies a company's products",
+      "word": "der Bestseller",
+      "meaning": "bestseller; a book that sells extremely well",
       "examples": [
-        "A strong brand can create customer loyalty.",
-        "People often pay more for a famous brand."
+        {
+          "de": "Das Buch wurde innerhalb weniger Wochen zum Bestseller.",
+          "en": "The book became a bestseller within a few weeks."
+        },
+        {
+          "de": "Nicht jeder Bestseller gefällt allen Lesern.",
+          "en": "Not every bestseller appeals to every reader."
+        }
       ]
     },
     {
-      "word": "target audience",
-      "meaning": "the particular group of people an advertisement is designed to reach",
+      "word": "der Verlag",
+      "meaning": "publishing house",
       "examples": [
-        "The campaign was created for a younger target audience.",
-        "Advertisers study their target audience carefully."
+        {
+          "de": "Der Verlag veröffentlicht jedes Jahr viele neue Bücher.",
+          "en": "The publishing house publishes many new books every year."
+        },
+        {
+          "de": "Verlage beobachten inzwischen auch Trends in sozialen Medien.",
+          "en": "Publishing houses now also monitor trends on social media."
+        }
       ]
     },
     {
-      "word": "slogan",
-      "meaning": "a short memorable phrase used in advertising",
+      "word": "etwas veröffentlichen",
+      "meaning": "to publish or make something public",
       "examples": [
-        "The company introduced a new advertising slogan.",
-        "A good slogan is easy to remember."
+        {
+          "de": "Die Autorin veröffentlicht nächstes Jahr einen neuen Roman.",
+          "en": "The author is publishing a new novel next year."
+        },
+        {
+          "de": "Viele Nutzer veröffentlichen kurze Videos über ihre Lieblingsbücher.",
+          "en": "Many users publish short videos about their favourite books."
+        }
       ]
     }
   ]

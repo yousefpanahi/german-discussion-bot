@@ -1,52 +1,88 @@
 {
-  "title": "Pain",
+  "title": "Mallorca – Trauminsel nur für Reiche?",
   "vocabulary": [
     {
-      "word": "pain",
-      "meaning": "an unpleasant physical or emotional feeling caused by injury, illness, or distress",
+      "word": "die Immobilie",
+      "meaning": "property; real estate",
       "examples": [
-        "The patient described a sharp pain in his shoulder.",
-        "Pain can be difficult to measure objectively."
+        {
+          "de": "Die Preise für Immobilien sind auf der Insel stark gestiegen.",
+          "en": "Property prices on the island have risen sharply."
+        },
+        {
+          "de": "Viele ausländische Käufer interessieren sich für Immobilien am Meer.",
+          "en": "Many foreign buyers are interested in properties by the sea."
+        }
       ]
     },
     {
-      "word": "chronic pain",
-      "meaning": "pain that continues for a long period of time",
+      "word": "die Einheimischen",
+      "meaning": "local residents; native inhabitants",
       "examples": [
-        "Chronic pain can affect work and sleep.",
-        "Treatment for chronic pain often combines several methods."
+        {
+          "de": "Für viele Einheimische sind die Mieten zu hoch geworden.",
+          "en": "Rents have become too high for many local residents."
+        },
+        {
+          "de": "Die Einheimischen fordern mehr bezahlbaren Wohnraum.",
+          "en": "Local residents are demanding more affordable housing."
+        }
       ]
     },
     {
-      "word": "acute pain",
-      "meaning": "pain that begins suddenly and usually has a clear cause",
+      "word": "bezahlbar",
+      "meaning": "affordable",
       "examples": [
-        "The injury caused severe acute pain.",
-        "Acute pain often improves as the body heals."
+        {
+          "de": "Junge Familien finden kaum noch bezahlbare Wohnungen.",
+          "en": "Young families can hardly find affordable apartments anymore."
+        },
+        {
+          "de": "Touristische Regionen brauchen auch bezahlbaren Wohnraum für Beschäftigte.",
+          "en": "Tourist regions also need affordable housing for workers."
+        }
       ]
     },
     {
-      "word": "pain threshold",
-      "meaning": "the point at which a sensation begins to feel painful",
+      "word": "sich gegenseitig überbieten",
+      "meaning": "to outbid one another",
       "examples": [
-        "People have different pain thresholds.",
-        "Stress can influence a person's pain threshold."
+        {
+          "de": "Reiche Käufer überbieten sich gegenseitig bei attraktiven Immobilien.",
+          "en": "Wealthy buyers outbid one another for attractive properties."
+        },
+        {
+          "de": "Bei der Auktion versuchten mehrere Interessenten, sich gegenseitig zu überbieten.",
+          "en": "At the auction, several interested buyers tried to outbid one another."
+        }
       ]
     },
     {
-      "word": "painkiller",
-      "meaning": "a medicine used to reduce pain",
+      "word": "der Privatbesitz",
+      "meaning": "private ownership; privately owned property",
       "examples": [
-        "The doctor recommended a mild painkiller.",
-        "Strong painkillers can have serious side effects."
+        {
+          "de": "Ein großer Teil des Grundstücks ist in Privatbesitz.",
+          "en": "A large part of the land is privately owned."
+        },
+        {
+          "de": "Auch Flächen in Privatbesitz können für die Öffentlichkeit wichtig sein.",
+          "en": "Areas in private ownership can also be important to the public."
+        }
       ]
     },
     {
-      "word": "inflammation",
-      "meaning": "the body's response to injury or infection, often causing swelling and pain",
+      "word": "etwas durchsetzen",
+      "meaning": "to enforce or successfully implement something",
       "examples": [
-        "The medicine reduced inflammation in the joint.",
-        "Inflammation can be a normal part of healing."
+        {
+          "de": "Die Gemeinde möchte strengere Regeln durchsetzen.",
+          "en": "The municipality wants to enforce stricter rules."
+        },
+        {
+          "de": "Politische Forderungen lassen sich nicht immer leicht durchsetzen.",
+          "en": "Political demands cannot always be implemented easily."
+        }
       ]
     }
   ]

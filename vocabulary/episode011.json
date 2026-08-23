@@ -1,52 +1,88 @@
 {
-  "title": "Why are we all so stressed?",
+  "title": "Lärm in den Weltmeeren",
   "vocabulary": [
     {
-      "word": "stress",
-      "meaning": "a state of mental or emotional pressure caused by difficult situations",
+      "word": "lebenswichtig",
+      "meaning": "vital; essential for life",
       "examples": [
-        "Work stress can affect sleep and health.",
-        "Many people experience stress during busy periods."
+        {
+          "de": "Akustische Signale sind für viele Meerestiere lebenswichtig.",
+          "en": "Acoustic signals are vital for many marine animals."
+        },
+        {
+          "de": "Sauberes Wasser ist für jedes Ökosystem lebenswichtig.",
+          "en": "Clean water is vital for every ecosystem."
+        }
       ]
     },
     {
-      "word": "pressure",
-      "meaning": "a feeling of worry caused by demands or expectations",
+      "word": "die Nahrungssuche",
+      "meaning": "search for food",
       "examples": [
-        "She felt pressure to finish the project quickly.",
-        "Financial pressure can affect family relationships."
+        {
+          "de": "Wale nutzen Geräusche auch bei der Nahrungssuche.",
+          "en": "Whales also use sounds when searching for food."
+        },
+        {
+          "de": "Starker Lärm kann Tiere bei der Nahrungssuche stören.",
+          "en": "Loud noise can disturb animals while they search for food."
+        }
       ]
     },
     {
-      "word": "burnout",
-      "meaning": "physical and emotional exhaustion caused by long-term stress or overwork",
+      "word": "der Fressfeind",
+      "meaning": "predator; an animal that hunts another animal",
       "examples": [
-        "Long working hours can lead to burnout.",
-        "He took time off after experiencing burnout."
+        {
+          "de": "Viele Tiere erkennen Fressfeinde an Geräuschen.",
+          "en": "Many animals recognise predators by sounds."
+        },
+        {
+          "de": "Junge Fische müssen sich vor ihren Fressfeinden schützen.",
+          "en": "Young fish have to protect themselves from predators."
+        }
       ]
     },
     {
-      "word": "workload",
-      "meaning": "the amount of work a person has to do",
+      "word": "die Fortpflanzung",
+      "meaning": "reproduction",
       "examples": [
-        "A heavy workload can increase stress.",
-        "The manager redistributed the workload among the team."
+        {
+          "de": "Unterwasserlärm kann die Fortpflanzung mancher Arten beeinträchtigen.",
+          "en": "Underwater noise can affect the reproduction of some species."
+        },
+        {
+          "de": "Für das Überleben einer Art ist erfolgreiche Fortpflanzung entscheidend.",
+          "en": "Successful reproduction is crucial for the survival of a species."
+        }
       ]
     },
     {
-      "word": "anxiety",
-      "meaning": "a feeling of worry, nervousness, or fear",
+      "word": "die Lärmquelle",
+      "meaning": "source of noise",
       "examples": [
-        "Constant stress can contribute to anxiety.",
-        "Exercise helps some people manage anxiety."
+        {
+          "de": "Schiffe sind eine wichtige Lärmquelle im Meer.",
+          "en": "Ships are a major source of noise in the sea."
+        },
+        {
+          "de": "Beim Bau von Windparks entstehen zusätzliche Lärmquellen.",
+          "en": "Additional sources of noise arise during the construction of wind farms."
+        }
       ]
     },
     {
-      "word": "cope",
-      "meaning": "to deal successfully with a difficult situation",
+      "word": "die Energiewende",
+      "meaning": "energy transition",
       "examples": [
-        "People use different methods to cope with stress.",
-        "She found it difficult to cope with the pressure."
+        {
+          "de": "Die Energiewende führt zum Bau vieler Anlagen auf dem Meer.",
+          "en": "The energy transition is leading to the construction of many facilities at sea."
+        },
+        {
+          "de": "Auch bei der Energiewende muss der Naturschutz berücksichtigt werden.",
+          "en": "Nature conservation must also be considered during the energy transition."
+        }
       ]
     }
   ]

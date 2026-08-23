@@ -1,52 +1,88 @@
 {
-  "title": "Hong Kong's airport expansion",
+  "title": "Warum wir gern über andere reden",
   "vocabulary": [
     {
-      "word": "airport expansion",
-      "meaning": "the enlargement of an airport to increase its capacity or services",
+      "word": "lästern",
+      "meaning": "to gossip or speak negatively about someone who is absent",
       "examples": [
-        "The airport expansion includes a new runway.",
-        "Residents debated the environmental effects of airport expansion."
+        {
+          "de": "Es ist unfair, hinter dem Rücken eines Kollegen zu lästern.",
+          "en": "It is unfair to gossip about a colleague behind their back."
+        },
+        {
+          "de": "Viele Menschen lästern, obwohl sie Tratsch selbst nicht mögen.",
+          "en": "Many people gossip even though they do not like gossip themselves."
+        }
       ]
     },
     {
-      "word": "runway",
-      "meaning": "a long strip of ground where aircraft take off and land",
+      "word": "der Tratsch",
+      "meaning": "gossip",
       "examples": [
-        "The airport plans to build a third runway.",
-        "Heavy rain temporarily closed one runway."
+        {
+          "de": "Im Büro verbreitet sich Tratsch manchmal sehr schnell.",
+          "en": "Gossip sometimes spreads very quickly in the office."
+        },
+        {
+          "de": "Harmloser Tratsch kann trotzdem jemanden verletzen.",
+          "en": "Even harmless gossip can hurt someone."
+        }
       ]
     },
     {
-      "word": "terminal",
-      "meaning": "a building at an airport where passengers arrive, depart, and use services",
+      "word": "das Vorurteil",
+      "meaning": "prejudice; preconceived negative judgement",
       "examples": [
-        "The new terminal can handle millions of passengers.",
-        "We arrived at the international terminal early."
+        {
+          "de": "Tratsch kann bestehende Vorurteile verstärken.",
+          "en": "Gossip can reinforce existing prejudices."
+        },
+        {
+          "de": "Wir sollten Menschen kennenlernen, bevor wir uns ein Vorurteil bilden.",
+          "en": "We should get to know people before forming a prejudice."
+        }
       ]
     },
     {
-      "word": "capacity",
-      "meaning": "the maximum amount or number that a place or system can handle",
+      "word": "die Reputation",
+      "meaning": "reputation",
       "examples": [
-        "The expansion will increase airport capacity.",
-        "The existing airport is close to full capacity."
+        {
+          "de": "Eine falsche Behauptung kann die Reputation einer Person beschädigen.",
+          "en": "A false claim can damage a person's reputation."
+        },
+        {
+          "de": "Im Beruf ist eine gute Reputation oft wichtig.",
+          "en": "A good reputation is often important in professional life."
+        }
       ]
     },
     {
-      "word": "passenger",
-      "meaning": "a person travelling in a vehicle but not driving or operating it",
+      "word": "jemanden verurteilen",
+      "meaning": "to condemn or judge someone negatively",
       "examples": [
-        "Passenger numbers have grown rapidly.",
-        "The airport serves millions of passengers each year."
+        {
+          "de": "Man sollte niemanden aufgrund eines Gerüchts verurteilen.",
+          "en": "You should not judge anyone because of a rumour."
+        },
+        {
+          "de": "Die Gesellschaft verurteilt Mobbing und beleidigendes Verhalten.",
+          "en": "Society condemns bullying and insulting behaviour."
+        }
       ]
     },
     {
-      "word": "air traffic",
-      "meaning": "the movement of aircraft through an area or airport",
+      "word": "sich von jemandem fernhalten",
+      "meaning": "to keep away from someone",
       "examples": [
-        "Air traffic has increased in the region.",
-        "Controllers manage air traffic safely."
+        {
+          "de": "Nach der Warnung hielt er sich von dieser Person fern.",
+          "en": "After the warning, he kept away from that person."
+        },
+        {
+          "de": "Kinder lernen manchmal durch andere, von wem sie sich besser fernhalten sollten.",
+          "en": "Children sometimes learn from others whom they should better keep away from."
+        }
       ]
     }
   ]

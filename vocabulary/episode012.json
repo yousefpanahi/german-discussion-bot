@@ -1,52 +1,88 @@
 {
-  "title": "Love the foods you hate",
+  "title": "Darum gibt es Massentourismus",
   "vocabulary": [
     {
-      "word": "taste",
-      "meaning": "the sense used to experience flavours in food",
+      "word": "der Massentourismus",
+      "meaning": "mass tourism",
       "examples": [
-        "Taste can change as people get older.",
-        "Our sense of taste influences what foods we enjoy."
+        {
+          "de": "Massentourismus verändert viele beliebte Urlaubsorte.",
+          "en": "Mass tourism changes many popular holiday destinations."
+        },
+        {
+          "de": "Einige Städte suchen nach Wegen, den Massentourismus zu begrenzen.",
+          "en": "Some cities are looking for ways to limit mass tourism."
+        }
       ]
     },
     {
-      "word": "bitter",
-      "meaning": "having a sharp, unpleasant taste like strong coffee or some vegetables",
+      "word": "die Infrastruktur",
+      "meaning": "infrastructure",
       "examples": [
-        "Some people dislike bitter vegetables.",
-        "Children may become more comfortable with bitter tastes over time."
+        {
+          "de": "Gute Infrastruktur macht ein Reiseziel leichter erreichbar.",
+          "en": "Good infrastructure makes a destination easier to reach."
+        },
+        {
+          "de": "Zu viele Besucher können die lokale Infrastruktur überlasten.",
+          "en": "Too many visitors can overload local infrastructure."
+        }
       ]
     },
     {
-      "word": "acquired taste",
-      "meaning": "a food or drink that people learn to like after trying it several times",
+      "word": "die Anbindung",
+      "meaning": "transport connection; accessibility by transport",
       "examples": [
-        "Olives can be an acquired taste.",
-        "Strong cheese is an acquired taste for some people."
+        {
+          "de": "Eine gute Bahnanbindung bringt mehr Gäste in die Region.",
+          "en": "A good rail connection brings more visitors to the region."
+        },
+        {
+          "de": "Die Insel hat eine schnelle Anbindung an viele europäische Städte.",
+          "en": "The island has fast connections to many European cities."
+        }
       ]
     },
     {
-      "word": "preference",
-      "meaning": "a greater liking for one thing than another",
+      "word": "der Hotspot",
+      "meaning": "hotspot; a very popular or concentrated location",
       "examples": [
-        "Food preferences often develop during childhood.",
-        "My preference is for spicy food."
+        {
+          "de": "Die Altstadt ist im Sommer ein touristischer Hotspot.",
+          "en": "The old town is a tourist hotspot in summer."
+        },
+        {
+          "de": "Soziale Medien können einen ruhigen Ort plötzlich zum Hotspot machen.",
+          "en": "Social media can suddenly turn a quiet place into a hotspot."
+        }
       ]
     },
     {
-      "word": "flavour",
-      "meaning": "the particular taste and smell of a food or drink",
+      "word": "die Erreichbarkeit",
+      "meaning": "accessibility; ease of reaching a place",
       "examples": [
-        "Roasting gives vegetables a sweeter flavour.",
-        "Herbs can add flavour without much salt."
+        {
+          "de": "Die Erreichbarkeit eines Urlaubsortes beeinflusst seine Beliebtheit.",
+          "en": "The accessibility of a holiday destination affects its popularity."
+        },
+        {
+          "de": "Billigflüge haben die Erreichbarkeit vieler Städte verbessert.",
+          "en": "Low-cost flights have improved the accessibility of many cities."
+        }
       ]
     },
     {
-      "word": "texture",
-      "meaning": "the way food feels in the mouth",
+      "word": "das Reiseziel",
+      "meaning": "travel destination",
       "examples": [
-        "Some people dislike mushrooms because of their texture.",
-        "Cooking can completely change a food's texture."
+        {
+          "de": "Dieses Reiseziel ist besonders bei jungen Menschen beliebt.",
+          "en": "This travel destination is especially popular with young people."
+        },
+        {
+          "de": "Wir suchen ein ruhigeres Reiseziel außerhalb der Hochsaison.",
+          "en": "We are looking for a quieter destination outside peak season."
+        }
       ]
     }
   ]

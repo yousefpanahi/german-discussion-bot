@@ -1,52 +1,88 @@
 {
-  "title": "One-way ticket to Mars",
+  "title": "Museumsbesuch auf Rezept",
   "vocabulary": [
     {
-      "word": "one-way mission",
-      "meaning": "a journey planned without a return trip",
+      "word": "das Pilotprojekt",
+      "meaning": "pilot project; a small-scale trial",
       "examples": [
-        "The proposal involved a one-way mission to Mars.",
-        "A one-way mission raises serious ethical questions."
+        {
+          "de": "Die Stadt testet die Idee zunächst in einem Pilotprojekt.",
+          "en": "The city is initially testing the idea in a pilot project."
+        },
+        {
+          "de": "Ein erfolgreiches Pilotprojekt kann später erweitert werden.",
+          "en": "A successful pilot project can later be expanded."
+        }
       ]
     },
     {
-      "word": "colonise",
-      "meaning": "to establish a permanent community in a new place",
+      "word": "jemandem etwas verschreiben",
+      "meaning": "to prescribe something to someone",
       "examples": [
-        "Some scientists discuss whether humans could colonise Mars.",
-        "Colonising another planet would require enormous resources."
+        {
+          "de": "Der Arzt verschreibt ihr normalerweise Medikamente.",
+          "en": "The doctor normally prescribes her medication."
+        },
+        {
+          "de": "In dem Projekt können Ärzte auch kulturelle Aktivitäten verschreiben.",
+          "en": "In the project, doctors can also prescribe cultural activities."
+        }
       ]
     },
     {
-      "word": "settlement",
-      "meaning": "a place where people establish a new community",
+      "word": "die Isolation",
+      "meaning": "isolation; separation from social contact",
       "examples": [
-        "A Martian settlement would need reliable energy and food.",
-        "The first settlement might be very small."
+        {
+          "de": "Ein Museumsbesuch kann Menschen aus sozialer Isolation herausholen.",
+          "en": "A museum visit can help bring people out of social isolation."
+        },
+        {
+          "de": "Lange Isolation kann das Wohlbefinden stark beeinträchtigen.",
+          "en": "Long-term isolation can seriously affect well-being."
+        }
       ]
     },
     {
-      "word": "life-support system",
-      "meaning": "equipment that provides air, water, and other conditions needed to stay alive",
+      "word": "die Prävention",
+      "meaning": "prevention",
       "examples": [
-        "A Mars base would depend on a reliable life-support system.",
-        "Engineers test life-support systems for long missions."
+        {
+          "de": "Bewegung spielt bei der Prävention vieler Krankheiten eine Rolle.",
+          "en": "Exercise plays a role in preventing many illnesses."
+        },
+        {
+          "de": "Auch soziale Kontakte können Teil gesundheitlicher Prävention sein.",
+          "en": "Social contact can also be part of health prevention."
+        }
       ]
     },
     {
-      "word": "isolation",
-      "meaning": "the state of being separated from other people or places",
+      "word": "etwas belegen",
+      "meaning": "to prove or provide evidence for something",
       "examples": [
-        "Long-term isolation could affect astronauts' mental health.",
-        "Living on Mars would involve extreme isolation."
+        {
+          "de": "Mehrere Studien belegen einen Zusammenhang zwischen Kultur und Wohlbefinden.",
+          "en": "Several studies provide evidence of a link between culture and well-being."
+        },
+        {
+          "de": "Die Daten belegen noch nicht, dass die Maßnahme für alle Menschen wirkt.",
+          "en": "The data do not yet prove that the measure works for everyone."
+        }
       ]
     },
     {
-      "word": "radiation",
-      "meaning": "high-energy particles or waves that can harm living tissue",
+      "word": "jemanden motivieren",
+      "meaning": "to motivate someone",
       "examples": [
-        "Space radiation is a major risk on a Mars mission.",
-        "Habitats would need shielding from radiation."
+        {
+          "de": "Das kostenlose Ticket soll Menschen zu einem Museumsbesuch motivieren.",
+          "en": "The free ticket is intended to motivate people to visit a museum."
+        },
+        {
+          "de": "Gute Erfahrungen können jemanden motivieren, öfter kulturelle Angebote zu nutzen.",
+          "en": "Good experiences can motivate someone to use cultural activities more often."
+        }
       ]
     }
   ]

@@ -1,52 +1,88 @@
 {
-  "title": "Dress code debate",
+  "title": "Trinkbrunnen statt Plastikflaschen",
   "vocabulary": [
     {
-      "word": "dress code",
-      "meaning": "a set of rules about what clothes people should wear",
+      "word": "der Trinkbrunnen",
+      "meaning": "drinking fountain",
       "examples": [
-        "The company introduced a more relaxed dress code.",
-        "Employees disagreed about whether the dress code was necessary."
+        {
+          "de": "Am Bahnhof wurde ein neuer Trinkbrunnen installiert.",
+          "en": "A new drinking fountain was installed at the station."
+        },
+        {
+          "de": "Im Sommer nutzen viele Menschen öffentliche Trinkbrunnen.",
+          "en": "Many people use public drinking fountains in summer."
+        }
       ]
     },
     {
-      "word": "formal attire",
-      "meaning": "clothes suitable for professional or ceremonial situations",
+      "word": "die Hitzewelle",
+      "meaning": "heatwave",
       "examples": [
-        "Formal attire is expected at some business events.",
-        "He wore formal attire to the interview."
+        {
+          "de": "Während einer Hitzewelle ist genügend Trinkwasser besonders wichtig.",
+          "en": "During a heatwave, enough drinking water is especially important."
+        },
+        {
+          "de": "Die Stadt eröffnet bei jeder Hitzewelle zusätzliche Wasserstellen.",
+          "en": "The city opens additional water points during every heatwave."
+        }
       ]
     },
     {
-      "word": "casual",
-      "meaning": "informal and relaxed in style",
+      "word": "der Gesetzentwurf",
+      "meaning": "draft law; proposed legislation",
       "examples": [
-        "The office allows casual clothes on Fridays.",
-        "Her outfit was comfortable but still appropriate for a casual workplace."
+        {
+          "de": "Der Gesetzentwurf sieht mehr öffentliche Trinkbrunnen vor.",
+          "en": "The draft law provides for more public drinking fountains."
+        },
+        {
+          "de": "Über den Gesetzentwurf wird im Parlament diskutiert.",
+          "en": "The draft law is being discussed in parliament."
+        }
       ]
     },
     {
-      "word": "professional appearance",
-      "meaning": "the way someone looks when dressed suitably for work",
+      "word": "die Kommune",
+      "meaning": "municipality; local authority",
       "examples": [
-        "A professional appearance can affect first impressions.",
-        "The company gives new employees guidance on professional appearance."
+        {
+          "de": "Die Kommune ist für viele öffentliche Einrichtungen zuständig.",
+          "en": "The municipality is responsible for many public facilities."
+        },
+        {
+          "de": "Einige Kommunen bauen neue Trinkbrunnen im Stadtzentrum.",
+          "en": "Some municipalities are building new drinking fountains in the city centre."
+        }
       ]
     },
     {
-      "word": "appropriate",
-      "meaning": "suitable for a particular situation",
+      "word": "der öffentliche Raum",
+      "meaning": "public space",
       "examples": [
-        "Jeans may be appropriate in some workplaces but not others.",
-        "Choose clothing that is appropriate for the event."
+        {
+          "de": "Im öffentlichen Raum sollte Trinkwasser leicht zugänglich sein.",
+          "en": "Drinking water should be easily accessible in public spaces."
+        },
+        {
+          "de": "Parks und Plätze gehören zum öffentlichen Raum.",
+          "en": "Parks and squares are part of public space."
+        }
       ]
     },
     {
-      "word": "uniform",
-      "meaning": "a standard set of clothes worn by members of an organisation",
+      "word": "die Plastikflasche",
+      "meaning": "plastic bottle",
       "examples": [
-        "Staff members must wear a uniform.",
-        "A uniform can make employees easy to identify."
+        {
+          "de": "Ich versuche, keine Einweg-Plastikflaschen mehr zu kaufen.",
+          "en": "I try not to buy single-use plastic bottles anymore."
+        },
+        {
+          "de": "Trinkbrunnen können den Verbrauch von Plastikflaschen verringern.",
+          "en": "Drinking fountains can reduce the use of plastic bottles."
+        }
       ]
     }
   ]

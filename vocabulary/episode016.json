@@ -1,52 +1,88 @@
 {
-  "title": "Africa's economic progress",
+  "title": "Was passiert, wenn wir Sprachen erlernen?",
   "vocabulary": [
     {
-      "word": "economic growth",
-      "meaning": "an increase in the amount of goods and services an economy produces",
+      "word": "sich etwas einprägen",
+      "meaning": "to memorise or firmly remember something",
       "examples": [
-        "Several African economies have experienced strong economic growth.",
-        "Economic growth does not always benefit everyone equally."
+        {
+          "de": "Neue Wörter prägen sich durch Wiederholung besser ein.",
+          "en": "New words are easier to remember through repetition."
+        },
+        {
+          "de": "Ich versuche, mir jeden Tag fünf neue Ausdrücke einzuprägen.",
+          "en": "I try to memorise five new expressions every day."
+        }
       ]
     },
     {
-      "word": "development",
-      "meaning": "the process of improving economic and social conditions",
+      "word": "die Sprachverarbeitung",
+      "meaning": "language processing",
       "examples": [
-        "Infrastructure is important for economic development.",
-        "The region has made progress in development."
+        {
+          "de": "Beim Sprachenlernen verändert sich die Sprachverarbeitung im Gehirn.",
+          "en": "Language processing in the brain changes when learning languages."
+        },
+        {
+          "de": "Forscher untersuchen, wie die Sprachverarbeitung bei Mehrsprachigen funktioniert.",
+          "en": "Researchers study how language processing works in multilingual people."
+        }
       ]
     },
     {
-      "word": "investment",
-      "meaning": "money put into a project or business to produce future benefits",
+      "word": "die Nervenzelle",
+      "meaning": "nerve cell; neuron",
       "examples": [
-        "Foreign investment can create jobs.",
-        "The country needs more investment in transport and energy."
+        {
+          "de": "Das Gehirn besteht aus Milliarden von Nervenzellen.",
+          "en": "The brain consists of billions of nerve cells."
+        },
+        {
+          "de": "Beim Lernen entstehen neue Verbindungen zwischen Nervenzellen.",
+          "en": "New connections between nerve cells form during learning."
+        }
       ]
     },
     {
-      "word": "infrastructure",
-      "meaning": "basic systems such as roads, electricity, and communications needed by a society",
+      "word": "anpassungsfähig",
+      "meaning": "adaptable; able to adjust",
       "examples": [
-        "Poor infrastructure can slow economic growth.",
-        "Governments are investing in new infrastructure."
+        {
+          "de": "Unser Gehirn bleibt auch im Erwachsenenalter anpassungsfähig.",
+          "en": "Our brain remains adaptable even in adulthood."
+        },
+        {
+          "de": "Anpassungsfähige Lernende probieren verschiedene Methoden aus.",
+          "en": "Adaptable learners try different methods."
+        }
       ]
     },
     {
-      "word": "entrepreneur",
-      "meaning": "a person who starts and runs a business",
+      "word": "die Erstsprache",
+      "meaning": "first language",
       "examples": [
-        "Young entrepreneurs are creating technology companies.",
-        "The entrepreneur received funding to expand her business."
+        {
+          "de": "Ihre Erstsprache ist Spanisch, aber sie spricht auch sehr gut Deutsch.",
+          "en": "Her first language is Spanish, but she also speaks German very well."
+        },
+        {
+          "de": "Beim Lernen einer neuen Sprache kann die Erstsprache helfen oder manchmal stören.",
+          "en": "When learning a new language, the first language can help or sometimes interfere."
+        }
       ]
     },
     {
-      "word": "middle class",
-      "meaning": "the social group between the richest and poorest groups",
+      "word": "das Gedächtnis",
+      "meaning": "memory",
       "examples": [
-        "A growing middle class can increase consumer spending.",
-        "The country's middle class has expanded."
+        {
+          "de": "Regelmäßiges Lernen trainiert das Gedächtnis.",
+          "en": "Regular learning trains the memory."
+        },
+        {
+          "de": "Schlaf ist wichtig, damit das Gedächtnis neue Informationen speichert.",
+          "en": "Sleep is important so that memory can store new information."
+        }
       ]
     }
   ]

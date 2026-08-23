@@ -1,52 +1,88 @@
 {
-  "title": "Youth unemployment crisis",
+  "title": "Die Vorteile der Handschrift",
   "vocabulary": [
     {
-      "word": "unemployment",
-      "meaning": "the state of not having a job while wanting and being able to work",
+      "word": "die Handschrift",
+      "meaning": "handwriting",
       "examples": [
-        "Youth unemployment remains high in some countries.",
-        "Long-term unemployment can damage confidence."
+        {
+          "de": "Ihre Handschrift ist sehr gut lesbar.",
+          "en": "Her handwriting is very easy to read."
+        },
+        {
+          "de": "Viele Menschen schreiben heute seltener längere Texte in Handschrift.",
+          "en": "Many people today write longer texts by hand less often."
+        }
       ]
     },
     {
-      "word": "job market",
-      "meaning": "the system in which employers look for workers and people look for jobs",
+      "word": "die Motorik",
+      "meaning": "motor skills; control of movement",
       "examples": [
-        "Graduates are entering a difficult job market.",
-        "Digital skills are increasingly valuable in the job market."
+        {
+          "de": "Schreiben mit der Hand trainiert die Feinmotorik.",
+          "en": "Writing by hand trains fine motor skills."
+        },
+        {
+          "de": "Bei kleinen Kindern entwickelt sich die Motorik Schritt für Schritt.",
+          "en": "Young children's motor skills develop step by step."
+        }
       ]
     },
     {
-      "word": "graduate",
-      "meaning": "a person who has completed a university or college course",
+      "word": "das Gedächtnis",
+      "meaning": "memory",
       "examples": [
-        "Many graduates struggle to find their first job.",
-        "The company recruits new graduates every year."
+        {
+          "de": "Handschriftliche Notizen können das Gedächtnis unterstützen.",
+          "en": "Handwritten notes can support memory."
+        },
+        {
+          "de": "Ich wiederhole neue Wörter, damit sie im Gedächtnis bleiben.",
+          "en": "I repeat new words so that they stay in my memory."
+        }
       ]
     },
     {
-      "word": "apprenticeship",
-      "meaning": "a programme that combines paid work with practical training",
+      "word": "etwas fördern",
+      "meaning": "to promote or support something",
       "examples": [
-        "An apprenticeship can provide valuable work experience.",
-        "The government is expanding apprenticeship opportunities."
+        {
+          "de": "Lesen und Schreiben fördern die Sprachentwicklung.",
+          "en": "Reading and writing promote language development."
+        },
+        {
+          "de": "Die Schule möchte kreatives Denken stärker fördern.",
+          "en": "The school wants to promote creative thinking more strongly."
+        }
       ]
     },
     {
-      "word": "skills gap",
-      "meaning": "a difference between the skills employers need and the skills workers have",
+      "word": "tippen",
+      "meaning": "to type",
       "examples": [
-        "Training programmes can reduce the skills gap.",
-        "Employers say the skills gap makes recruitment harder."
+        {
+          "de": "Ich tippe E-Mails schneller, als ich mit der Hand schreibe.",
+          "en": "I type emails faster than I write by hand."
+        },
+        {
+          "de": "Viele Studierende tippen ihre Notizen direkt in den Laptop.",
+          "en": "Many students type their notes directly into a laptop."
+        }
       ]
     },
     {
-      "word": "entry-level",
-      "meaning": "suitable for someone starting a career with little experience",
+      "word": "etwas überarbeiten",
+      "meaning": "to revise or edit something",
       "examples": [
-        "She applied for several entry-level jobs.",
-        "Entry-level salaries vary widely by industry."
+        {
+          "de": "Am Computer lässt sich ein Text leicht überarbeiten.",
+          "en": "A text can easily be revised on a computer."
+        },
+        {
+          "de": "Vor der Abgabe überarbeite ich meinen Bericht noch einmal.",
+          "en": "I revise my report once more before submitting it."
+        }
       ]
     }
   ]

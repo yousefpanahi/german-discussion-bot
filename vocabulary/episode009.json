@@ -1,52 +1,88 @@
 {
-  "title": "Tea drinking in the UK",
+  "title": "Armut mitten im reichen Deutschland",
   "vocabulary": [
     {
-      "word": "brew",
-      "meaning": "to make tea or coffee by adding hot water",
+      "word": "die Armut",
+      "meaning": "poverty",
       "examples": [
-        "Let the tea brew for a few minutes.",
-        "She brewed a pot of tea for the guests."
+        {
+          "de": "Armut gibt es auch in wirtschaftlich starken Ländern.",
+          "en": "Poverty also exists in economically strong countries."
+        },
+        {
+          "de": "Kinder sind von Armut besonders stark betroffen.",
+          "en": "Children are particularly affected by poverty."
+        }
       ]
     },
     {
-      "word": "teapot",
-      "meaning": "a container with a handle and spout used for making and serving tea",
+      "word": "von etwas betroffen sein",
+      "meaning": "to be affected by something",
       "examples": [
-        "The tea was served from a traditional teapot.",
-        "He warmed the teapot before adding the leaves."
+        {
+          "de": "Viele Haushalte sind von steigenden Preisen betroffen.",
+          "en": "Many households are affected by rising prices."
+        },
+        {
+          "de": "Alleinerziehende können besonders stark von Armut betroffen sein.",
+          "en": "Single parents can be particularly affected by poverty."
+        }
       ]
     },
     {
-      "word": "tea bag",
-      "meaning": "a small bag containing dried tea leaves for making a drink",
+      "word": "die Kluft",
+      "meaning": "gap; a major difference between groups",
       "examples": [
-        "I usually make tea with a tea bag.",
-        "Remove the tea bag after a few minutes."
+        {
+          "de": "Die Kluft zwischen Arm und Reich wird größer.",
+          "en": "The gap between rich and poor is growing."
+        },
+        {
+          "de": "Politik soll die soziale Kluft nicht weiter wachsen lassen.",
+          "en": "Politics should not allow the social gap to grow further."
+        }
       ]
     },
     {
-      "word": "tea leaves",
-      "meaning": "dried leaves used to make tea",
+      "word": "auf etwas verzichten",
+      "meaning": "to do without or give up something",
       "examples": [
-        "Loose tea leaves can have a stronger flavour.",
-        "The shop sells tea leaves from several countries."
+        {
+          "de": "Manche Familien müssen auf Urlaubsreisen verzichten.",
+          "en": "Some families have to do without holidays."
+        },
+        {
+          "de": "Wer wenig Geld hat, verzichtet oft zuerst auf Freizeitaktivitäten.",
+          "en": "People with little money often give up leisure activities first."
+        }
       ]
     },
     {
-      "word": "caffeine",
-      "meaning": "a substance in tea, coffee, and some other drinks that can make people feel more alert",
+      "word": "die Grundsicherung",
+      "meaning": "basic state financial support",
       "examples": [
-        "Black tea contains caffeine.",
-        "Too much caffeine can affect sleep."
+        {
+          "de": "Einige Menschen sind auf Grundsicherung angewiesen.",
+          "en": "Some people depend on basic state financial support."
+        },
+        {
+          "de": "Die Grundsicherung soll das notwendige Existenzminimum sichern.",
+          "en": "Basic income support is intended to secure the minimum needed for living."
+        }
       ]
     },
     {
-      "word": "tradition",
-      "meaning": "a custom or belief passed from one generation to another",
+      "word": "bedürftig",
+      "meaning": "in need; requiring financial or social help",
       "examples": [
-        "Afternoon tea is a well-known British tradition.",
-        "Food and drink traditions change over time."
+        {
+          "de": "Die Organisation unterstützt bedürftige Familien.",
+          "en": "The organisation supports families in need."
+        },
+        {
+          "de": "Nicht alle Bedürftigen beantragen die Hilfe, die ihnen zusteht.",
+          "en": "Not everyone in need applies for the support they are entitled to."
+        }
       ]
     }
   ]

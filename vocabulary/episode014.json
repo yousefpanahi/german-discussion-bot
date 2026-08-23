@@ -1,52 +1,88 @@
 {
-  "title": "The future of food",
+  "title": "KI: Filmschaffende fürchten um ihre Zukunft",
   "vocabulary": [
     {
-      "word": "food technology",
-      "meaning": "the use of science and technology to produce, preserve, or improve food",
+      "word": "die Künstliche Intelligenz",
+      "meaning": "artificial intelligence",
       "examples": [
-        "Food technology may help feed a growing population.",
-        "Researchers are developing new forms of food technology."
+        {
+          "de": "Künstliche Intelligenz verändert viele kreative Berufe.",
+          "en": "Artificial intelligence is changing many creative professions."
+        },
+        {
+          "de": "Im Film kann Künstliche Intelligenz Bilder und Stimmen erzeugen.",
+          "en": "In film, artificial intelligence can generate images and voices."
+        }
       ]
     },
     {
-      "word": "lab-grown meat",
-      "meaning": "meat produced from animal cells rather than by raising and slaughtering an animal",
+      "word": "die Filmschaffenden",
+      "meaning": "film professionals; people who work in filmmaking",
       "examples": [
-        "Lab-grown meat could reduce the need for livestock farming.",
-        "Consumers have mixed opinions about lab-grown meat."
+        {
+          "de": "Viele Filmschaffende fordern klare Regeln für den Einsatz von KI.",
+          "en": "Many film professionals are calling for clear rules on the use of AI."
+        },
+        {
+          "de": "Filmschaffende arbeiten in sehr unterschiedlichen Berufen.",
+          "en": "Film professionals work in many different occupations."
+        }
       ]
     },
     {
-      "word": "plant-based",
-      "meaning": "made mainly from plants rather than animal products",
+      "word": "das Drehbuch",
+      "meaning": "screenplay; script for a film",
       "examples": [
-        "Plant-based proteins are becoming more popular.",
-        "The restaurant added several plant-based meals."
+        {
+          "de": "Das Drehbuch wurde mehrmals überarbeitet.",
+          "en": "The screenplay was revised several times."
+        },
+        {
+          "de": "Eine KI kann heute schon Teile eines Drehbuchs schreiben.",
+          "en": "An AI can already write parts of a screenplay today."
+        }
       ]
     },
     {
-      "word": "sustainable",
-      "meaning": "able to continue without causing serious environmental harm",
+      "word": "die Arbeit niederlegen",
+      "meaning": "to stop working as a form of protest; go on strike",
       "examples": [
-        "Scientists are searching for more sustainable food systems.",
-        "Eating seasonal food can be a sustainable choice."
+        {
+          "de": "Die Beschäftigten legten aus Protest die Arbeit nieder.",
+          "en": "The employees stopped working in protest."
+        },
+        {
+          "de": "Viele Filmschaffende legten die Arbeit nieder, um bessere Bedingungen zu fordern.",
+          "en": "Many film professionals went on strike to demand better conditions."
+        }
       ]
     },
     {
-      "word": "food security",
-      "meaning": "reliable access to enough safe and nutritious food",
+      "word": "das Abbild",
+      "meaning": "likeness; representation or copy of someone's appearance",
       "examples": [
-        "Climate change can threaten food security.",
-        "New technologies may improve food security in dry regions."
+        {
+          "de": "Das digitale Abbild des Schauspielers sieht erstaunlich echt aus.",
+          "en": "The actor's digital likeness looks surprisingly real."
+        },
+        {
+          "de": "Niemand sollte ohne Zustimmung ein künstliches Abbild einer Person verwenden.",
+          "en": "No one should use an artificial likeness of a person without consent."
+        }
       ]
     },
     {
-      "word": "alternative protein",
-      "meaning": "a protein source used instead of conventional meat, such as plants or insects",
+      "word": "die Regulierung",
+      "meaning": "regulation; official rules controlling an activity",
       "examples": [
-        "Companies are investing in alternative proteins.",
-        "Alternative protein could become more common in future diets."
+        {
+          "de": "Die Branche fordert eine klare Regulierung von KI.",
+          "en": "The industry is calling for clear regulation of AI."
+        },
+        {
+          "de": "Gute Regulierung soll schützen, ohne Innovation zu verhindern.",
+          "en": "Good regulation should protect people without preventing innovation."
+        }
       ]
     }
   ]

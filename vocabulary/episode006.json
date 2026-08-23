@@ -1,52 +1,88 @@
 {
-  "title": "Rude emails",
+  "title": "K-Pop: Woher kommt der Erfolg?",
   "vocabulary": [
     {
-      "word": "rude",
-      "meaning": "not polite and likely to offend someone",
+      "word": "eingängig",
+      "meaning": "catchy; easy to remember",
       "examples": [
-        "The email sounded rude even though the writer did not intend it.",
-        "Avoid rude language in professional messages."
+        {
+          "de": "Der Song hat eine eingängige Melodie.",
+          "en": "The song has a catchy melody."
+        },
+        {
+          "de": "Eingängige Refrains bleiben oft lange im Kopf.",
+          "en": "Catchy choruses often stay in your head for a long time."
+        }
       ]
     },
     {
-      "word": "tone",
-      "meaning": "the attitude or feeling expressed in someone's words",
+      "word": "die Choreografie",
+      "meaning": "choreography; planned dance movements",
       "examples": [
-        "The tone of her email was too aggressive.",
-        "It is easy to misunderstand tone in written communication."
+        {
+          "de": "Die Band übt eine komplizierte Choreografie.",
+          "en": "The band is practising a complicated choreography."
+        },
+        {
+          "de": "Bei K-Pop ist die Choreografie oft genauso wichtig wie die Musik.",
+          "en": "In K-pop, the choreography is often just as important as the music."
+        }
       ]
     },
     {
-      "word": "offensive",
-      "meaning": "causing someone to feel upset, insulted, or angry",
+      "word": "die Community",
+      "meaning": "community; a group connected by a shared interest",
       "examples": [
-        "The manager asked him to remove the offensive comment.",
-        "A joke can be offensive in another culture."
+        {
+          "de": "Die Fan-Community organisiert regelmäßig Treffen.",
+          "en": "The fan community regularly organises meetings."
+        },
+        {
+          "de": "In einer guten Community unterstützen sich die Mitglieder gegenseitig.",
+          "en": "In a good community, members support each other."
+        }
       ]
     },
     {
-      "word": "blunt",
-      "meaning": "very direct in a way that may seem impolite",
+      "word": "die Schattenseite",
+      "meaning": "downside; negative aspect",
       "examples": [
-        "His reply was honest but too blunt.",
-        "Blunt emails can damage professional relationships."
+        {
+          "de": "Berühmtheit hat auch ihre Schattenseiten.",
+          "en": "Fame also has its downsides."
+        },
+        {
+          "de": "Der Artikel beschreibt die Schattenseiten der Musikindustrie.",
+          "en": "The article describes the downsides of the music industry."
+        }
       ]
     },
     {
-      "word": "misinterpret",
-      "meaning": "to understand something in the wrong way",
+      "word": "der Fan",
+      "meaning": "fan; an enthusiastic supporter",
       "examples": [
-        "The client misinterpreted the short message as anger.",
-        "People can easily misinterpret written communication."
+        {
+          "de": "Sie ist seit Jahren Fan dieser Band.",
+          "en": "She has been a fan of this band for years."
+        },
+        {
+          "de": "Viele Fans lernen die Tänze ihrer Idole nach.",
+          "en": "Many fans learn to imitate their idols' dances."
+        }
       ]
     },
     {
-      "word": "courteous",
-      "meaning": "polite and respectful",
+      "word": "die sozialen Medien",
+      "meaning": "social media",
       "examples": [
-        "Her response remained courteous throughout the disagreement.",
-        "A courteous email can reduce tension."
+        {
+          "de": "Durch die sozialen Medien erreicht Musik schnell ein weltweites Publikum.",
+          "en": "Through social media, music quickly reaches a worldwide audience."
+        },
+        {
+          "de": "Die sozialen Medien spielen für die Vermarktung von Stars eine große Rolle.",
+          "en": "Social media plays a major role in marketing stars."
+        }
       ]
     }
   ]

@@ -1,52 +1,88 @@
 {
-  "title": "Blood",
+  "title": "Innenstädte im Wandel",
   "vocabulary": [
     {
-      "word": "blood cell",
-      "meaning": "one of the cells that make up blood, including red and white cells",
+      "word": "die Innenstadt",
+      "meaning": "city centre; downtown",
       "examples": [
-        "Red blood cells carry oxygen around the body.",
-        "Doctors counted the different blood cells in the sample."
+        {
+          "de": "Am Wochenende ist die Innenstadt besonders voll.",
+          "en": "The city centre is especially crowded at the weekend."
+        },
+        {
+          "de": "Viele Geschäfte in der Innenstadt kämpfen mit sinkenden Besucherzahlen.",
+          "en": "Many shops in the city centre are struggling with falling visitor numbers."
+        }
       ]
     },
     {
-      "word": "plasma",
-      "meaning": "the pale liquid part of blood that carries cells and other substances",
+      "word": "der Online-Handel",
+      "meaning": "online retail; e-commerce",
       "examples": [
-        "Plasma makes up more than half of blood by volume.",
-        "Some patients receive plasma during medical treatment."
+        {
+          "de": "Der Online-Handel ist in den letzten Jahren stark gewachsen.",
+          "en": "Online retail has grown significantly in recent years."
+        },
+        {
+          "de": "Viele Kunden vergleichen im Online-Handel Preise und Angebote.",
+          "en": "Many customers compare prices and offers in online retail."
+        }
       ]
     },
     {
-      "word": "red blood cell",
-      "meaning": "a blood cell that carries oxygen from the lungs to the body",
+      "word": "insolvent",
+      "meaning": "insolvent; unable to pay debts",
       "examples": [
-        "Red blood cells contain haemoglobin.",
-        "A low red blood cell count can cause tiredness."
+        {
+          "de": "Das traditionsreiche Geschäft wurde insolvent und musste schließen.",
+          "en": "The long-established shop became insolvent and had to close."
+        },
+        {
+          "de": "Auch bekannte Unternehmen können in einer Krise insolvent werden.",
+          "en": "Even well-known companies can become insolvent during a crisis."
+        }
       ]
     },
     {
-      "word": "white blood cell",
-      "meaning": "a blood cell that helps the body fight infection",
+      "word": "das Auslaufmodell",
+      "meaning": "something becoming outdated or no longer viable",
       "examples": [
-        "White blood cells are part of the immune system.",
-        "The infection caused an increase in white blood cells."
+        {
+          "de": "Manche halten das klassische Kaufhaus für ein Auslaufmodell.",
+          "en": "Some people consider the traditional department store an outdated model."
+        },
+        {
+          "de": "Die Innenstadt als reiner Einkaufsort könnte zum Auslaufmodell werden.",
+          "en": "The city centre as a purely shopping-focused place could become outdated."
+        }
       ]
     },
     {
-      "word": "platelet",
-      "meaning": "a small blood component that helps stop bleeding",
+      "word": "den Status quo bewahren",
+      "meaning": "to preserve the current situation",
       "examples": [
-        "Platelets help form blood clots.",
-        "A very low platelet count can increase bleeding risk."
+        {
+          "de": "Es reicht nicht, in den Innenstädten nur den Status quo zu bewahren.",
+          "en": "It is not enough simply to preserve the status quo in city centres."
+        },
+        {
+          "de": "Wer den Status quo bewahren will, verhindert manchmal notwendige Veränderungen.",
+          "en": "Those who want to preserve the status quo sometimes prevent necessary change."
+        }
       ]
     },
     {
-      "word": "haemoglobin",
-      "meaning": "the protein in red blood cells that carries oxygen",
+      "word": "konsumfrei",
+      "meaning": "free from commercial consumption; not requiring purchases",
       "examples": [
-        "The test showed a low haemoglobin level.",
-        "Iron is needed to make haemoglobin."
+        {
+          "de": "Die Stadt plant mehr konsumfreie Aufenthaltsorte.",
+          "en": "The city is planning more places where people can spend time without buying anything."
+        },
+        {
+          "de": "Ein öffentlicher Park ist ein wichtiger konsumfreier Raum.",
+          "en": "A public park is an important non-commercial space."
+        }
       ]
     }
   ]

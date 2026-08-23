@@ -1,52 +1,88 @@
 {
-  "title": "E-books",
+  "title": "Gegen Einsamkeit an Weihnachten",
   "vocabulary": [
     {
-      "word": "e-book",
-      "meaning": "a book in digital form that can be read on an electronic device",
+      "word": "unfreiwillig",
+      "meaning": "involuntary; not by one's own choice",
       "examples": [
-        "I downloaded the e-book to my tablet.",
-        "E-books are convenient when travelling."
+        {
+          "de": "Manche Menschen verbringen die Feiertage unfreiwillig allein.",
+          "en": "Some people spend the holidays alone involuntarily."
+        },
+        {
+          "de": "Er lebt nicht freiwillig allein, sondern unfreiwillig.",
+          "en": "He does not live alone by choice, but involuntarily."
+        }
       ]
     },
     {
-      "word": "e-reader",
-      "meaning": "a portable electronic device designed mainly for reading digital books",
+      "word": "jemanden vermitteln",
+      "meaning": "to connect or match someone with another person",
       "examples": [
-        "Her e-reader can store hundreds of books.",
-        "The screen of an e-reader is easy to read outdoors."
+        {
+          "de": "Die Initiative vermittelt Menschen, die Weihnachten nicht allein sein möchten.",
+          "en": "The initiative connects people who do not want to be alone at Christmas."
+        },
+        {
+          "de": "Die Organisation vermittelt Freiwillige an ältere Menschen.",
+          "en": "The organisation connects volunteers with older people."
+        }
       ]
     },
     {
-      "word": "download",
-      "meaning": "to copy data or a file from the internet to your device",
+      "word": "die Initiative",
+      "meaning": "initiative; an organised effort to solve a problem",
       "examples": [
-        "You can download the book in a few seconds.",
-        "I downloaded several novels before my holiday."
+        {
+          "de": "Eine lokale Initiative organisiert gemeinsame Abendessen.",
+          "en": "A local initiative organises shared dinners."
+        },
+        {
+          "de": "Die Initiative möchte Einsamkeit sichtbar machen.",
+          "en": "The initiative wants to make loneliness visible."
+        }
       ]
     },
     {
-      "word": "digital library",
-      "meaning": "an online collection of books, articles, or other reading material",
+      "word": "einen Nerv treffen",
+      "meaning": "to strike a chord; address something many people feel",
       "examples": [
-        "Students can access the university's digital library from home.",
-        "The digital library contains thousands of free books."
+        {
+          "de": "Das Projekt trifft offenbar einen Nerv.",
+          "en": "The project clearly strikes a chord."
+        },
+        {
+          "de": "Mit seinem Beitrag über Einsamkeit traf er einen Nerv.",
+          "en": "His post about loneliness struck a chord."
+        }
       ]
     },
     {
-      "word": "print edition",
-      "meaning": "a version of a book or publication produced on paper",
+      "word": "die Einsamkeit",
+      "meaning": "loneliness",
       "examples": [
-        "Some readers still prefer the print edition.",
-        "The print edition costs more than the e-book."
+        {
+          "de": "Einsamkeit kann Menschen jeden Alters betreffen.",
+          "en": "Loneliness can affect people of any age."
+        },
+        {
+          "de": "Offene Gespräche können helfen, Einsamkeit zu verringern.",
+          "en": "Open conversations can help reduce loneliness."
+        }
       ]
     },
     {
-      "word": "highlight",
-      "meaning": "to mark an important part of a digital or printed text",
+      "word": "die Isolation",
+      "meaning": "isolation; separation from other people",
       "examples": [
-        "I highlighted several useful sentences in the e-book.",
-        "Most reading apps let users highlight text."
+        {
+          "de": "Soziale Isolation kann die Gesundheit belasten.",
+          "en": "Social isolation can harm health."
+        },
+        {
+          "de": "Nach dem Umzug fühlte sie sich zunächst in Isolation.",
+          "en": "After moving, she initially felt isolated."
+        }
       ]
     }
   ]

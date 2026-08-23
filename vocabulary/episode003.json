@@ -1,52 +1,88 @@
 {
-  "title": "Online shopping",
+  "title": "Beauty-Filter: zu schön, um echt zu sein",
   "vocabulary": [
     {
-      "word": "e-commerce",
-      "meaning": "the buying and selling of goods and services over the internet",
+      "word": "das Rollenklischee",
+      "meaning": "gender or social stereotype",
       "examples": [
-        "E-commerce has grown rapidly in the last decade.",
-        "Small businesses can reach global customers through e-commerce."
+        {
+          "de": "Werbung wiederholt oft alte Rollenklischees.",
+          "en": "Advertising often repeats old stereotypes."
+        },
+        {
+          "de": "Kinder sollten nicht durch Rollenklischees eingeschränkt werden.",
+          "en": "Children should not be limited by stereotypes."
+        }
       ]
     },
     {
-      "word": "checkout",
-      "meaning": "the stage of an online purchase when a customer pays",
+      "word": "der Konformitätsdruck",
+      "meaning": "pressure to conform to a norm",
       "examples": [
-        "The website has a simple checkout process.",
-        "She left the site before completing checkout."
+        {
+          "de": "Soziale Medien können starken Konformitätsdruck erzeugen.",
+          "en": "Social media can create strong pressure to conform."
+        },
+        {
+          "de": "Unter Konformitätsdruck versuchen manche Menschen, genauso auszusehen wie andere.",
+          "en": "Under pressure to conform, some people try to look just like others."
+        }
       ]
     },
     {
-      "word": "delivery",
-      "meaning": "the act of taking goods to a customer",
+      "word": "das Schönheitsideal",
+      "meaning": "beauty ideal; a socially preferred idea of attractiveness",
       "examples": [
-        "Free delivery can encourage people to buy online.",
-        "The delivery arrived two days late."
+        {
+          "de": "Schönheitsideale verändern sich mit der Zeit.",
+          "en": "Beauty ideals change over time."
+        },
+        {
+          "de": "Ein unrealistisches Schönheitsideal kann das Selbstbild belasten.",
+          "en": "An unrealistic beauty ideal can harm one's self-image."
+        }
       ]
     },
     {
-      "word": "return policy",
-      "meaning": "a store's rules about sending unwanted goods back",
+      "word": "etwas bearbeiten",
+      "meaning": "to edit or alter something",
       "examples": [
-        "Always check the return policy before ordering clothes.",
-        "A flexible return policy can increase customer confidence."
+        {
+          "de": "Sie bearbeitet ihre Fotos nur sehr wenig.",
+          "en": "She edits her photos only a little."
+        },
+        {
+          "de": "Mit einer App kann man ein Bild in wenigen Sekunden bearbeiten.",
+          "en": "With an app, you can edit a picture in a few seconds."
+        }
       ]
     },
     {
-      "word": "review",
-      "meaning": "an opinion written by a customer about a product or service",
+      "word": "die Kennzeichnungspflicht",
+      "meaning": "requirement to label or mark something",
       "examples": [
-        "I read several reviews before buying the laptop.",
-        "Positive reviews can strongly influence online sales."
+        {
+          "de": "Manche fordern eine Kennzeichnungspflicht für stark bearbeitete Werbung.",
+          "en": "Some people call for a labelling requirement for heavily edited advertising."
+        },
+        {
+          "de": "Eine Kennzeichnungspflicht könnte mehr Transparenz schaffen.",
+          "en": "A labelling requirement could create more transparency."
+        }
       ]
     },
     {
-      "word": "retailer",
-      "meaning": "a business that sells goods directly to customers",
+      "word": "die Resilienz",
+      "meaning": "resilience; the ability to cope with pressure or difficulties",
       "examples": [
-        "Many traditional retailers now sell products online.",
-        "The retailer offered a discount for new customers."
+        {
+          "de": "Resilienz hilft Jugendlichen, mit sozialem Druck umzugehen.",
+          "en": "Resilience helps young people cope with social pressure."
+        },
+        {
+          "de": "Eltern können die Resilienz ihrer Kinder stärken.",
+          "en": "Parents can strengthen their children's resilience."
+        }
       ]
     }
   ]

@@ -1,52 +1,88 @@
 {
-  "title": "Etiquette for boys",
+  "title": "100 Jahre Disney: Kinderfilme neu denken",
   "vocabulary": [
     {
-      "word": "manners",
-      "meaning": "polite ways of behaving toward other people",
+      "word": "das Stereotyp",
+      "meaning": "stereotype",
       "examples": [
-        "Good manners are taught differently in different families.",
-        "Saying thank you is a basic example of good manners."
+        {
+          "de": "Alte Filme enthalten manchmal problematische Stereotype.",
+          "en": "Old films sometimes contain problematic stereotypes."
+        },
+        {
+          "de": "Kinder sollten lernen, Stereotype kritisch zu erkennen.",
+          "en": "Children should learn to recognise stereotypes critically."
+        }
       ]
     },
     {
-      "word": "etiquette",
-      "meaning": "the accepted rules for polite behaviour",
+      "word": "die kulturelle Aneignung",
+      "meaning": "cultural appropriation",
       "examples": [
-        "Traditional etiquette often included rules for boys and girls.",
-        "Modern etiquette may be less formal."
+        {
+          "de": "Über kulturelle Aneignung in Filmen wird heute stärker diskutiert.",
+          "en": "Cultural appropriation in films is discussed more intensely today."
+        },
+        {
+          "de": "Die Grenze zwischen kulturellem Austausch und kultureller Aneignung ist nicht immer eindeutig.",
+          "en": "The line between cultural exchange and cultural appropriation is not always clear."
+        }
       ]
     },
     {
-      "word": "gentleman",
-      "meaning": "a polite and considerate man, especially in traditional usage",
+      "word": "die Diversität",
+      "meaning": "diversity",
       "examples": [
-        "The old guide described how a gentleman should behave.",
-        "Ideas about being a gentleman have changed over time."
+        {
+          "de": "Viele Zuschauer wünschen sich mehr Diversität auf dem Bildschirm.",
+          "en": "Many viewers want more diversity on screen."
+        },
+        {
+          "de": "Diversität bedeutet auch, unterschiedliche Erfahrungen ernst zu nehmen.",
+          "en": "Diversity also means taking different experiences seriously."
+        }
       ]
     },
     {
-      "word": "courtesy",
-      "meaning": "polite behaviour that shows respect",
+      "word": "die Herabwürdigung",
+      "meaning": "degradation; insulting or demeaning representation",
       "examples": [
-        "Holding the door can be a simple act of courtesy.",
-        "Courtesy matters regardless of gender."
+        {
+          "de": "Eine Herabwürdigung bestimmter Gruppen sollte in Kinderfilmen vermieden werden.",
+          "en": "Demeaning representations of certain groups should be avoided in children's films."
+        },
+        {
+          "de": "Die Darstellung wurde als Herabwürdigung einer Kultur kritisiert.",
+          "en": "The portrayal was criticised as demeaning a culture."
+        }
       ]
     },
     {
-      "word": "respect",
-      "meaning": "consideration for other people's feelings, rights, and opinions",
+      "word": "der Warnhinweis",
+      "meaning": "warning notice",
       "examples": [
-        "Children should learn to show respect to others.",
-        "Mutual respect is more important than old-fashioned rules."
+        {
+          "de": "Vor dem alten Film erscheint ein Warnhinweis.",
+          "en": "A warning notice appears before the old film."
+        },
+        {
+          "de": "Ein Warnhinweis kann problematische historische Darstellungen erklären.",
+          "en": "A warning notice can explain problematic historical portrayals."
+        }
       ]
     },
     {
-      "word": "polite",
-      "meaning": "showing good manners and respect",
+      "word": "jemanden prägen",
+      "meaning": "to shape or strongly influence someone",
       "examples": [
-        "He gave a polite answer to the question.",
-        "Being polite does not mean agreeing with everyone."
+        {
+          "de": "Filme aus der Kindheit können uns lange prägen.",
+          "en": "Films from childhood can shape us for a long time."
+        },
+        {
+          "de": "Familie, Schule und Medien prägen unsere Sicht auf die Welt.",
+          "en": "Family, school, and media shape our view of the world."
+        }
       ]
     }
   ]

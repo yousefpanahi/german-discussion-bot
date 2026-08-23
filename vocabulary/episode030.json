@@ -1,52 +1,88 @@
 {
-  "title": "Relaxing drug laws: a good idea?",
+  "title": "Bestattungskultur in Deutschland",
   "vocabulary": [
     {
-      "word": "drug decriminalisation",
-      "meaning": "a policy of removing criminal penalties for possessing or using certain drugs",
+      "word": "die Bestattung",
+      "meaning": "funeral or burial",
       "examples": [
-        "The article gave a clear example of drug decriminalisation.",
-        "We discussed drug decriminalisation during the session."
+        {
+          "de": "Die Familie plant eine kleine Bestattung im engsten Kreis.",
+          "en": "The family is planning a small funeral with close relatives only."
+        },
+        {
+          "de": "In Deutschland gibt es unterschiedliche Formen der Bestattung.",
+          "en": "There are different forms of burial in Germany."
+        }
       ]
     },
     {
-      "word": "prohibition",
-      "meaning": "an official ban on making, selling, or using something",
+      "word": "die Beisetzung",
+      "meaning": "interment; burial ceremony",
       "examples": [
-        "Many people have strong opinions about prohibition.",
-        "Understanding prohibition helped me follow the discussion."
+        {
+          "de": "Die Beisetzung findet auf einem Friedhof statt.",
+          "en": "The interment takes place in a cemetery."
+        },
+        {
+          "de": "Manche Menschen wünschen sich eine Beisetzung in einem Bestattungswald.",
+          "en": "Some people want to be buried in a memorial forest."
+        }
       ]
     },
     {
-      "word": "harm reduction",
-      "meaning": "an approach that aims to reduce the negative effects of risky behaviour",
+      "word": "die Urne",
+      "meaning": "urn; container for cremated ashes",
       "examples": [
-        "Harm reduction was one of the key ideas in the article.",
-        "I used the term harm reduction when explaining my opinion."
+        {
+          "de": "Die Urne wird in einem kleinen Grab beigesetzt.",
+          "en": "The urn is buried in a small grave."
+        },
+        {
+          "de": "Eine Urne benötigt deutlich weniger Platz als ein Sarg.",
+          "en": "An urn requires much less space than a coffin."
+        }
       ]
     },
     {
-      "word": "addiction",
-      "meaning": "a strong and difficult-to-control need to use a substance or repeat a behaviour",
+      "word": "der Sarg",
+      "meaning": "coffin",
       "examples": [
-        "The speaker described how addiction can affect people's lives.",
-        "Our group talked about the advantages and disadvantages of addiction."
+        {
+          "de": "Der Sarg wurde mit Blumen geschmückt.",
+          "en": "The coffin was decorated with flowers."
+        },
+        {
+          "de": "Bei einer klassischen Erdbestattung wird der Sarg beigesetzt.",
+          "en": "In a traditional burial, the coffin is interred."
+        }
       ]
     },
     {
-      "word": "regulation",
-      "meaning": "official rules used to control how an activity or industry operates",
+      "word": "die Grabpflege",
+      "meaning": "grave maintenance",
       "examples": [
-        "The discussion made me think more carefully about regulation.",
-        "Different countries may have different experiences with regulation."
+        {
+          "de": "Viele Angehörige wohnen weit weg und können die Grabpflege nicht übernehmen.",
+          "en": "Many relatives live far away and cannot take care of grave maintenance."
+        },
+        {
+          "de": "Pflegefreie Grabstätten sind für Menschen attraktiv, die keine regelmäßige Grabpflege möchten.",
+          "en": "Maintenance-free graves are attractive to people who do not want regular grave maintenance."
+        }
       ]
     },
     {
-      "word": "public health",
-      "meaning": "the health of a population and the organised efforts to protect it",
+      "word": "die Trauerfeier",
+      "meaning": "funeral or memorial service",
       "examples": [
-        "I had heard of public health before, but I did not fully understand it.",
-        "After the lesson, I could explain public health in my own words."
+        {
+          "de": "Die Trauerfeier wurde sehr persönlich gestaltet.",
+          "en": "The memorial service was designed in a very personal way."
+        },
+        {
+          "de": "Manche Familien übertragen eine Trauerfeier online für entfernte Angehörige.",
+          "en": "Some families stream a memorial service online for relatives who live far away."
+        }
       ]
     }
   ]

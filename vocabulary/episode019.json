@@ -1,52 +1,88 @@
 {
-  "title": "Making cities feel quieter",
+  "title": "Vintage-Mode: Trend bei Gen Z",
   "vocabulary": [
     {
-      "word": "noise pollution",
-      "meaning": "harmful or disturbing levels of unwanted sound in the environment",
+      "word": "Secondhand",
+      "meaning": "second-hand; previously owned",
       "examples": [
-        "Traffic is a major source of urban noise pollution.",
-        "Noise pollution can affect sleep and wellbeing."
+        {
+          "de": "Ich kaufe gern Secondhand, weil es günstiger und nachhaltiger sein kann.",
+          "en": "I like buying second-hand because it can be cheaper and more sustainable."
+        },
+        {
+          "de": "Secondhand ist bei vielen jungen Menschen beliebt.",
+          "en": "Second-hand fashion is popular with many young people."
+        }
       ]
     },
     {
-      "word": "soundscape",
-      "meaning": "the combination of sounds that can be heard in a particular place",
+      "word": "das Kleidungsstück",
+      "meaning": "item of clothing",
       "examples": [
-        "Designers are trying to improve the city's soundscape.",
-        "Birdsong can make an urban soundscape feel calmer."
+        {
+          "de": "Dieses Kleidungsstück habe ich auf einem Flohmarkt gefunden.",
+          "en": "I found this item of clothing at a flea market."
+        },
+        {
+          "de": "Ein hochwertiges Kleidungsstück kann viele Jahre getragen werden.",
+          "en": "A high-quality item of clothing can be worn for many years."
+        }
       ]
     },
     {
-      "word": "traffic noise",
-      "meaning": "sound produced by cars, buses, motorcycles, and other road vehicles",
+      "word": "sich abheben",
+      "meaning": "to stand out; be different from others",
       "examples": [
-        "Trees can sometimes reduce the perception of traffic noise.",
-        "Residents complained about traffic noise at night."
+        {
+          "de": "Mit Vintage-Mode möchte sie sich von der Masse abheben.",
+          "en": "She wants to stand out from the crowd with vintage fashion."
+        },
+        {
+          "de": "Das ungewöhnliche Design hebt sich deutlich von anderen Produkten ab.",
+          "en": "The unusual design clearly stands out from other products."
+        }
       ]
     },
     {
-      "word": "acoustic",
-      "meaning": "related to sound and how it behaves",
+      "word": "die Nachhaltigkeit",
+      "meaning": "sustainability",
       "examples": [
-        "The building uses acoustic materials to reduce noise.",
-        "Acoustic design can make public spaces more comfortable."
+        {
+          "de": "Nachhaltigkeit wird in der Modebranche immer wichtiger.",
+          "en": "Sustainability is becoming increasingly important in the fashion industry."
+        },
+        {
+          "de": "Beim Einkauf achte ich stärker auf Nachhaltigkeit als früher.",
+          "en": "When shopping, I pay more attention to sustainability than I used to."
+        }
       ]
     },
     {
-      "word": "barrier",
-      "meaning": "something that blocks or reduces movement, sound, or access",
+      "word": "die Arbeitsbedingungen",
+      "meaning": "working conditions",
       "examples": [
-        "A sound barrier was built beside the road.",
-        "Vegetation can act as a partial noise barrier."
+        {
+          "de": "Verbraucher interessieren sich zunehmend für die Arbeitsbedingungen in Textilfabriken.",
+          "en": "Consumers are increasingly interested in working conditions in textile factories."
+        },
+        {
+          "de": "Gute Arbeitsbedingungen sollten Teil nachhaltiger Produktion sein.",
+          "en": "Good working conditions should be part of sustainable production."
+        }
       ]
     },
     {
-      "word": "green space",
-      "meaning": "an area of grass, trees, or plants in a city",
+      "word": "die Konsumgesellschaft",
+      "meaning": "consumer society",
       "examples": [
-        "Green spaces can make cities feel calmer.",
-        "Residents want more green space near busy roads."
+        {
+          "de": "In einer Konsumgesellschaft werden ständig neue Produkte angeboten.",
+          "en": "In a consumer society, new products are constantly being offered."
+        },
+        {
+          "de": "Kritiker fragen, ob unsere Konsumgesellschaft zu viel Kleidung wegwirft.",
+          "en": "Critics ask whether our consumer society throws away too much clothing."
+        }
       ]
     }
   ]

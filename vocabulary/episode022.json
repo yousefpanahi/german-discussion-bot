@@ -1,52 +1,88 @@
 {
-  "title": "Why are billionaires building bunkers?",
+  "title": "Wenn Kinder mehrsprachig aufwachsen",
   "vocabulary": [
     {
-      "word": "bunker",
-      "meaning": "a strong underground or protected shelter designed to survive danger",
+      "word": "mehrsprachig",
+      "meaning": "multilingual",
       "examples": [
-        "Some wealthy people are building private bunkers.",
-        "The bunker contains food, water, and medical supplies."
+        {
+          "de": "Viele Kinder wachsen heute mehrsprachig auf.",
+          "en": "Many children today grow up multilingual."
+        },
+        {
+          "de": "Eine mehrsprachige Familie benutzt im Alltag mehrere Sprachen.",
+          "en": "A multilingual family uses several languages in everyday life."
+        }
       ]
     },
     {
-      "word": "doomsday",
-      "meaning": "a situation involving the possible end or collapse of civilisation",
+      "word": "aufwachsen",
+      "meaning": "to grow up",
       "examples": [
-        "The company sells equipment to people worried about doomsday scenarios.",
-        "Doomsday fears can increase during periods of uncertainty."
+        {
+          "de": "Sie ist mit Deutsch und Türkisch aufgewachsen.",
+          "en": "She grew up with German and Turkish."
+        },
+        {
+          "de": "Kinder wachsen in sehr unterschiedlichen sprachlichen Umgebungen auf.",
+          "en": "Children grow up in very different linguistic environments."
+        }
       ]
     },
     {
-      "word": "survivalist",
-      "meaning": "a person who prepares carefully for disasters or social collapse",
+      "word": "die Muttersprache",
+      "meaning": "mother tongue; first language learned naturally",
       "examples": [
-        "The survivalist stores emergency supplies at home.",
-        "Some survivalists build shelters in remote places."
+        {
+          "de": "Mit ihren Eltern spricht sie meistens ihre Muttersprache.",
+          "en": "She mostly speaks her mother tongue with her parents."
+        },
+        {
+          "de": "Die Muttersprache kann für Identität und Familie sehr wichtig sein.",
+          "en": "The mother tongue can be very important for identity and family."
+        }
       ]
     },
     {
-      "word": "self-sufficient",
-      "meaning": "able to provide what is needed without depending heavily on others",
+      "word": "der Ansatz",
+      "meaning": "approach; method",
       "examples": [
-        "The shelter is designed to be self-sufficient for months.",
-        "A self-sufficient home may produce its own electricity."
+        {
+          "de": "Jede Familie wählt einen anderen Ansatz für Mehrsprachigkeit.",
+          "en": "Each family chooses a different approach to multilingualism."
+        },
+        {
+          "de": "Dieser pädagogische Ansatz funktioniert nicht für jedes Kind gleich gut.",
+          "en": "This educational approach does not work equally well for every child."
+        }
       ]
     },
     {
-      "word": "emergency supplies",
-      "meaning": "food, water, medicine, and equipment stored for unexpected situations",
+      "word": "etwas an etwas koppeln",
+      "meaning": "to link or connect one thing to another",
       "examples": [
-        "Every household should keep some basic emergency supplies.",
-        "The bunker contains several years of emergency supplies."
+        {
+          "de": "Die Eltern koppeln jede Sprache an bestimmte Aktivitäten.",
+          "en": "The parents link each language to certain activities."
+        },
+        {
+          "de": "Man kann neue Wörter an konkrete Situationen koppeln.",
+          "en": "You can link new words to specific situations."
+        }
       ]
     },
     {
-      "word": "preparedness",
-      "meaning": "the state of being ready for a possible emergency",
+      "word": "etwas beherrschen",
+      "meaning": "to master; be very good at something",
       "examples": [
-        "Disaster preparedness can save lives.",
-        "Governments run preparedness exercises."
+        {
+          "de": "Sie beherrscht drei Sprachen sehr gut.",
+          "en": "She has a very good command of three languages."
+        },
+        {
+          "de": "Man muss eine Sprache nicht perfekt beherrschen, um sie im Alltag zu benutzen.",
+          "en": "You do not have to master a language perfectly to use it in everyday life."
+        }
       ]
     }
   ]

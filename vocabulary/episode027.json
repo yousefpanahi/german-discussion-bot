@@ -1,52 +1,88 @@
 {
-  "title": "End of the world?",
+  "title": "Neuroathletik: Gehirntraining für den Sport",
   "vocabulary": [
     {
-      "word": "apocalypse",
-      "meaning": "a catastrophic event involving widespread destruction or the end of civilisation",
+      "word": "die Neuroathletik",
+      "meaning": "neuroathletics; training that targets the nervous system for athletic performance",
       "examples": [
-        "Films often imagine a future apocalypse.",
-        "People have predicted different kinds of apocalypse throughout history."
+        {
+          "de": "Neuroathletik verbindet Bewegung mit gezielten Reizen für das Nervensystem.",
+          "en": "Neuroathletics combines movement with targeted stimuli for the nervous system."
+        },
+        {
+          "de": "Einige Profisportler nutzen Neuroathletik als Ergänzung zum normalen Training.",
+          "en": "Some professional athletes use neuroathletics as a supplement to normal training."
+        }
       ]
     },
     {
-      "word": "doomsday",
-      "meaning": "a time when the world or civilisation is expected to end",
+      "word": "der Bewegungsablauf",
+      "meaning": "sequence of movement; movement pattern",
       "examples": [
-        "Some groups have announced specific doomsday dates.",
-        "Doomsday predictions usually attract media attention."
+        {
+          "de": "Der Trainer analysiert den Bewegungsablauf sehr genau.",
+          "en": "The coach analyses the movement pattern very carefully."
+        },
+        {
+          "de": "Ein flüssiger Bewegungsablauf ist in vielen Sportarten wichtig.",
+          "en": "A smooth sequence of movement is important in many sports."
+        }
       ]
     },
     {
-      "word": "catastrophe",
-      "meaning": "a sudden event causing great damage or suffering",
+      "word": "etwas optimieren",
+      "meaning": "to optimise or improve something",
       "examples": [
-        "An asteroid impact could be a global catastrophe.",
-        "Governments prepare for natural catastrophes."
+        {
+          "de": "Die Athletin möchte ihre Reaktionszeit optimieren.",
+          "en": "The athlete wants to optimise her reaction time."
+        },
+        {
+          "de": "Kleine technische Veränderungen können den Bewegungsablauf optimieren.",
+          "en": "Small technical changes can optimise the movement pattern."
+        }
       ]
     },
     {
-      "word": "prediction",
-      "meaning": "a statement about what someone thinks will happen in the future",
+      "word": "etwas stimulieren",
+      "meaning": "to stimulate something",
       "examples": [
-        "The prediction turned out to be completely wrong.",
-        "Scientific predictions should be based on evidence."
+        {
+          "de": "Bestimmte Übungen sollen das Nervensystem stimulieren.",
+          "en": "Certain exercises are intended to stimulate the nervous system."
+        },
+        {
+          "de": "Licht und Bewegung können unterschiedliche Bereiche des Gehirns stimulieren.",
+          "en": "Light and movement can stimulate different areas of the brain."
+        }
       ]
     },
     {
-      "word": "prophecy",
-      "meaning": "a statement claiming to describe future events, often for religious reasons",
+      "word": "etwas integrieren",
+      "meaning": "to integrate or incorporate something",
       "examples": [
-        "The old prophecy was interpreted in several ways.",
-        "People sometimes connect disasters with ancient prophecies."
+        {
+          "de": "Der Trainer integriert neue Übungen in das tägliche Programm.",
+          "en": "The coach integrates new exercises into the daily programme."
+        },
+        {
+          "de": "Neue Methoden sollten sinnvoll in das bestehende Training integriert werden.",
+          "en": "New methods should be sensibly integrated into existing training."
+        }
       ]
     },
     {
-      "word": "asteroid",
-      "meaning": "a rocky object that moves around the Sun",
+      "word": "einer Verletzung vorbeugen",
+      "meaning": "to prevent an injury",
       "examples": [
-        "Scientists monitor asteroids that pass near Earth.",
-        "A large asteroid impact is extremely rare."
+        {
+          "de": "Gutes Aufwärmen kann einer Verletzung vorbeugen.",
+          "en": "A good warm-up can prevent an injury."
+        },
+        {
+          "de": "Stabilitätsübungen sollen Verletzungen vorbeugen.",
+          "en": "Stability exercises are intended to prevent injuries."
+        }
       ]
     }
   ]

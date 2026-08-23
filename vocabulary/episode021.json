@@ -1,52 +1,88 @@
 {
-  "title": "Russia's new smoking ban",
+  "title": "Wie gefährlich ist ChatGPT?",
   "vocabulary": [
     {
-      "word": "smoking ban",
-      "meaning": "an official rule that prohibits smoking in certain places",
+      "word": "der Chatbot",
+      "meaning": "chatbot",
       "examples": [
-        "The country introduced a new smoking ban.",
-        "The smoking ban applies to many public areas."
+        {
+          "de": "Ein Chatbot kann rund um die Uhr Fragen beantworten.",
+          "en": "A chatbot can answer questions around the clock."
+        },
+        {
+          "de": "Viele Unternehmen nutzen Chatbots im Kundenservice.",
+          "en": "Many companies use chatbots in customer service."
+        }
       ]
     },
     {
-      "word": "tobacco",
-      "meaning": "the plant and substance used to make cigarettes and other smoking products",
+      "word": "die Künstliche Intelligenz",
+      "meaning": "artificial intelligence",
       "examples": [
-        "Tobacco use causes major health problems.",
-        "The government increased taxes on tobacco."
+        {
+          "de": "Künstliche Intelligenz kann Texte, Bilder und Programmcode erzeugen.",
+          "en": "Artificial intelligence can generate texts, images, and computer code."
+        },
+        {
+          "de": "Der Umgang mit Künstlicher Intelligenz muss gelernt werden.",
+          "en": "People need to learn how to use artificial intelligence responsibly."
+        }
       ]
     },
     {
-      "word": "second-hand smoke",
-      "meaning": "smoke breathed in by people who are near someone who is smoking",
+      "word": "die Desinformation",
+      "meaning": "disinformation; deliberately false information",
       "examples": [
-        "Second-hand smoke can harm non-smokers.",
-        "The ban aims to reduce exposure to second-hand smoke."
+        {
+          "de": "Desinformation kann sich im Internet sehr schnell verbreiten.",
+          "en": "Disinformation can spread very quickly on the internet."
+        },
+        {
+          "de": "KI kann sowohl gegen Desinformation helfen als auch neue Desinformation erzeugen.",
+          "en": "AI can both help fight disinformation and create new disinformation."
+        }
       ]
     },
     {
-      "word": "public place",
-      "meaning": "an area open or accessible to the general public",
+      "word": "die Quelle",
+      "meaning": "source of information",
       "examples": [
-        "Smoking is prohibited in many public places.",
-        "The rule applies to restaurants and other public places."
+        {
+          "de": "Prüfe die Quelle, bevor du eine Behauptung weitergibst.",
+          "en": "Check the source before sharing a claim."
+        },
+        {
+          "de": "Nicht jede Quelle im Internet ist zuverlässig.",
+          "en": "Not every source on the internet is reliable."
+        }
       ]
     },
     {
-      "word": "fine",
-      "meaning": "money paid as punishment for breaking a law",
+      "word": "überflüssig",
+      "meaning": "unnecessary; no longer needed",
       "examples": [
-        "Smokers who break the rule may receive a fine.",
-        "The fine is higher for repeated offences."
+        {
+          "de": "Manche Menschen fürchten, dass KI bestimmte Tätigkeiten überflüssig macht.",
+          "en": "Some people fear that AI will make certain tasks unnecessary."
+        },
+        {
+          "de": "Technik sollte Menschen unterstützen und nicht automatisch ihre Arbeit überflüssig machen.",
+          "en": "Technology should support people and not automatically make their work unnecessary."
+        }
       ]
     },
     {
-      "word": "enforcement",
-      "meaning": "the act of making sure a law or rule is followed",
+      "word": "die Sichtweise",
+      "meaning": "point of view; perspective",
       "examples": [
-        "Effective enforcement is necessary for the ban to work.",
-        "Police and local officials share responsibility for enforcement."
+        {
+          "de": "Ein Chatbot kann verschiedene Sichtweisen zusammenfassen.",
+          "en": "A chatbot can summarise different points of view."
+        },
+        {
+          "de": "Es ist wichtig, bei schwierigen Themen mehr als eine Sichtweise zu betrachten.",
+          "en": "It is important to consider more than one perspective on difficult topics."
+        }
       ]
     }
   ]

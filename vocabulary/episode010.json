@@ -1,52 +1,88 @@
 {
-  "title": "How do we adapt to the cold?",
+  "title": "Noise-Cancelling-Kopfhörer: Ein Risiko für Kinder?",
   "vocabulary": [
     {
-      "word": "acclimatise",
-      "meaning": "to become physically or mentally adjusted to new conditions",
+      "word": "das Nebengeräusch",
+      "meaning": "background noise",
       "examples": [
-        "It takes time to acclimatise to very cold weather.",
-        "The climbers spent several days acclimatising."
+        {
+          "de": "Die Kopfhörer blenden viele Nebengeräusche aus.",
+          "en": "The headphones block out many background noises."
+        },
+        {
+          "de": "Beim Lernen stören mich Nebengeräusche schnell.",
+          "en": "Background noises quickly disturb me when studying."
+        }
       ]
     },
     {
-      "word": "insulation",
-      "meaning": "material or a natural layer that reduces the movement of heat",
+      "word": "etwas ausblenden",
+      "meaning": "to block out or ignore something",
       "examples": [
-        "Thick clothing provides insulation against the cold.",
-        "Body fat can provide some natural insulation."
+        {
+          "de": "Noise-Cancelling-Technik kann Verkehrslärm ausblenden.",
+          "en": "Noise-cancelling technology can block out traffic noise."
+        },
+        {
+          "de": "Man sollte wichtige Warnsignale nicht vollständig ausblenden.",
+          "en": "You should not completely block out important warning signals."
+        }
       ]
     },
     {
-      "word": "body temperature",
-      "meaning": "the temperature inside a person's or animal's body",
+      "word": "im Verdacht stehen",
+      "meaning": "to be suspected of something",
       "examples": [
-        "The body works hard to maintain a stable body temperature.",
-        "Cold water can cause body temperature to fall quickly."
+        {
+          "de": "Die Technik steht im Verdacht, bei manchen Kindern Probleme zu verstärken.",
+          "en": "The technology is suspected of worsening problems in some children."
+        },
+        {
+          "de": "Das Produkt steht im Verdacht, unerwünschte Nebenwirkungen zu haben.",
+          "en": "The product is suspected of having unwanted side effects."
+        }
       ]
     },
     {
-      "word": "shiver",
-      "meaning": "to shake slightly and uncontrollably because of cold",
+      "word": "der Reiz",
+      "meaning": "stimulus",
       "examples": [
-        "I started to shiver while waiting outside.",
-        "Shivering helps the body produce heat."
+        {
+          "de": "Das Gehirn verarbeitet ständig akustische Reize.",
+          "en": "The brain constantly processes auditory stimuli."
+        },
+        {
+          "de": "Kinder müssen lernen, wichtige Reize von unwichtigen zu unterscheiden.",
+          "en": "Children have to learn to distinguish important stimuli from unimportant ones."
+        }
       ]
     },
     {
-      "word": "hypothermia",
-      "meaning": "a dangerous condition in which body temperature becomes too low",
+      "word": "die Pubertät",
+      "meaning": "puberty",
       "examples": [
-        "Wet clothes can increase the risk of hypothermia.",
-        "The rescue team treated the climber for hypothermia."
+        {
+          "de": "In der Pubertät verändert sich der Körper stark.",
+          "en": "The body changes significantly during puberty."
+        },
+        {
+          "de": "Auch die Wahrnehmung entwickelt sich während der Pubertät weiter.",
+          "en": "Perception also continues to develop during puberty."
+        }
       ]
     },
     {
-      "word": "metabolism",
-      "meaning": "the chemical processes in the body that produce and use energy",
+      "word": "die Wahrnehmungsstörung",
+      "meaning": "perception disorder",
       "examples": [
-        "Cold conditions can affect metabolism.",
-        "The body may increase its metabolism to produce more heat."
+        {
+          "de": "Eine Wahrnehmungsstörung kann den Alltag erschweren.",
+          "en": "A perception disorder can make everyday life more difficult."
+        },
+        {
+          "de": "Bei anhaltenden Problemen sollte eine Wahrnehmungsstörung medizinisch untersucht werden.",
+          "en": "Persistent problems with perception should be medically examined."
+        }
       ]
     }
   ]
