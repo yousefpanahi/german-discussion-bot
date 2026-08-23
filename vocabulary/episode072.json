@@ -1,52 +1,88 @@
 {
-  "title": "How can we help wild bees?",
+  "title": "Berliner wollen Wohnungskonzerne enteignen",
   "vocabulary": [
     {
-      "word": "pollinator",
-      "meaning": "an animal, often an insect, that carries pollen between flowers",
+      "word": "enteignen",
+      "meaning": "to expropriate",
       "examples": [
-        "The article gave a clear example of pollinator.",
-        "We discussed pollinator during the session."
+        {
+          "de": "Die Initiative will große Wohnungskonzerne enteignen.",
+          "en": "The initiative wants to expropriate large housing corporations."
+        },
+        {
+          "de": "Eine Enteignung ist nur unter bestimmten rechtlichen Bedingungen möglich.",
+          "en": "Expropriation is possible only under certain legal conditions."
+        }
       ]
     },
     {
-      "word": "habitat",
-      "meaning": "the natural place where a plant or animal lives",
+      "word": "der Wohnungskonzern",
+      "meaning": "housing corporation",
       "examples": [
-        "Many people have strong opinions about habitat.",
-        "Understanding habitat helped me follow the discussion."
+        {
+          "de": "Ein großer Wohnungskonzern besitzt Tausende Wohnungen.",
+          "en": "A large housing corporation owns thousands of apartments."
+        },
+        {
+          "de": "Kritiker werfen manchen Wohnungskonzernen hohe Mieten vor.",
+          "en": "Critics accuse some housing corporations of charging high rents."
+        }
       ]
     },
     {
-      "word": "biodiversity",
-      "meaning": "the variety of living species in an environment",
+      "word": "der Volksentscheid",
+      "meaning": "referendum",
       "examples": [
-        "Biodiversity was one of the key ideas in the article.",
-        "I used the term biodiversity when explaining my opinion."
+        {
+          "de": "Bei einem Volksentscheid stimmte eine Mehrheit für den Vorschlag.",
+          "en": "A majority voted for the proposal in a referendum."
+        },
+        {
+          "de": "Ein Volksentscheid kann starken politischen Druck erzeugen.",
+          "en": "A referendum can create strong political pressure."
+        }
       ]
     },
     {
-      "word": "pesticide",
-      "meaning": "a chemical used to kill insects, weeds, or other organisms that damage crops",
+      "word": "die Entschädigung",
+      "meaning": "compensation",
       "examples": [
-        "The speaker described how pesticide can affect people's lives.",
-        "Our group talked about the advantages and disadvantages of pesticide."
+        {
+          "de": "Bei einer Enteignung müsste eine Entschädigung gezahlt werden.",
+          "en": "Compensation would have to be paid in the event of expropriation."
+        },
+        {
+          "de": "Über die Höhe der Entschädigung gibt es Streit.",
+          "en": "There is disagreement about the amount of compensation."
+        }
       ]
     },
     {
-      "word": "wildflower",
-      "meaning": "a flower that grows naturally without being deliberately planted",
+      "word": "die Verfassung",
+      "meaning": "constitution",
       "examples": [
-        "The discussion made me think more carefully about wildflower.",
-        "Different countries may have different experiences with wildflower."
+        {
+          "de": "Die Verfassung schützt Eigentum, erlaubt aber unter Bedingungen Eingriffe.",
+          "en": "The constitution protects property but permits intervention under certain conditions."
+        },
+        {
+          "de": "Ein neues Gesetz muss mit der Verfassung vereinbar sein.",
+          "en": "A new law must be compatible with the constitution."
+        }
       ]
     },
     {
-      "word": "conservation",
-      "meaning": "the protection of wildlife, habitats, and natural resources",
+      "word": "die Wohnungsnot",
+      "meaning": "housing shortage",
       "examples": [
-        "I had heard of conservation before, but I did not fully understand it.",
-        "After the lesson, I could explain conservation in my own words."
+        {
+          "de": "In vielen Großstädten herrscht große Wohnungsnot.",
+          "en": "There is a severe housing shortage in many large cities."
+        },
+        {
+          "de": "Wohnungsnot trifft besonders Menschen mit geringem Einkommen.",
+          "en": "Housing shortages particularly affect people with low incomes."
+        }
       ]
     }
   ]

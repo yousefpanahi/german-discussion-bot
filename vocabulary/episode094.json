@@ -1,52 +1,88 @@
 {
-  "title": "Addicted to sugar",
+  "title": "Der Weg der Frauen zu Olympia",
   "vocabulary": [
     {
-      "word": "added sugar",
-      "meaning": "sugar added to food or drinks during preparation or processing",
+      "word": "die Gleichberechtigung",
+      "meaning": "equal rights",
       "examples": [
-        "The article gave a clear example of added sugar.",
-        "We discussed added sugar during the session."
+        {
+          "de": "Alice Milliat kämpfte für die Gleichberechtigung von Frauen im Sport.",
+          "en": "Alice Milliat fought for equal rights for women in sport."
+        },
+        {
+          "de": "Gleichberechtigung bedeutet auch gleichen Zugang zu Wettbewerben.",
+          "en": "Equal rights also mean equal access to competitions."
+        }
       ]
     },
     {
-      "word": "craving",
-      "meaning": "a strong desire for a particular food or substance",
+      "word": "die Leichtathletik",
+      "meaning": "athletics; track and field",
       "examples": [
-        "Many people have strong opinions about craving.",
-        "Understanding craving helped me follow the discussion."
+        {
+          "de": "Frauen durften lange nicht in allen olympischen Leichtathletikdisziplinen starten.",
+          "en": "For a long time, women were not allowed to compete in all Olympic athletics events."
+        },
+        {
+          "de": "Leichtathletik umfasst Laufen, Springen und Werfen.",
+          "en": "Athletics includes running, jumping, and throwing."
+        }
       ]
     },
     {
-      "word": "blood sugar",
-      "meaning": "the amount of glucose present in the blood",
+      "word": "der Hürdenlauf",
+      "meaning": "hurdles race",
       "examples": [
-        "Blood sugar was one of the key ideas in the article.",
-        "I used the term blood sugar when explaining my opinion."
+        {
+          "de": "Beim Hürdenlauf müssen Athleten schnell und technisch sauber laufen.",
+          "en": "In hurdles, athletes have to run fast and with good technique."
+        },
+        {
+          "de": "Der Hürdenlauf gehörte zu den Disziplinen der Frauenspiele.",
+          "en": "Hurdles was one of the events at the women's games."
+        }
       ]
     },
     {
-      "word": "obesity",
-      "meaning": "a medical condition involving an unhealthy excess of body fat",
+      "word": "hartnäckig",
+      "meaning": "persistent",
       "examples": [
-        "The speaker described how obesity can affect people's lives.",
-        "Our group talked about the advantages and disadvantages of obesity."
+        {
+          "de": "Milliat blieb trotz vieler Widerstände hartnäckig.",
+          "en": "Milliat remained persistent despite strong resistance."
+        },
+        {
+          "de": "Hartnäckiges Engagement kann gesellschaftliche Regeln verändern.",
+          "en": "Persistent commitment can change social rules."
+        }
       ]
     },
     {
-      "word": "sweetener",
-      "meaning": "a substance used to make food or drinks taste sweet",
+      "word": "erstmals",
+      "meaning": "for the first time",
       "examples": [
-        "The discussion made me think more carefully about sweetener.",
-        "Different countries may have different experiences with sweetener."
+        {
+          "de": "1928 durften Leichtathletinnen erstmals bei Olympia antreten.",
+          "en": "In 1928, female track-and-field athletes were allowed to compete at the Olympics for the first time."
+        },
+        {
+          "de": "Bei den Spielen gab es erstmals fast gleich viele Frauen und Männer.",
+          "en": "For the first time, the games had almost equal numbers of women and men."
+        }
       ]
     },
     {
-      "word": "moderation",
-      "meaning": "the practice of avoiding excessive amounts of something",
+      "word": "die Ablehnung",
+      "meaning": "rejection",
       "examples": [
-        "I had heard of moderation before, but I did not fully understand it.",
-        "After the lesson, I could explain moderation in my own words."
+        {
+          "de": "Die Sportlerin stieß zunächst auf starke Ablehnung.",
+          "en": "The athlete initially met with strong rejection."
+        },
+        {
+          "de": "Gesellschaftlicher Wandel beginnt oft trotz Ablehnung.",
+          "en": "Social change often begins despite rejection."
+        }
       ]
     }
   ]

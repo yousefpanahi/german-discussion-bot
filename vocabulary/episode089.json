@@ -1,52 +1,88 @@
 {
-  "title": "Are we getting more allergic to things?",
+  "title": "Musik ist nicht nur Bach und Beethoven",
   "vocabulary": [
     {
-      "word": "allergy",
-      "meaning": "an immune-system reaction to a substance that is usually harmless",
+      "word": "die Musikszene",
+      "meaning": "music scene",
       "examples": [
-        "The article gave a clear example of allergy.",
-        "We discussed allergy during the session."
+        {
+          "de": "Die deutsche Musikszene ist viel vielfältiger als nur klassische Musik.",
+          "en": "The German music scene is much more diverse than just classical music."
+        },
+        {
+          "de": "In Berlin gibt es eine internationale elektronische Musikszene.",
+          "en": "Berlin has an international electronic music scene."
+        }
       ]
     },
     {
-      "word": "allergen",
-      "meaning": "a substance that can cause an allergic reaction",
+      "word": "der Komponist",
+      "meaning": "composer",
       "examples": [
-        "Many people have strong opinions about allergen.",
-        "Understanding allergen helped me follow the discussion."
+        {
+          "de": "Bach und Beethoven gehören zu den bekanntesten deutschen Komponisten.",
+          "en": "Bach and Beethoven are among the best-known German composers."
+        },
+        {
+          "de": "Ein moderner Komponist arbeitet möglicherweise auch mit elektronischen Klängen.",
+          "en": "A modern composer may also work with electronic sounds."
+        }
       ]
     },
     {
-      "word": "immune response",
-      "meaning": "the body's reaction to a substance it identifies as harmful",
+      "word": "das Genre",
+      "meaning": "genre",
       "examples": [
-        "Immune response was one of the key ideas in the article.",
-        "I used the term immune response when explaining my opinion."
+        {
+          "de": "Hip-Hop ist ein weltweit erfolgreiches musikalisches Genre.",
+          "en": "Hip-hop is a globally successful musical genre."
+        },
+        {
+          "de": "Viele Künstler verbinden mehrere Genres miteinander.",
+          "en": "Many artists combine several genres."
+        }
       ]
     },
     {
-      "word": "sensitivity",
-      "meaning": "a tendency to react strongly to a particular substance or condition",
+      "word": "die Vielfalt",
+      "meaning": "diversity",
       "examples": [
-        "The speaker described how sensitivity can affect people's lives.",
-        "Our group talked about the advantages and disadvantages of sensitivity."
+        {
+          "de": "Musikalische Vielfalt zeigt unterschiedliche gesellschaftliche Erfahrungen.",
+          "en": "Musical diversity reflects different social experiences."
+        },
+        {
+          "de": "Ein Festival kann die Vielfalt einer Musikszene sichtbar machen.",
+          "en": "A festival can make the diversity of a music scene visible."
+        }
       ]
     },
     {
-      "word": "hay fever",
-      "meaning": "an allergy to pollen that can cause sneezing, itching, and a runny nose",
+      "word": "der Kulturbetrieb",
+      "meaning": "cultural sector",
       "examples": [
-        "The discussion made me think more carefully about hay fever.",
-        "Different countries may have different experiences with hay fever."
+        {
+          "de": "Der Kulturbetrieb verändert sich durch Streaming und soziale Medien.",
+          "en": "The cultural sector is changing through streaming and social media."
+        },
+        {
+          "de": "Im Kulturbetrieb arbeiten Künstler, Veranstalter und viele andere Berufsgruppen.",
+          "en": "Artists, organisers, and many other professional groups work in the cultural sector."
+        }
       ]
     },
     {
-      "word": "intolerance",
-      "meaning": "difficulty processing or reacting normally to a food or substance without an allergic immune response",
+      "word": "der Nachwuchs",
+      "meaning": "young talent; next generation",
       "examples": [
-        "I had heard of intolerance before, but I did not fully understand it.",
-        "After the lesson, I could explain intolerance in my own words."
+        {
+          "de": "Musikschulen fördern den musikalischen Nachwuchs.",
+          "en": "Music schools support young musical talent."
+        },
+        {
+          "de": "Ohne Auftrittsmöglichkeiten ist es für Nachwuchs schwer, bekannt zu werden.",
+          "en": "Without performance opportunities, it is difficult for young talent to become known."
+        }
       ]
     }
   ]

@@ -1,52 +1,88 @@
 {
-  "title": "How fans talk about their passions?",
+  "title": "Palmöl: Schädlich für Umwelt und Gesundheit",
   "vocabulary": [
     {
-      "word": "fandom",
-      "meaning": "a community of enthusiastic fans of a person, team, activity, or form of entertainment",
+      "word": "das Palmöl",
+      "meaning": "palm oil",
       "examples": [
-        "The article gave a clear example of fandom.",
-        "We discussed fandom during the session."
+        {
+          "de": "Palmöl steckt in vielen Lebensmitteln und Kosmetikprodukten.",
+          "en": "Palm oil is found in many foods and cosmetic products."
+        },
+        {
+          "de": "Palmöl ist günstig und vielseitig einsetzbar.",
+          "en": "Palm oil is inexpensive and versatile."
+        }
       ]
     },
     {
-      "word": "enthusiast",
-      "meaning": "a person who is very interested in and excited about a subject or activity",
+      "word": "die Brandrodung",
+      "meaning": "slash-and-burn clearing",
       "examples": [
-        "Many people have strong opinions about enthusiast.",
-        "Understanding enthusiast helped me follow the discussion."
+        {
+          "de": "Für Plantagen werden Wälder teilweise durch Brandrodung zerstört.",
+          "en": "Forests are sometimes destroyed by slash-and-burn clearing for plantations."
+        },
+        {
+          "de": "Brandrodung setzt große Mengen CO₂ frei.",
+          "en": "Slash-and-burn clearing releases large amounts of CO₂."
+        }
       ]
     },
     {
-      "word": "passion",
-      "meaning": "a very strong interest, enthusiasm, or love for something",
+      "word": "die Metastase",
+      "meaning": "metastasis",
       "examples": [
-        "Passion was one of the key ideas in the article.",
-        "I used the term passion when explaining my opinion."
+        {
+          "de": "Metastasen können eine Krebserkrankung besonders gefährlich machen.",
+          "en": "Metastases can make cancer particularly dangerous."
+        },
+        {
+          "de": "Forschende untersuchen, welche Faktoren die Bildung von Metastasen fördern.",
+          "en": "Researchers study which factors promote the formation of metastases."
+        }
       ]
     },
     {
-      "word": "community",
-      "meaning": "a group of people connected by a place, interest, or shared identity",
+      "word": "krebserregend",
+      "meaning": "carcinogenic",
       "examples": [
-        "The speaker described how community can affect people's lives.",
-        "Our group talked about the advantages and disadvantages of community."
+        {
+          "de": "Bei starker Erhitzung können krebserregende Stoffe entstehen.",
+          "en": "Carcinogenic substances can form at high temperatures."
+        },
+        {
+          "de": "Krebserregende Stoffe sollten möglichst vermieden werden.",
+          "en": "Carcinogenic substances should be avoided whenever possible."
+        }
       ]
     },
     {
-      "word": "identity",
-      "meaning": "a person's sense of who they are and what groups or values they belong to",
+      "word": "die Kennzeichnungspflicht",
+      "meaning": "mandatory labelling requirement",
       "examples": [
-        "The discussion made me think more carefully about identity.",
-        "Different countries may have different experiences with identity."
+        {
+          "de": "Für Lebensmittel gilt eine Kennzeichnungspflicht für Palmöl.",
+          "en": "There is a mandatory labelling requirement for palm oil in food."
+        },
+        {
+          "de": "Eine klare Kennzeichnungspflicht hilft Verbrauchern bei Kaufentscheidungen.",
+          "en": "Clear mandatory labelling helps consumers make purchasing decisions."
+        }
       ]
     },
     {
-      "word": "loyalty",
-      "meaning": "strong and continuing support for a person, group, brand, or cause",
+      "word": "das Feuchtgebiet",
+      "meaning": "wetland",
       "examples": [
-        "I had heard of loyalty before, but I did not fully understand it.",
-        "After the lesson, I could explain loyalty in my own words."
+        {
+          "de": "Für Plantagen werden manchmal wertvolle Feuchtgebiete trockengelegt.",
+          "en": "Valuable wetlands are sometimes drained for plantations."
+        },
+        {
+          "de": "Feuchtgebiete speichern Wasser und bieten vielen Arten Lebensraum.",
+          "en": "Wetlands store water and provide habitat for many species."
+        }
       ]
     }
   ]

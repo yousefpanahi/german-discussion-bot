@@ -1,52 +1,88 @@
 {
-  "title": "Women in politics",
+  "title": "Mehr Einsatz von Pestiziden in der Landwirtschaft",
   "vocabulary": [
     {
-      "word": "representation",
-      "meaning": "the presence of people from a group in positions where decisions are made",
+      "word": "das Pestizid",
+      "meaning": "pesticide",
       "examples": [
-        "The article gave a clear example of representation.",
-        "We discussed representation during the session."
+        {
+          "de": "Pestizide schützen Pflanzen vor bestimmten Schädlingen.",
+          "en": "Pesticides protect plants from certain pests."
+        },
+        {
+          "de": "Einige Pestizide können Insekten und Gewässer schädigen.",
+          "en": "Some pesticides can harm insects and bodies of water."
+        }
       ]
     },
     {
-      "word": "parliament",
-      "meaning": "a national law-making body made up of elected representatives",
+      "word": "die Landwirtschaft",
+      "meaning": "agriculture",
       "examples": [
-        "Many people have strong opinions about parliament.",
-        "Understanding parliament helped me follow the discussion."
+        {
+          "de": "Die Landwirtschaft muss genug Lebensmittel produzieren.",
+          "en": "Agriculture has to produce enough food."
+        },
+        {
+          "de": "Nachhaltige Landwirtschaft soll Böden langfristig schützen.",
+          "en": "Sustainable agriculture is intended to protect soils in the long term."
+        }
       ]
     },
     {
-      "word": "gender equality",
-      "meaning": "equal rights, opportunities, and treatment regardless of gender",
+      "word": "die Vergiftung",
+      "meaning": "poisoning",
       "examples": [
-        "Gender equality was one of the key ideas in the article.",
-        "I used the term gender equality when explaining my opinion."
+        {
+          "de": "Unsachgemäßer Pestizideinsatz kann zu Vergiftungen führen.",
+          "en": "Improper pesticide use can lead to poisoning."
+        },
+        {
+          "de": "Schutzkleidung reduziert das Risiko einer Vergiftung.",
+          "en": "Protective clothing reduces the risk of poisoning."
+        }
       ]
     },
     {
-      "word": "leadership",
-      "meaning": "the ability or position of guiding a group or organisation",
+      "word": "der Schädling",
+      "meaning": "pest",
       "examples": [
-        "The speaker described how leadership can affect people's lives.",
-        "Our group talked about the advantages and disadvantages of leadership."
+        {
+          "de": "Landwirte versuchen, ihre Pflanzen vor Schädlingen zu schützen.",
+          "en": "Farmers try to protect their crops from pests."
+        },
+        {
+          "de": "Nicht jedes Insekt auf einem Feld ist ein Schädling.",
+          "en": "Not every insect in a field is a pest."
+        }
       ]
     },
     {
-      "word": "quota",
-      "meaning": "a fixed number or proportion reserved for a particular group",
+      "word": "der Pflanzenschutz",
+      "meaning": "crop protection",
       "examples": [
-        "The discussion made me think more carefully about quota.",
-        "Different countries may have different experiences with quota."
+        {
+          "de": "Pflanzenschutz umfasst chemische und biologische Methoden.",
+          "en": "Crop protection includes chemical and biological methods."
+        },
+        {
+          "de": "Moderner Pflanzenschutz sollte möglichst gezielt eingesetzt werden.",
+          "en": "Modern crop protection should be used as selectively as possible."
+        }
       ]
     },
     {
-      "word": "policymaking",
-      "meaning": "the process of developing official plans, laws, or rules",
+      "word": "die Artenvielfalt",
+      "meaning": "biodiversity",
       "examples": [
-        "I had heard of policymaking before, but I did not fully understand it.",
-        "After the lesson, I could explain policymaking in my own words."
+        {
+          "de": "Ein hoher Pestizideinsatz kann die Artenvielfalt verringern.",
+          "en": "High pesticide use can reduce biodiversity."
+        },
+        {
+          "de": "Artenvielfalt macht Ökosysteme widerstandsfähiger.",
+          "en": "Biodiversity makes ecosystems more resilient."
+        }
       ]
     }
   ]

@@ -1,52 +1,88 @@
 {
-  "title": "The country that measures happiness",
+  "title": "Schlechte Perspektiven für Forscher",
   "vocabulary": [
     {
-      "word": "happiness index",
-      "meaning": "a measure used to compare levels of happiness or wellbeing across populations",
+      "word": "der Zeitvertrag",
+      "meaning": "fixed-term contract",
       "examples": [
-        "The article gave a clear example of happiness index.",
-        "We discussed happiness index during the session."
+        {
+          "de": "Viele junge Forscher arbeiten jahrelang mit Zeitverträgen.",
+          "en": "Many young researchers work for years on fixed-term contracts."
+        },
+        {
+          "de": "Ein Zeitvertrag erschwert langfristige Lebensplanung.",
+          "en": "A fixed-term contract makes long-term life planning more difficult."
+        }
       ]
     },
     {
-      "word": "wellbeing",
-      "meaning": "a state of being healthy, comfortable, and satisfied with life",
+      "word": "die Perspektive",
+      "meaning": "prospect; outlook",
       "examples": [
-        "Many people have strong opinions about wellbeing.",
-        "Understanding wellbeing helped me follow the discussion."
+        {
+          "de": "Junge Wissenschaftler wünschen sich bessere berufliche Perspektiven.",
+          "en": "Young scientists want better career prospects."
+        },
+        {
+          "de": "Ohne klare Perspektive verlassen manche die Forschung.",
+          "en": "Without a clear prospect, some leave research."
+        }
       ]
     },
     {
-      "word": "life satisfaction",
-      "meaning": "a person's overall judgement of how satisfied they are with their life",
+      "word": "die Wissenschaft",
+      "meaning": "science; academia",
       "examples": [
-        "Life satisfaction was one of the key ideas in the article.",
-        "I used the term life satisfaction when explaining my opinion."
+        {
+          "de": "Die Wissenschaft lebt von langfristiger und unabhängiger Forschung.",
+          "en": "Science depends on long-term and independent research."
+        },
+        {
+          "de": "Gute Arbeitsbedingungen helfen der Wissenschaft, Talente zu halten.",
+          "en": "Good working conditions help science retain talent."
+        }
       ]
     },
     {
-      "word": "quality of life",
-      "meaning": "the general level of health, comfort, happiness, and opportunity a person experiences",
+      "word": "befristet",
+      "meaning": "fixed-term; temporary",
       "examples": [
-        "The speaker described how quality of life can affect people's lives.",
-        "Our group talked about the advantages and disadvantages of quality of life."
+        {
+          "de": "Die Stelle ist zunächst auf zwei Jahre befristet.",
+          "en": "The position is initially limited to two years."
+        },
+        {
+          "de": "Viele akademische Verträge sind befristet.",
+          "en": "Many academic contracts are fixed-term."
+        }
       ]
     },
     {
-      "word": "survey",
-      "meaning": "a method of collecting information by asking people a set of questions",
+      "word": "die Planbarkeit",
+      "meaning": "predictability; ability to plan",
       "examples": [
-        "The discussion made me think more carefully about survey.",
-        "Different countries may have different experiences with survey."
+        {
+          "de": "Beschäftigte wünschen sich mehr Planbarkeit für ihre Karriere.",
+          "en": "Employees want greater predictability for their careers."
+        },
+        {
+          "de": "Unbefristete Stellen erhöhen die Planbarkeit des Lebens.",
+          "en": "Permanent positions increase the ability to plan one's life."
+        }
       ]
     },
     {
-      "word": "public policy",
-      "meaning": "government plans and decisions designed to address social or economic issues",
+      "word": "der Nachwuchsforscher",
+      "meaning": "early-career researcher",
       "examples": [
-        "I had heard of public policy before, but I did not fully understand it.",
-        "After the lesson, I could explain public policy in my own words."
+        {
+          "de": "Nachwuchsforscher brauchen Betreuung und realistische Karrierewege.",
+          "en": "Early-career researchers need support and realistic career paths."
+        },
+        {
+          "de": "Viele Nachwuchsforscher wechseln später in die Wirtschaft.",
+          "en": "Many early-career researchers later move into industry."
+        }
       ]
     }
   ]

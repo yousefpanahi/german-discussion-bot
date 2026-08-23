@@ -1,52 +1,88 @@
 {
-  "title": "How do babies communicate?",
+  "title": "Aus dem Cockpit auf die Gleise",
   "vocabulary": [
     {
-      "word": "gesture",
-      "meaning": "a movement of the hands, face, or body used to communicate",
+      "word": "das Cockpit",
+      "meaning": "cockpit",
       "examples": [
-        "The article gave a clear example of gesture.",
-        "We discussed gesture during the session."
+        {
+          "de": "Im Cockpit überwacht der Pilot zahlreiche Instrumente.",
+          "en": "In the cockpit, the pilot monitors numerous instruments."
+        },
+        {
+          "de": "Er arbeitete viele Jahre im Cockpit eines Passagierflugzeugs.",
+          "en": "He worked in the cockpit of a passenger plane for many years."
+        }
       ]
     },
     {
-      "word": "babbling",
-      "meaning": "the repeated speech-like sounds made by babies before they can speak words",
+      "word": "die Gleise",
+      "meaning": "railway tracks",
       "examples": [
-        "Many people have strong opinions about babbling.",
-        "Understanding babbling helped me follow the discussion."
+        {
+          "de": "Der Zug fährt auf neu verlegten Gleisen.",
+          "en": "The train runs on newly laid tracks."
+        },
+        {
+          "de": "Auf den Gleisen gelten strenge Sicherheitsregeln.",
+          "en": "Strict safety rules apply on railway tracks."
+        }
       ]
     },
     {
-      "word": "facial expression",
-      "meaning": "a look on the face that communicates an emotion or reaction",
+      "word": "der Lokführer",
+      "meaning": "train driver",
       "examples": [
-        "Facial expression was one of the key ideas in the article.",
-        "I used the term facial expression when explaining my opinion."
+        {
+          "de": "Lokführer tragen eine große Verantwortung für ihre Fahrgäste.",
+          "en": "Train drivers carry great responsibility for their passengers."
+        },
+        {
+          "de": "Viele Bahnunternehmen suchen dringend Lokführer.",
+          "en": "Many railway companies urgently need train drivers."
+        }
       ]
     },
     {
-      "word": "eye contact",
-      "meaning": "the act of looking directly into another person's eyes",
+      "word": "die Umschulung",
+      "meaning": "retraining",
       "examples": [
-        "The speaker described how eye contact can affect people's lives.",
-        "Our group talked about the advantages and disadvantages of eye contact."
+        {
+          "de": "Nach dem Jobverlust begann er eine Umschulung zum Lokführer.",
+          "en": "After losing his job, he began retraining as a train driver."
+        },
+        {
+          "de": "Eine Umschulung eröffnet neue berufliche Möglichkeiten.",
+          "en": "Retraining opens up new career opportunities."
+        }
       ]
     },
     {
-      "word": "non-verbal communication",
-      "meaning": "communication through gestures, expressions, or body language rather than words",
+      "word": "belastbar",
+      "meaning": "resilient; able to cope with pressure",
       "examples": [
-        "The discussion made me think more carefully about non-verbal communication.",
-        "Different countries may have different experiences with non-verbal communication."
+        {
+          "de": "Piloten und Lokführer müssen konzentriert und belastbar sein.",
+          "en": "Pilots and train drivers have to be focused and resilient."
+        },
+        {
+          "de": "In stressigen Berufen ist Belastbarkeit wichtig.",
+          "en": "Resilience is important in stressful professions."
+        }
       ]
     },
     {
-      "word": "language development",
-      "meaning": "the process through which a child learns to understand and use language",
+      "word": "den Beruf wechseln",
+      "meaning": "to change profession",
       "examples": [
-        "I had heard of language development before, but I did not fully understand it.",
-        "After the lesson, I could explain language development in my own words."
+        {
+          "de": "Nach der Krise musste sie den Beruf wechseln.",
+          "en": "After the crisis, she had to change profession."
+        },
+        {
+          "de": "Viele Menschen wechseln im Laufe ihres Lebens mindestens einmal den Beruf.",
+          "en": "Many people change profession at least once during their lives."
+        }
       ]
     }
   ]

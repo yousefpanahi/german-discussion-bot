@@ -1,52 +1,88 @@
 {
-  "title": "Why sitting is bad for health?",
+  "title": "Warum den Kirchen ihre Mitglieder davonlaufen",
   "vocabulary": [
     {
-      "word": "sedentary lifestyle",
-      "meaning": "a way of life involving long periods of sitting and little physical activity",
+      "word": "der Gläubige",
+      "meaning": "believer; member of a faith",
       "examples": [
-        "The article gave a clear example of sedentary lifestyle.",
-        "We discussed sedentary lifestyle during the session."
+        {
+          "de": "Viele Gläubige engagieren sich ehrenamtlich in ihrer Gemeinde.",
+          "en": "Many believers volunteer in their local congregation."
+        },
+        {
+          "de": "Einige Gläubige treten aus ihrer Kirche aus.",
+          "en": "Some believers leave their church."
+        }
       ]
     },
     {
-      "word": "posture",
-      "meaning": "the position in which a person holds their body while sitting, standing, or moving",
+      "word": "der Kirchenaustritt",
+      "meaning": "leaving a church officially",
       "examples": [
-        "Many people have strong opinions about posture.",
-        "Understanding posture helped me follow the discussion."
+        {
+          "de": "Die Zahl der Kirchenaustritte ist in Deutschland gestiegen.",
+          "en": "The number of people officially leaving churches has risen in Germany."
+        },
+        {
+          "de": "Ein Kirchenaustritt kann religiöse oder finanzielle Gründe haben.",
+          "en": "Leaving a church can have religious or financial reasons."
+        }
       ]
     },
     {
-      "word": "circulation",
-      "meaning": "the movement of blood around the body",
+      "word": "die Institution",
+      "meaning": "institution",
       "examples": [
-        "Circulation was one of the key ideas in the article.",
-        "I used the term circulation when explaining my opinion."
+        {
+          "de": "Kirchen sind religiöse und gesellschaftliche Institutionen.",
+          "en": "Churches are religious and social institutions."
+        },
+        {
+          "de": "Vertrauen in eine Institution kann durch Skandale verloren gehen.",
+          "en": "Trust in an institution can be lost through scandals."
+        }
       ]
     },
     {
-      "word": "physical inactivity",
-      "meaning": "a lack of enough movement or exercise for good health",
+      "word": "die Doppelmoral",
+      "meaning": "double standard; hypocrisy",
       "examples": [
-        "The speaker described how physical inactivity can affect people's lives.",
-        "Our group talked about the advantages and disadvantages of physical inactivity."
+        {
+          "de": "Kritiker werfen manchen Kirchenvertretern Doppelmoral vor.",
+          "en": "Critics accuse some church representatives of hypocrisy."
+        },
+        {
+          "de": "Doppelmoral beschädigt die Glaubwürdigkeit einer Organisation.",
+          "en": "Double standards damage an organisation's credibility."
+        }
       ]
     },
     {
-      "word": "muscle weakness",
-      "meaning": "reduced strength in one or more muscles",
+      "word": "die Empörung",
+      "meaning": "outrage",
       "examples": [
-        "The discussion made me think more carefully about muscle weakness.",
-        "Different countries may have different experiences with muscle weakness."
+        {
+          "de": "Der Skandal löste große Empörung aus.",
+          "en": "The scandal caused widespread outrage."
+        },
+        {
+          "de": "Öffentliche Empörung kann Veränderungen beschleunigen.",
+          "en": "Public outrage can accelerate change."
+        }
       ]
     },
     {
-      "word": "cardiovascular health",
-      "meaning": "the health of the heart and blood vessels",
+      "word": "die Kirchensteuer",
+      "meaning": "church tax",
       "examples": [
-        "I had heard of cardiovascular health before, but I did not fully understand it.",
-        "After the lesson, I could explain cardiovascular health in my own words."
+        {
+          "de": "Mitglieder bestimmter Kirchen zahlen in Deutschland Kirchensteuer.",
+          "en": "Members of certain churches in Germany pay church tax."
+        },
+        {
+          "de": "Auch die Kirchensteuer spielt bei manchen Austritten eine Rolle.",
+          "en": "Church tax also plays a role in some decisions to leave the church."
+        }
       ]
     }
   ]

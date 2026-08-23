@@ -1,52 +1,88 @@
 {
-  "title": "How climate change affects animal migration?",
+  "title": "Ewige Chemikalien: das versteckte Gift",
   "vocabulary": [
     {
-      "word": "migration route",
-      "meaning": "the path regularly followed by animals moving between different areas",
+      "word": "die Chemikalie",
+      "meaning": "chemical substance",
       "examples": [
-        "The article gave a clear example of migration route.",
-        "We discussed migration route during the session."
+        {
+          "de": "Bestimmte Chemikalien bleiben sehr lange in der Umwelt.",
+          "en": "Certain chemicals remain in the environment for a very long time."
+        },
+        {
+          "de": "Chemikalien müssen vor ihrer Verwendung sorgfältig geprüft werden.",
+          "en": "Chemicals have to be carefully tested before use."
+        }
       ]
     },
     {
-      "word": "habitat",
-      "meaning": "the natural environment in which an animal or plant lives",
+      "word": "die Beschichtung",
+      "meaning": "coating",
       "examples": [
-        "Many people have strong opinions about habitat.",
-        "Understanding habitat helped me follow the discussion."
+        {
+          "de": "Eine spezielle Beschichtung macht eine Pfanne wasser- und fettabweisend.",
+          "en": "A special coating makes a pan repel water and grease."
+        },
+        {
+          "de": "Manche problematischen Stoffe werden in Beschichtungen verwendet.",
+          "en": "Some problematic substances are used in coatings."
+        }
       ]
     },
     {
-      "word": "seasonal migration",
-      "meaning": "regular movement linked to seasonal changes in weather, food, or breeding",
+      "word": "die Konzentration",
+      "meaning": "concentration",
       "examples": [
-        "Seasonal migration was one of the key ideas in the article.",
-        "I used the term seasonal migration when explaining my opinion."
+        {
+          "de": "Forscher messen die Konzentration von Chemikalien im Wasser.",
+          "en": "Researchers measure the concentration of chemicals in the water."
+        },
+        {
+          "de": "Schon geringe Konzentrationen können bei manchen Stoffen relevant sein.",
+          "en": "Even low concentrations can be relevant for some substances."
+        }
       ]
     },
     {
-      "word": "breeding ground",
-      "meaning": "a place where animals regularly reproduce",
+      "word": "langlebig",
+      "meaning": "persistent; long-lasting",
       "examples": [
-        "The speaker described how breeding ground can affect people's lives.",
-        "Our group talked about the advantages and disadvantages of breeding ground."
+        {
+          "de": "Langlebige Chemikalien werden in der Natur nur sehr langsam abgebaut.",
+          "en": "Persistent chemicals break down only very slowly in nature."
+        },
+        {
+          "de": "Ein langlebiger Stoff kann sich über Jahre in der Umwelt sammeln.",
+          "en": "A persistent substance can accumulate in the environment over years."
+        }
       ]
     },
     {
-      "word": "temperature shift",
-      "meaning": "a change in average or seasonal temperature",
+      "word": "giftig",
+      "meaning": "toxic; poisonous",
       "examples": [
-        "The discussion made me think more carefully about temperature shift.",
-        "Different countries may have different experiences with temperature shift."
+        {
+          "de": "Nicht jede Chemikalie ist automatisch giftig.",
+          "en": "Not every chemical is automatically toxic."
+        },
+        {
+          "de": "Giftige Stoffe dürfen nicht ins Trinkwasser gelangen.",
+          "en": "Toxic substances must not enter drinking water."
+        }
       ]
     },
     {
-      "word": "ecosystem",
-      "meaning": "a community of living organisms interacting with each other and their environment",
+      "word": "die Belastung",
+      "meaning": "contamination; burden",
       "examples": [
-        "I had heard of ecosystem before, but I did not fully understand it.",
-        "After the lesson, I could explain ecosystem in my own words."
+        {
+          "de": "Die Belastung des Bodens wurde jahrelang nicht entdeckt.",
+          "en": "The contamination of the soil went undetected for years."
+        },
+        {
+          "de": "Behörden untersuchen die Belastung von Trinkwasser und Lebensmitteln.",
+          "en": "Authorities investigate contamination of drinking water and food."
+        }
       ]
     }
   ]

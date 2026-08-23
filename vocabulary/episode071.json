@@ -1,52 +1,88 @@
 {
-  "title": "How do you say sorry?",
+  "title": "Sind 130 Kilometer pro Stunde genug?",
   "vocabulary": [
     {
-      "word": "apology",
-      "meaning": "a statement that expresses regret for doing something wrong",
+      "word": "das Tempolimit",
+      "meaning": "speed limit",
       "examples": [
-        "The article gave a clear example of apology.",
-        "We discussed apology during the session."
+        {
+          "de": "Ein allgemeines Tempolimit auf Autobahnen ist in Deutschland umstritten.",
+          "en": "A general speed limit on motorways is controversial in Germany."
+        },
+        {
+          "de": "Viele Länder haben seit Jahren ein Tempolimit.",
+          "en": "Many countries have had a speed limit for years."
+        }
       ]
     },
     {
-      "word": "remorse",
-      "meaning": "a strong feeling of guilt and regret about something you have done",
+      "word": "die Autobahn",
+      "meaning": "motorway",
       "examples": [
-        "Many people have strong opinions about remorse.",
-        "Understanding remorse helped me follow the discussion."
+        {
+          "de": "Auf manchen deutschen Autobahnen gibt es keine allgemeine Höchstgeschwindigkeit.",
+          "en": "There is no general maximum speed on some German motorways."
+        },
+        {
+          "de": "Bei starkem Verkehr ist die Autobahn schnell überlastet.",
+          "en": "The motorway quickly becomes congested in heavy traffic."
+        }
       ]
     },
     {
-      "word": "responsibility",
-      "meaning": "the duty to accept the results of your actions",
+      "word": "die Geschwindigkeitsbegrenzung",
+      "meaning": "speed restriction",
       "examples": [
-        "Responsibility was one of the key ideas in the article.",
-        "I used the term responsibility when explaining my opinion."
+        {
+          "de": "Eine Geschwindigkeitsbegrenzung soll Unfälle und Emissionen reduzieren.",
+          "en": "A speed restriction is intended to reduce accidents and emissions."
+        },
+        {
+          "de": "Temporäre Geschwindigkeitsbegrenzungen gelten oft an Baustellen.",
+          "en": "Temporary speed restrictions often apply at roadworks."
+        }
       ]
     },
     {
-      "word": "forgiveness",
-      "meaning": "the decision to stop feeling anger toward someone for a mistake or offence",
+      "word": "der Befürworter",
+      "meaning": "supporter; advocate",
       "examples": [
-        "The speaker described how forgiveness can affect people's lives.",
-        "Our group talked about the advantages and disadvantages of forgiveness."
+        {
+          "de": "Befürworter verweisen auf Klimaschutz und Verkehrssicherheit.",
+          "en": "Supporters point to climate protection and road safety."
+        },
+        {
+          "de": "Befürworter und Gegner argumentieren sehr unterschiedlich.",
+          "en": "Supporters and opponents argue very differently."
+        }
       ]
     },
     {
-      "word": "sincerity",
-      "meaning": "the quality of being genuine and honest in what you say or feel",
+      "word": "der Gegner",
+      "meaning": "opponent",
       "examples": [
-        "The discussion made me think more carefully about sincerity.",
-        "Different countries may have different experiences with sincerity."
+        {
+          "de": "Gegner des Tempolimits sehen darin eine Einschränkung persönlicher Freiheit.",
+          "en": "Opponents of the speed limit see it as a restriction of personal freedom."
+        },
+        {
+          "de": "Die Gegner fordern andere Maßnahmen gegen Emissionen.",
+          "en": "Opponents are calling for other measures against emissions."
+        }
       ]
     },
     {
-      "word": "reconciliation",
-      "meaning": "the process of restoring a friendly relationship after conflict",
+      "word": "die Reichweite",
+      "meaning": "range; distance a vehicle can travel",
       "examples": [
-        "I had heard of reconciliation before, but I did not fully understand it.",
-        "After the lesson, I could explain reconciliation in my own words."
+        {
+          "de": "Bei hoher Geschwindigkeit sinkt die Reichweite eines Elektroautos.",
+          "en": "The range of an electric car decreases at high speed."
+        },
+        {
+          "de": "Für lange Reisen ist eine große Reichweite praktisch.",
+          "en": "A long range is practical for long journeys."
+        }
       ]
     }
   ]

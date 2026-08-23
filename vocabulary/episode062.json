@@ -1,52 +1,88 @@
 {
-  "title": "Can climate change cause more disease?",
+  "title": "Klimapolitik: Bürgerrat soll Regierung beraten",
   "vocabulary": [
     {
-      "word": "vector-borne disease",
-      "meaning": "a disease spread by organisms such as mosquitoes or ticks",
+      "word": "der Bürgerrat",
+      "meaning": "citizens' assembly",
       "examples": [
-        "The article gave a clear example of vector-borne disease.",
-        "We discussed vector-borne disease during the session."
+        {
+          "de": "Ein Bürgerrat soll Empfehlungen zur Klimapolitik entwickeln.",
+          "en": "A citizens' assembly is intended to develop recommendations on climate policy."
+        },
+        {
+          "de": "Die Mitglieder des Bürgerrats werden möglichst vielfältig ausgewählt.",
+          "en": "The members of the citizens' assembly are selected to be as diverse as possible."
+        }
       ]
     },
     {
-      "word": "pathogen",
-      "meaning": "a microorganism, such as a virus or bacterium, that can cause disease",
+      "word": "die Empfehlung",
+      "meaning": "recommendation",
       "examples": [
-        "Many people have strong opinions about pathogen.",
-        "Understanding pathogen helped me follow the discussion."
+        {
+          "de": "Der Bürgerrat übergab der Regierung mehrere Empfehlungen.",
+          "en": "The citizens' assembly gave the government several recommendations."
+        },
+        {
+          "de": "Eine Empfehlung ist politisch nicht automatisch verbindlich.",
+          "en": "A recommendation is not automatically politically binding."
+        }
       ]
     },
     {
-      "word": "transmission",
-      "meaning": "the process by which a disease passes from one person or organism to another",
+      "word": "repräsentativ",
+      "meaning": "representative",
       "examples": [
-        "Transmission was one of the key ideas in the article.",
-        "I used the term transmission when explaining my opinion."
+        {
+          "de": "Die Gruppe soll die Bevölkerung möglichst repräsentativ abbilden.",
+          "en": "The group should represent the population as closely as possible."
+        },
+        {
+          "de": "Eine repräsentative Umfrage braucht eine geeignete Stichprobe.",
+          "en": "A representative survey needs an appropriate sample."
+        }
       ]
     },
     {
-      "word": "outbreak",
-      "meaning": "a sudden increase in cases of a disease in a particular place",
+      "word": "jemanden beraten",
+      "meaning": "to advise someone",
       "examples": [
-        "The speaker described how outbreak can affect people's lives.",
-        "Our group talked about the advantages and disadvantages of outbreak."
+        {
+          "de": "Experten beraten die Teilnehmer zu komplizierten Fragen.",
+          "en": "Experts advise the participants on complicated questions."
+        },
+        {
+          "de": "Der Ausschuss soll die Regierung beraten.",
+          "en": "The committee is intended to advise the government."
+        }
       ]
     },
     {
-      "word": "climate-sensitive disease",
-      "meaning": "a disease whose spread or severity can be affected by climate conditions",
+      "word": "die Beteiligung",
+      "meaning": "participation",
       "examples": [
-        "The discussion made me think more carefully about climate-sensitive disease.",
-        "Different countries may have different experiences with climate-sensitive disease."
+        {
+          "de": "Mehr Beteiligung kann das Vertrauen in politische Entscheidungen stärken.",
+          "en": "Greater participation can strengthen trust in political decisions."
+        },
+        {
+          "de": "Viele Bürger wünschen sich mehr direkte Beteiligung.",
+          "en": "Many citizens want more direct participation."
+        }
       ]
     },
     {
-      "word": "public health",
-      "meaning": "the health of a population and the organised efforts to protect it",
+      "word": "der Klimaschutz",
+      "meaning": "climate protection",
       "examples": [
-        "I had heard of public health before, but I did not fully understand it.",
-        "After the lesson, I could explain public health in my own words."
+        {
+          "de": "Beim Klimaschutz sind langfristige Entscheidungen notwendig.",
+          "en": "Long-term decisions are necessary for climate protection."
+        },
+        {
+          "de": "Wirksamer Klimaschutz betrifft Verkehr, Energie und Industrie.",
+          "en": "Effective climate protection involves transport, energy, and industry."
+        }
       ]
     }
   ]

@@ -1,52 +1,88 @@
 {
-  "title": "Are you unhappy at work?",
+  "title": "Leben nach der inneren Uhr",
   "vocabulary": [
     {
-      "word": "job satisfaction",
-      "meaning": "the degree to which a person feels happy and fulfilled at work",
+      "word": "die innere Uhr",
+      "meaning": "internal body clock",
       "examples": [
-        "The article gave a clear example of job satisfaction.",
-        "We discussed job satisfaction during the session."
+        {
+          "de": "Unsere innere Uhr beeinflusst Schlaf und Leistungsfähigkeit.",
+          "en": "Our internal body clock influences sleep and performance."
+        },
+        {
+          "de": "Bei Reisen über Zeitzonen gerät die innere Uhr durcheinander.",
+          "en": "When travelling across time zones, the internal clock gets disrupted."
+        }
       ]
     },
     {
-      "word": "morale",
-      "meaning": "the confidence, enthusiasm, and emotional state of a group of workers",
+      "word": "der Chronotyp",
+      "meaning": "chronotype",
       "examples": [
-        "Many people have strong opinions about morale.",
-        "Understanding morale helped me follow the discussion."
+        {
+          "de": "Der Chronotyp bestimmt, wann jemand besonders wach und leistungsfähig ist.",
+          "en": "A chronotype determines when someone is especially alert and productive."
+        },
+        {
+          "de": "Manche Chronotypen stehen natürlicherweise später auf.",
+          "en": "Some chronotypes naturally get up later."
+        }
       ]
     },
     {
-      "word": "workload",
-      "meaning": "the amount of work a person is expected to complete",
+      "word": "der Schlafrhythmus",
+      "meaning": "sleep rhythm",
       "examples": [
-        "Workload was one of the key ideas in the article.",
-        "I used the term workload when explaining my opinion."
+        {
+          "de": "Ein regelmäßiger Schlafrhythmus kann die Gesundheit unterstützen.",
+          "en": "A regular sleep rhythm can support health."
+        },
+        {
+          "de": "Schichtarbeit stört bei vielen Menschen den Schlafrhythmus.",
+          "en": "Shift work disrupts many people's sleep rhythm."
+        }
       ]
     },
     {
-      "word": "burnout",
-      "meaning": "extreme physical and emotional tiredness caused by long-term stress",
+      "word": "die Leistungsfähigkeit",
+      "meaning": "performance capacity",
       "examples": [
-        "The speaker described how burnout can affect people's lives.",
-        "Our group talked about the advantages and disadvantages of burnout."
+        {
+          "de": "Zu wenig Schlaf reduziert die Leistungsfähigkeit.",
+          "en": "Too little sleep reduces performance capacity."
+        },
+        {
+          "de": "Die Leistungsfähigkeit ist nicht zu jeder Tageszeit gleich.",
+          "en": "Performance capacity is not the same at every time of day."
+        }
       ]
     },
     {
-      "word": "career change",
-      "meaning": "a move from one profession or type of work to another",
+      "word": "die Schichtarbeit",
+      "meaning": "shift work",
       "examples": [
-        "The discussion made me think more carefully about career change.",
-        "Different countries may have different experiences with career change."
+        {
+          "de": "Schichtarbeit kann die innere Uhr stark belasten.",
+          "en": "Shift work can put considerable strain on the internal clock."
+        },
+        {
+          "de": "Nicht jeder Mensch verträgt Schichtarbeit gleich gut.",
+          "en": "Not everyone tolerates shift work equally well."
+        }
       ]
     },
     {
-      "word": "work-life balance",
-      "meaning": "a healthy division of time and energy between work and personal life",
+      "word": "sich synchronisieren",
+      "meaning": "to synchronise",
       "examples": [
-        "I had heard of work-life balance before, but I did not fully understand it.",
-        "After the lesson, I could explain work-life balance in my own words."
+        {
+          "de": "Die innere Uhr synchronisiert sich unter anderem mit Tageslicht.",
+          "en": "The internal clock synchronises partly with daylight."
+        },
+        {
+          "de": "Nach einem Langstreckenflug muss sich der Körper neu synchronisieren.",
+          "en": "After a long-haul flight, the body has to resynchronise."
+        }
       ]
     }
   ]

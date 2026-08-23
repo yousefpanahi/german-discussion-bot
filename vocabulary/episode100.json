@@ -1,52 +1,88 @@
 {
-  "title": "Should animals be kept in zoos?",
+  "title": "Tief Ahmet und Hoch Bozena: Die Wetterkarte wird international",
   "vocabulary": [
     {
-      "word": "captivity",
-      "meaning": "the state of being kept in a confined place rather than living freely",
+      "word": "das Hochdruckgebiet",
+      "meaning": "high-pressure weather system",
       "examples": [
-        "The article gave a clear example of captivity.",
-        "We discussed captivity during the session."
+        {
+          "de": "Ein Hochdruckgebiet bringt häufig trockenes Wetter.",
+          "en": "A high-pressure system often brings dry weather."
+        },
+        {
+          "de": "Hochdruckgebiete erhalten in Wetterkarten Namen.",
+          "en": "High-pressure systems are given names on weather maps."
+        }
       ]
     },
     {
-      "word": "enclosure",
-      "meaning": "a contained area in which animals are kept",
+      "word": "das Tiefdruckgebiet",
+      "meaning": "low-pressure weather system",
       "examples": [
-        "Many people have strong opinions about enclosure.",
-        "Understanding enclosure helped me follow the discussion."
+        {
+          "de": "Ein Tiefdruckgebiet kann Wind und Regen bringen.",
+          "en": "A low-pressure system can bring wind and rain."
+        },
+        {
+          "de": "Das Tiefdruckgebiet zieht langsam nach Osten.",
+          "en": "The low-pressure system is moving slowly eastward."
+        }
       ]
     },
     {
-      "word": "conservation",
-      "meaning": "the protection of wildlife, habitats, and natural resources",
+      "word": "die Wetterkarte",
+      "meaning": "weather map",
       "examples": [
-        "Conservation was one of the key ideas in the article.",
-        "I used the term conservation when explaining my opinion."
+        {
+          "de": "Auf der Wetterkarte erkennt man Hoch- und Tiefdruckgebiete.",
+          "en": "High- and low-pressure systems can be seen on the weather map."
+        },
+        {
+          "de": "Die Wetterkarte hilft bei der Vorhersage der nächsten Tage.",
+          "en": "The weather map helps forecast the next few days."
+        }
       ]
     },
     {
-      "word": "animal welfare",
-      "meaning": "the physical and psychological wellbeing of animals",
+      "word": "die Namensgebung",
+      "meaning": "naming; process of giving names",
       "examples": [
-        "The speaker described how animal welfare can affect people's lives.",
-        "Our group talked about the advantages and disadvantages of animal welfare."
+        {
+          "de": "Die Namensgebung von Wetterlagen folgt bestimmten Regeln.",
+          "en": "The naming of weather systems follows certain rules."
+        },
+        {
+          "de": "Eine vielfältigere Namensgebung kann unterschiedliche Bevölkerungsgruppen sichtbarer machen.",
+          "en": "More diverse naming can make different population groups more visible."
+        }
       ]
     },
     {
-      "word": "breeding programme",
-      "meaning": "an organised effort to reproduce animals, often to protect a species",
+      "word": "international",
+      "meaning": "international",
       "examples": [
-        "The discussion made me think more carefully about breeding programme.",
-        "Different countries may have different experiences with breeding programme."
+        {
+          "de": "Die Wetterkarte wird durch neue Namen internationaler.",
+          "en": "The weather map is becoming more international through new names."
+        },
+        {
+          "de": "Wetter kennt keine Grenzen und ist ein internationales Thema.",
+          "en": "Weather knows no borders and is an international topic."
+        }
       ]
     },
     {
-      "word": "natural habitat",
-      "meaning": "the environment in which a species normally lives in the wild",
+      "word": "die Vielfalt",
+      "meaning": "diversity",
       "examples": [
-        "I had heard of natural habitat before, but I did not fully understand it.",
-        "After the lesson, I could explain natural habitat in my own words."
+        {
+          "de": "Die neuen Namen sollen gesellschaftliche Vielfalt zeigen.",
+          "en": "The new names are intended to reflect social diversity."
+        },
+        {
+          "de": "Vielfalt kann sich auch in Sprache und Namenswahl ausdrücken.",
+          "en": "Diversity can also be expressed in language and the choice of names."
+        }
       ]
     }
   ]

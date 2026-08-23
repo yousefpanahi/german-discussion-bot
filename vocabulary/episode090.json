@@ -1,52 +1,88 @@
 {
-  "title": "What is the future of work?",
+  "title": "Schlechte Jobs für hochqualifizierte Türken",
   "vocabulary": [
     {
-      "word": "automation",
-      "meaning": "the use of technology to perform tasks with limited human involvement",
+      "word": "der Studienabschluss",
+      "meaning": "university degree",
       "examples": [
-        "The article gave a clear example of automation.",
-        "We discussed automation during the session."
+        {
+          "de": "Sein ausländischer Studienabschluss wurde zunächst nicht anerkannt.",
+          "en": "His foreign university degree was initially not recognised."
+        },
+        {
+          "de": "Ein Studienabschluss allein garantiert noch keinen passenden Arbeitsplatz.",
+          "en": "A university degree alone does not guarantee a suitable job."
+        }
       ]
     },
     {
-      "word": "remote work",
-      "meaning": "work carried out away from a traditional office, often from home",
+      "word": "die Qualifikation",
+      "meaning": "qualification",
       "examples": [
-        "Many people have strong opinions about remote work.",
-        "Understanding remote work helped me follow the discussion."
+        {
+          "de": "Viele Einwanderer bringen hohe berufliche Qualifikationen mit.",
+          "en": "Many immigrants bring high professional qualifications."
+        },
+        {
+          "de": "Die Tätigkeit entspricht nicht ihrer Qualifikation.",
+          "en": "The job does not match her qualification."
+        }
       ]
     },
     {
-      "word": "reskilling",
-      "meaning": "learning new abilities in order to do a different type of job",
+      "word": "die Aufenthaltserlaubnis",
+      "meaning": "residence permit",
       "examples": [
-        "Reskilling was one of the key ideas in the article.",
-        "I used the term reskilling when explaining my opinion."
+        {
+          "de": "Für manche Arbeitsmigranten hängt die Aufenthaltserlaubnis vom Job ab.",
+          "en": "For some labour migrants, the residence permit depends on the job."
+        },
+        {
+          "de": "Sie beantragte nach dem Studium eine neue Aufenthaltserlaubnis.",
+          "en": "She applied for a new residence permit after her studies."
+        }
       ]
     },
     {
-      "word": "gig economy",
-      "meaning": "a labour market based on short-term, freelance, or task-based work",
+      "word": "der Lieferdienst",
+      "meaning": "delivery service",
       "examples": [
-        "The speaker described how gig economy can affect people's lives.",
-        "Our group talked about the advantages and disadvantages of gig economy."
+        {
+          "de": "Der Akademiker arbeitete zunächst bei einem Lieferdienst.",
+          "en": "The graduate initially worked for a delivery service."
+        },
+        {
+          "de": "Lieferdienste beschäftigen viele Menschen in großen Städten.",
+          "en": "Delivery services employ many people in large cities."
+        }
       ]
     },
     {
-      "word": "job security",
-      "meaning": "the likelihood that a person will be able to keep their job",
+      "word": "die Anerkennung",
+      "meaning": "recognition; official validation",
       "examples": [
-        "The discussion made me think more carefully about job security.",
-        "Different countries may have different experiences with job security."
+        {
+          "de": "Die Anerkennung ausländischer Abschlüsse sollte transparent sein.",
+          "en": "Recognition of foreign qualifications should be transparent."
+        },
+        {
+          "de": "Eine schnelle Anerkennung erleichtert den Einstieg in den Arbeitsmarkt.",
+          "en": "Fast recognition makes it easier to enter the labour market."
+        }
       ]
     },
     {
-      "word": "hybrid work",
-      "meaning": "a work arrangement combining remote work with time in a workplace",
+      "word": "unterqualifiziert beschäftigt",
+      "meaning": "employed below one's qualification level",
       "examples": [
-        "I had heard of hybrid work before, but I did not fully understand it.",
-        "After the lesson, I could explain hybrid work in my own words."
+        {
+          "de": "Viele Zuwanderer sind zunächst unterqualifiziert beschäftigt.",
+          "en": "Many immigrants are initially employed below their qualification level."
+        },
+        {
+          "de": "Wer dauerhaft unterqualifiziert beschäftigt ist, kann berufliche Fähigkeiten verlieren.",
+          "en": "Someone employed below their qualification level for a long time can lose professional skills."
+        }
       ]
     }
   ]

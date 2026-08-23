@@ -1,52 +1,88 @@
 {
-  "title": "Ecotourism: good or bad?",
+  "title": "Sensibler als gedacht: der Oktopus",
   "vocabulary": [
     {
-      "word": "ecotourism",
-      "meaning": "responsible travel to natural areas that aims to protect the environment and support local people",
+      "word": "der Oktopus",
+      "meaning": "octopus",
       "examples": [
-        "The article gave a clear example of ecotourism.",
-        "We discussed ecotourism during the session."
+        {
+          "de": "Der Oktopus löste die Aufgabe überraschend schnell.",
+          "en": "The octopus solved the task surprisingly quickly."
+        },
+        {
+          "de": "Oktopoden gehören zu den intelligentesten wirbellosen Tieren.",
+          "en": "Octopuses are among the most intelligent invertebrates."
+        }
       ]
     },
     {
-      "word": "conservation",
-      "meaning": "the protection of nature, wildlife, and natural resources",
+      "word": "sensibel",
+      "meaning": "sensitive; capable of perceiving strongly",
       "examples": [
-        "Many people have strong opinions about conservation.",
-        "Understanding conservation helped me follow the discussion."
+        {
+          "de": "Viele Tiere reagieren sensibel auf Schmerzen und Stress.",
+          "en": "Many animals react sensitively to pain and stress."
+        },
+        {
+          "de": "Oktopoden gelten als besonders sensible Meerestiere.",
+          "en": "Octopuses are considered especially sensitive marine animals."
+        }
       ]
     },
     {
-      "word": "biodiversity",
-      "meaning": "the variety of plants, animals, and other living things in an area",
+      "word": "das Gedächtnis",
+      "meaning": "memory",
       "examples": [
-        "Biodiversity was one of the key ideas in the article.",
-        "I used the term biodiversity when explaining my opinion."
+        {
+          "de": "Der Oktopus hat ein erstaunlich gutes Gedächtnis.",
+          "en": "The octopus has an amazingly good memory."
+        },
+        {
+          "de": "Ein gutes Gedächtnis hilft Tieren, Gefahren zu vermeiden.",
+          "en": "A good memory helps animals avoid danger."
+        }
       ]
     },
     {
-      "word": "local community",
-      "meaning": "people who live in the same area and share local interests or resources",
+      "word": "etwas meiden",
+      "meaning": "to avoid something",
       "examples": [
-        "The speaker described how local community can affect people's lives.",
-        "Our group talked about the advantages and disadvantages of local community."
+        {
+          "de": "Das Tier meidet einen Ort, an dem es schlechte Erfahrungen gemacht hat.",
+          "en": "The animal avoids a place where it had bad experiences."
+        },
+        {
+          "de": "Viele Menschen meiden überfüllte Orte.",
+          "en": "Many people avoid crowded places."
+        }
       ]
     },
     {
-      "word": "carbon footprint",
-      "meaning": "the total greenhouse-gas emissions caused by a person, activity, or organisation",
+      "word": "der Saugnapf",
+      "meaning": "suction cup",
       "examples": [
-        "The discussion made me think more carefully about carbon footprint.",
-        "Different countries may have different experiences with carbon footprint."
+        {
+          "de": "Mit seinen Saugnäpfen kann sich der Oktopus festhalten.",
+          "en": "The octopus can hold on with its suction cups."
+        },
+        {
+          "de": "Jeder Arm besitzt viele Saugnäpfe.",
+          "en": "Each arm has many suction cups."
+        }
       ]
     },
     {
-      "word": "sustainable tourism",
-      "meaning": "tourism designed to reduce environmental harm and benefit local communities",
+      "word": "bemerkenswert",
+      "meaning": "remarkable",
       "examples": [
-        "I had heard of sustainable tourism before, but I did not fully understand it.",
-        "After the lesson, I could explain sustainable tourism in my own words."
+        {
+          "de": "Das Lernverhalten des Tieres ist bemerkenswert.",
+          "en": "The animal's learning behaviour is remarkable."
+        },
+        {
+          "de": "Sie machte in kurzer Zeit bemerkenswerte Fortschritte.",
+          "en": "She made remarkable progress in a short time."
+        }
       ]
     }
   ]

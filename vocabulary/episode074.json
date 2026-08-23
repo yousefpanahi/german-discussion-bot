@@ -1,52 +1,88 @@
 {
-  "title": "Mushrooms: Medicine or myth?",
+  "title": "Wenn zu viel Englisch Wissen bedroht",
   "vocabulary": [
     {
-      "word": "medicinal mushroom",
-      "meaning": "a mushroom used or studied for possible health benefits",
+      "word": "die Verkehrssprache",
+      "meaning": "lingua franca; common language for communication",
       "examples": [
-        "The article gave a clear example of medicinal mushroom.",
-        "We discussed medicinal mushroom during the session."
+        {
+          "de": "Englisch ist in vielen Forschungsbereichen die wichtigste Verkehrssprache.",
+          "en": "English is the main lingua franca in many research fields."
+        },
+        {
+          "de": "Eine gemeinsame Verkehrssprache erleichtert internationale Zusammenarbeit.",
+          "en": "A common lingua franca makes international cooperation easier."
+        }
       ]
     },
     {
-      "word": "evidence",
-      "meaning": "information or research that supports or challenges a claim",
+      "word": "die Fachzeitschrift",
+      "meaning": "academic or specialist journal",
       "examples": [
-        "Many people have strong opinions about evidence.",
-        "Understanding evidence helped me follow the discussion."
+        {
+          "de": "Forscher veröffentlichen ihre Ergebnisse in Fachzeitschriften.",
+          "en": "Researchers publish their findings in academic journals."
+        },
+        {
+          "de": "Viele internationale Fachzeitschriften erscheinen auf Englisch.",
+          "en": "Many international academic journals are published in English."
+        }
       ]
     },
     {
-      "word": "placebo",
-      "meaning": "an inactive treatment used to compare against a real treatment in research",
+      "word": "die indigene Sprache",
+      "meaning": "indigenous language",
       "examples": [
-        "Placebo was one of the key ideas in the article.",
-        "I used the term placebo when explaining my opinion."
+        {
+          "de": "Indigene Sprachen enthalten oft wertvolles lokales Wissen.",
+          "en": "Indigenous languages often contain valuable local knowledge."
+        },
+        {
+          "de": "Viele indigene Sprachen sind vom Aussterben bedroht.",
+          "en": "Many indigenous languages are threatened with extinction."
+        }
       ]
     },
     {
-      "word": "bioactive compound",
-      "meaning": "a chemical substance that can have an effect on living tissue",
+      "word": "aussterben",
+      "meaning": "to die out; become extinct",
       "examples": [
-        "The speaker described how bioactive compound can affect people's lives.",
-        "Our group talked about the advantages and disadvantages of bioactive compound."
+        {
+          "de": "Eine Sprache kann aussterben, wenn sie kaum noch gesprochen wird.",
+          "en": "A language can die out if it is hardly spoken anymore."
+        },
+        {
+          "de": "Mit jeder Sprache, die ausstirbt, kann Wissen verloren gehen.",
+          "en": "Knowledge can be lost with every language that dies out."
+        }
       ]
     },
     {
-      "word": "immune system",
-      "meaning": "the body's network of cells and organs that defends against disease",
+      "word": "wahrnehmen",
+      "meaning": "to notice; perceive",
       "examples": [
-        "The discussion made me think more carefully about immune system.",
-        "Different countries may have different experiences with immune system."
+        {
+          "de": "Forschung in kleinen Sprachen wird international oft weniger wahrgenommen.",
+          "en": "Research in smaller languages is often noticed less internationally."
+        },
+        {
+          "de": "Gute Übersetzungen helfen, Ergebnisse weltweit wahrzunehmen.",
+          "en": "Good translations help research findings to be noticed worldwide."
+        }
       ]
     },
     {
-      "word": "clinical trial",
-      "meaning": "a research study that tests a treatment or medical intervention in people",
+      "word": "die Artenvielfalt",
+      "meaning": "biodiversity",
       "examples": [
-        "I had heard of clinical trial before, but I did not fully understand it.",
-        "After the lesson, I could explain clinical trial in my own words."
+        {
+          "de": "Lokales Wissen kann beim Schutz der Artenvielfalt helfen.",
+          "en": "Local knowledge can help protect biodiversity."
+        },
+        {
+          "de": "Die Forschung zur Artenvielfalt findet weltweit statt.",
+          "en": "Research on biodiversity takes place worldwide."
+        }
       ]
     }
   ]

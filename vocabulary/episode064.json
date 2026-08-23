@@ -1,52 +1,88 @@
 {
-  "title": "Addicted to war",
+  "title": "Neue Regeln gegen Hass auf Telegram",
   "vocabulary": [
     {
-      "word": "conflict",
-      "meaning": "a serious disagreement or struggle, often involving groups or countries",
+      "word": "die Hassnachricht",
+      "meaning": "hate message",
       "examples": [
-        "The article gave a clear example of conflict.",
-        "We discussed conflict during the session."
+        {
+          "de": "Die Politikerin erhielt zahlreiche Hassnachrichten.",
+          "en": "The politician received numerous hate messages."
+        },
+        {
+          "de": "Plattformen müssen strafbare Hassnachrichten schneller entfernen.",
+          "en": "Platforms must remove illegal hate messages more quickly."
+        }
       ]
     },
     {
-      "word": "warfare",
-      "meaning": "the activity and methods of fighting a war",
+      "word": "die Morddrohung",
+      "meaning": "death threat",
       "examples": [
-        "Many people have strong opinions about warfare.",
-        "Understanding warfare helped me follow the discussion."
+        {
+          "de": "Eine Morddrohung ist keine normale Meinungsäußerung.",
+          "en": "A death threat is not a normal expression of opinion."
+        },
+        {
+          "de": "Schwere Morddrohungen müssen den Behörden gemeldet werden.",
+          "en": "Serious death threats must be reported to the authorities."
+        }
       ]
     },
     {
-      "word": "militarisation",
-      "meaning": "the process of giving greater importance or resources to military forces",
+      "word": "die Hetze",
+      "meaning": "incitement; hate speech",
       "examples": [
-        "Militarisation was one of the key ideas in the article.",
-        "I used the term militarisation when explaining my opinion."
+        {
+          "de": "Hass und Hetze verbreiten sich online oft schnell.",
+          "en": "Hate and incitement often spread quickly online."
+        },
+        {
+          "de": "Gesetze gegen Hetze müssen die Meinungsfreiheit beachten.",
+          "en": "Laws against hate speech must respect freedom of expression."
+        }
       ]
     },
     {
-      "word": "aggression",
-      "meaning": "hostile or violent behaviour toward another person, group, or country",
+      "word": "etwas zensieren",
+      "meaning": "to censor something",
       "examples": [
-        "The speaker described how aggression can affect people's lives.",
-        "Our group talked about the advantages and disadvantages of aggression."
+        {
+          "de": "Autoritäre Regierungen versuchen manchmal, Nachrichten zu zensieren.",
+          "en": "Authoritarian governments sometimes try to censor messages."
+        },
+        {
+          "de": "Nicht jede Moderation von Inhalten ist automatisch Zensur.",
+          "en": "Not every moderation of content is automatically censorship."
+        }
       ]
     },
     {
-      "word": "ceasefire",
-      "meaning": "an agreement to stop fighting, usually for a period of time",
+      "word": "repressiv",
+      "meaning": "repressive",
       "examples": [
-        "The discussion made me think more carefully about ceasefire.",
-        "Different countries may have different experiences with ceasefire."
+        {
+          "de": "Der Messenger wurde auch für Menschen in repressiven Staaten wichtig.",
+          "en": "The messenger also became important for people in repressive states."
+        },
+        {
+          "de": "Repressive Maßnahmen können oppositionelle Gruppen treffen.",
+          "en": "Repressive measures can affect opposition groups."
+        }
       ]
     },
     {
-      "word": "trauma",
-      "meaning": "lasting emotional or psychological harm caused by a deeply distressing experience",
+      "word": "die Strafverfolgungsbehörde",
+      "meaning": "law-enforcement authority",
       "examples": [
-        "I had heard of trauma before, but I did not fully understand it.",
-        "After the lesson, I could explain trauma in my own words."
+        {
+          "de": "Schwere Fälle sollen direkt an die Strafverfolgungsbehörden gemeldet werden.",
+          "en": "Serious cases should be reported directly to law-enforcement authorities."
+        },
+        {
+          "de": "Strafverfolgungsbehörden benötigen ausreichende Beweise.",
+          "en": "Law-enforcement authorities need sufficient evidence."
+        }
       ]
     }
   ]

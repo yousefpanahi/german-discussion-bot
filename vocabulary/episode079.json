@@ -1,52 +1,88 @@
 {
-  "title": "Heatwaves: can we adapt?",
+  "title": "Mit Hashtags für mehr Gerechtigkeit?",
   "vocabulary": [
     {
-      "word": "heatwave",
-      "meaning": "a prolonged period of unusually hot weather",
+      "word": "der Hashtag",
+      "meaning": "hashtag",
       "examples": [
-        "The article gave a clear example of heatwave.",
-        "We discussed heatwave during the session."
+        {
+          "de": "Ein Hashtag kann eine Kampagne weltweit sichtbar machen.",
+          "en": "A hashtag can make a campaign visible worldwide."
+        },
+        {
+          "de": "Viele politische Bewegungen nutzen Hashtags in sozialen Medien.",
+          "en": "Many political movements use hashtags on social media."
+        }
       ]
     },
     {
-      "word": "adaptation",
-      "meaning": "a change made to deal more successfully with new conditions",
+      "word": "die Gerechtigkeit",
+      "meaning": "justice; fairness",
       "examples": [
-        "Many people have strong opinions about adaptation.",
-        "Understanding adaptation helped me follow the discussion."
+        {
+          "de": "Die Aktivisten fordern mehr soziale Gerechtigkeit.",
+          "en": "The activists are demanding greater social justice."
+        },
+        {
+          "de": "Menschen verstehen Gerechtigkeit nicht immer auf dieselbe Weise.",
+          "en": "People do not always understand justice in the same way."
+        }
       ]
     },
     {
-      "word": "urban heat island",
-      "meaning": "an urban area that is warmer than nearby rural areas because of buildings and human activity",
+      "word": "die Reichweite",
+      "meaning": "reach; audience size",
       "examples": [
-        "Urban heat island was one of the key ideas in the article.",
-        "I used the term urban heat island when explaining my opinion."
+        {
+          "de": "Soziale Medien geben einer Kampagne große Reichweite.",
+          "en": "Social media can give a campaign a large reach."
+        },
+        {
+          "de": "Hohe Reichweite bedeutet nicht automatisch politische Wirkung.",
+          "en": "A large reach does not automatically mean political impact."
+        }
       ]
     },
     {
-      "word": "hydration",
-      "meaning": "the process of keeping the body supplied with enough water",
+      "word": "der Aktivismus",
+      "meaning": "activism",
       "examples": [
-        "The speaker described how hydration can affect people's lives.",
-        "Our group talked about the advantages and disadvantages of hydration."
+        {
+          "de": "Online-Aktivismus kann Menschen schnell mobilisieren.",
+          "en": "Online activism can mobilise people quickly."
+        },
+        {
+          "de": "Aktivismus findet sowohl im Internet als auch auf der Straße statt.",
+          "en": "Activism takes place both online and in the streets."
+        }
       ]
     },
     {
-      "word": "heatstroke",
-      "meaning": "a dangerous condition in which the body becomes unable to control its temperature",
+      "word": "jemanden mobilisieren",
+      "meaning": "to mobilise someone",
       "examples": [
-        "The discussion made me think more carefully about heatstroke.",
-        "Different countries may have different experiences with heatstroke."
+        {
+          "de": "Ein viraler Beitrag kann Tausende Menschen mobilisieren.",
+          "en": "A viral post can mobilise thousands of people."
+        },
+        {
+          "de": "Organisationen nutzen soziale Medien, um Unterstützer zu mobilisieren.",
+          "en": "Organisations use social media to mobilise supporters."
+        }
       ]
     },
     {
-      "word": "cooling centre",
-      "meaning": "a public place where people can escape dangerous heat",
+      "word": "die Solidarität",
+      "meaning": "solidarity",
       "examples": [
-        "I had heard of cooling centre before, but I did not fully understand it.",
-        "After the lesson, I could explain cooling centre in my own words."
+        {
+          "de": "Hashtags können internationale Solidarität sichtbar machen.",
+          "en": "Hashtags can make international solidarity visible."
+        },
+        {
+          "de": "Solidarität zeigt sich besonders in schwierigen Situationen.",
+          "en": "Solidarity is especially visible in difficult situations."
+        }
       ]
     }
   ]

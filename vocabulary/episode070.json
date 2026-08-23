@@ -1,52 +1,88 @@
 {
-  "title": "Are plant-based substitutes healthier than meat?",
+  "title": "Eine Frauenzeitschrift für Frauen und Männer",
   "vocabulary": [
     {
-      "word": "plant-based diet",
-      "meaning": "a way of eating that mainly or entirely uses foods from plants",
+      "word": "die Frauenzeitschrift",
+      "meaning": "women's magazine",
       "examples": [
-        "The article gave a clear example of plant-based diet.",
-        "We discussed plant-based diet during the session."
+        {
+          "de": "Die Frauenzeitschrift möchte künftig auch Männer ansprechen.",
+          "en": "The women's magazine wants to appeal to men in the future as well."
+        },
+        {
+          "de": "Klassische Frauenzeitschriften beschäftigen sich mit vielen Alltagsthemen.",
+          "en": "Traditional women's magazines cover many everyday topics."
+        }
       ]
     },
     {
-      "word": "meat substitute",
-      "meaning": "a food designed to replace meat in a meal",
+      "word": "das Rollenbild",
+      "meaning": "role model; social image of a role",
       "examples": [
-        "Many people have strong opinions about meat substitute.",
-        "Understanding meat substitute helped me follow the discussion."
+        {
+          "de": "Medien können traditionelle Rollenbilder verstärken.",
+          "en": "Media can reinforce traditional role models."
+        },
+        {
+          "de": "Moderne Rollenbilder sind vielfältiger als früher.",
+          "en": "Modern role models are more diverse than they used to be."
+        }
       ]
     },
     {
-      "word": "protein",
-      "meaning": "a nutrient needed for growth, repair, and many body functions",
+      "word": "die Zielgruppe",
+      "meaning": "target audience",
       "examples": [
-        "Protein was one of the key ideas in the article.",
-        "I used the term protein when explaining my opinion."
+        {
+          "de": "Der Verlag möchte eine breitere Zielgruppe erreichen.",
+          "en": "The publisher wants to reach a broader target audience."
+        },
+        {
+          "de": "Eine klare Zielgruppe hilft bei der Gestaltung eines Mediums.",
+          "en": "A clear target audience helps in designing a medium."
+        }
       ]
     },
     {
-      "word": "nutrition",
-      "meaning": "the process of getting and using the food and nutrients needed for health",
+      "word": "das Klischee",
+      "meaning": "stereotype; cliché",
       "examples": [
-        "The speaker described how nutrition can affect people's lives.",
-        "Our group talked about the advantages and disadvantages of nutrition."
+        {
+          "de": "Nicht jede Frau interessiert sich für typische Frauenklischees.",
+          "en": "Not every woman is interested in typical stereotypes about women."
+        },
+        {
+          "de": "Gute Medien können Klischees hinterfragen.",
+          "en": "Good media can question stereotypes."
+        }
       ]
     },
     {
-      "word": "food processing",
-      "meaning": "the methods used to change raw ingredients into food products",
+      "word": "der Verlag",
+      "meaning": "publishing house",
       "examples": [
-        "The discussion made me think more carefully about food processing.",
-        "Different countries may have different experiences with food processing."
+        {
+          "de": "Der Verlag verändert das Konzept der Zeitschrift.",
+          "en": "The publishing house is changing the magazine's concept."
+        },
+        {
+          "de": "Ein Verlag entscheidet über Inhalte und Vermarktung.",
+          "en": "A publishing house decides on content and marketing."
+        }
       ]
     },
     {
-      "word": "saturated fat",
-      "meaning": "a type of fat that can raise unhealthy cholesterol levels when eaten in excess",
+      "word": "jemanden ansprechen",
+      "meaning": "to appeal to or address someone",
       "examples": [
-        "I had heard of saturated fat before, but I did not fully understand it.",
-        "After the lesson, I could explain saturated fat in my own words."
+        {
+          "de": "Das neue Design soll jüngere Leser ansprechen.",
+          "en": "The new design is intended to appeal to younger readers."
+        },
+        {
+          "de": "Ein Thema kann Menschen verschiedener Geschlechter ansprechen.",
+          "en": "A topic can appeal to people of different genders."
+        }
       ]
     }
   ]

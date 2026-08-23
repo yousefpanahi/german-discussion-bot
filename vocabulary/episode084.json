@@ -1,52 +1,88 @@
 {
-  "title": "Is it wrong to eat plants?",
+  "title": "Billigfleisch verschwindet aus Aldi-Regalen",
   "vocabulary": [
     {
-      "word": "plant sentience",
-      "meaning": "the debated idea that plants may have some capacity for sensation or awareness",
+      "word": "das Billigfleisch",
+      "meaning": "cheap meat produced at low cost",
       "examples": [
-        "The article gave a clear example of plant sentience.",
-        "We discussed plant sentience during the session."
+        {
+          "de": "Billigfleisch soll schrittweise aus einigen Supermärkten verschwinden.",
+          "en": "Cheap meat is to gradually disappear from some supermarkets."
+        },
+        {
+          "de": "Niedrige Preise machen Billigfleisch für viele Kunden attraktiv.",
+          "en": "Low prices make cheap meat attractive to many customers."
+        }
       ]
     },
     {
-      "word": "ethics",
-      "meaning": "principles used to judge what is right or wrong",
+      "word": "die Haltungsstufe",
+      "meaning": "animal welfare category",
       "examples": [
-        "Many people have strong opinions about ethics.",
-        "Understanding ethics helped me follow the discussion."
+        {
+          "de": "Die Haltungsstufe zeigt bestimmte Bedingungen der Tierhaltung an.",
+          "en": "The animal welfare category indicates certain conditions of animal husbandry."
+        },
+        {
+          "de": "Höhere Haltungsstufen bieten den Tieren meist mehr Platz.",
+          "en": "Higher welfare categories usually give animals more space."
+        }
       ]
     },
     {
-      "word": "consciousness",
-      "meaning": "awareness of oneself and one's surroundings",
+      "word": "artgerecht",
+      "meaning": "appropriate to an animal's natural needs",
       "examples": [
-        "Consciousness was one of the key ideas in the article.",
-        "I used the term consciousness when explaining my opinion."
+        {
+          "de": "Tierschützer fordern eine artgerechtere Haltung.",
+          "en": "Animal welfare activists are calling for more species-appropriate husbandry."
+        },
+        {
+          "de": "Mehr Platz allein macht Tierhaltung nicht automatisch artgerecht.",
+          "en": "More space alone does not automatically make animal husbandry species-appropriate."
+        }
       ]
     },
     {
-      "word": "pain perception",
-      "meaning": "the ability to experience and recognise pain",
+      "word": "der Tierschutz",
+      "meaning": "animal welfare",
       "examples": [
-        "The speaker described how pain perception can affect people's lives.",
-        "Our group talked about the advantages and disadvantages of pain perception."
+        {
+          "de": "Beim Tierschutz geht es um die Lebensbedingungen von Tieren.",
+          "en": "Animal welfare concerns the living conditions of animals."
+        },
+        {
+          "de": "Viele Verbraucher wünschen sich strengere Regeln für den Tierschutz.",
+          "en": "Many consumers want stricter animal welfare rules."
+        }
       ]
     },
     {
-      "word": "moral status",
-      "meaning": "the degree to which an entity is considered deserving of ethical consideration",
+      "word": "das Sortiment",
+      "meaning": "product range",
       "examples": [
-        "The discussion made me think more carefully about moral status.",
-        "Different countries may have different experiences with moral status."
+        {
+          "de": "Der Supermarkt nimmt bestimmte Produkte aus dem Sortiment.",
+          "en": "The supermarket is removing certain products from its range."
+        },
+        {
+          "de": "Ein nachhaltigeres Sortiment kann Kaufgewohnheiten beeinflussen.",
+          "en": "A more sustainable product range can influence buying habits."
+        }
       ]
     },
     {
-      "word": "scientific evidence",
-      "meaning": "research findings or observations used to support or challenge a claim",
+      "word": "die Fäkalien",
+      "meaning": "faeces; animal waste",
       "examples": [
-        "I had heard of scientific evidence before, but I did not fully understand it.",
-        "After the lesson, I could explain scientific evidence in my own words."
+        {
+          "de": "Schlechte Entsorgung von Fäkalien kann Tiere und Umwelt belasten.",
+          "en": "Poor disposal of animal waste can burden animals and the environment."
+        },
+        {
+          "de": "In großen Ställen entstehen erhebliche Mengen Fäkalien.",
+          "en": "Large barns produce considerable amounts of animal waste."
+        }
       ]
     }
   ]

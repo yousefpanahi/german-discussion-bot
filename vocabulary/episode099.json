@@ -1,52 +1,88 @@
 {
-  "title": "Mystery flying objects",
+  "title": "Wie Micky Maus nach Deutschland kam",
   "vocabulary": [
     {
-      "word": "unidentified flying object",
-      "meaning": "an object seen in the sky that cannot immediately be identified",
+      "word": "der Comic",
+      "meaning": "comic",
       "examples": [
-        "The article gave a clear example of unidentified flying object.",
-        "We discussed unidentified flying object during the session."
+        {
+          "de": "Micky-Maus-Comics wurden in Deutschland nach dem Krieg populär.",
+          "en": "Mickey Mouse comics became popular in Germany after the war."
+        },
+        {
+          "de": "Ein guter Comic verbindet Bild und Sprache.",
+          "en": "A good comic combines images and language."
+        }
       ]
     },
     {
-      "word": "sighting",
-      "meaning": "an occasion when something unusual or difficult to find is seen",
+      "word": "der Verlag",
+      "meaning": "publishing house",
       "examples": [
-        "Many people have strong opinions about sighting.",
-        "Understanding sighting helped me follow the discussion."
+        {
+          "de": "Der Verlag veröffentlichte 1951 das erste deutsche Micky-Maus-Heft.",
+          "en": "The publishing house released the first German Mickey Mouse magazine in 1951."
+        },
+        {
+          "de": "Ein Verlag entscheidet über Übersetzung und Veröffentlichung.",
+          "en": "A publishing house decides on translation and publication."
+        }
       ]
     },
     {
-      "word": "evidence",
-      "meaning": "information or observations used to support or challenge a claim",
+      "word": "die Übersetzerin",
+      "meaning": "female translator",
       "examples": [
-        "Evidence was one of the key ideas in the article.",
-        "I used the term evidence when explaining my opinion."
+        {
+          "de": "Erika Fuchs war eine einflussreiche Übersetzerin.",
+          "en": "Erika Fuchs was an influential translator."
+        },
+        {
+          "de": "Eine gute Übersetzerin überträgt nicht nur Wörter, sondern auch Humor.",
+          "en": "A good translator conveys not only words but also humour."
+        }
       ]
     },
     {
-      "word": "extraterrestrial life",
-      "meaning": "life that may exist outside Earth",
+      "word": "grübeln",
+      "meaning": "to ponder; think hard",
       "examples": [
-        "The speaker described how extraterrestrial life can affect people's lives.",
-        "Our group talked about the advantages and disadvantages of extraterrestrial life."
+        {
+          "de": "Donald Duck sitzt manchmal da und grübelt über ein Problem.",
+          "en": "Donald Duck sometimes sits and ponders a problem."
+        },
+        {
+          "de": "Ich musste lange grübeln, bevor mir die Lösung einfiel.",
+          "en": "I had to think hard for a long time before the solution occurred to me."
+        }
       ]
     },
     {
-      "word": "speculation",
-      "meaning": "ideas or guesses formed without complete evidence",
+      "word": "sich anpassen",
+      "meaning": "to adapt",
       "examples": [
-        "The discussion made me think more carefully about speculation.",
-        "Different countries may have different experiences with speculation."
+        {
+          "de": "Übersetzungen müssen sich manchmal an kulturelle Erwartungen anpassen.",
+          "en": "Translations sometimes have to adapt to cultural expectations."
+        },
+        {
+          "de": "Auch Comicfiguren passen sich mit der Zeit an gesellschaftliche Veränderungen an.",
+          "en": "Comic characters also adapt to social changes over time."
+        }
       ]
     },
     {
-      "word": "radar",
-      "meaning": "a system that uses radio waves to detect the position and movement of objects",
+      "word": "diskriminierend",
+      "meaning": "discriminatory",
       "examples": [
-        "I had heard of radar before, but I did not fully understand it.",
-        "After the lesson, I could explain radar in my own words."
+        {
+          "de": "Verlage überprüfen ältere Texte auf diskriminierende Formulierungen.",
+          "en": "Publishers review older texts for discriminatory wording."
+        },
+        {
+          "de": "Diskriminierende Darstellungen sollten kritisch eingeordnet werden.",
+          "en": "Discriminatory portrayals should be critically contextualised."
+        }
       ]
     }
   ]

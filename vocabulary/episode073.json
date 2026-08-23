@@ -1,52 +1,88 @@
 {
-  "title": "How green is your money?",
+  "title": "Endlich wieder zur Uni",
   "vocabulary": [
     {
-      "word": "ethical investment",
-      "meaning": "investment that considers social and environmental effects as well as financial return",
+      "word": "die Präsenzveranstaltung",
+      "meaning": "in-person event or class",
       "examples": [
-        "The article gave a clear example of ethical investment.",
-        "We discussed ethical investment during the session."
+        {
+          "de": "Viele Studierende freuten sich wieder auf Präsenzveranstaltungen.",
+          "en": "Many students were looking forward to in-person classes again."
+        },
+        {
+          "de": "Eine Präsenzveranstaltung ermöglicht spontane Gespräche.",
+          "en": "An in-person event enables spontaneous conversations."
+        }
       ]
     },
     {
-      "word": "green finance",
-      "meaning": "financial activity that supports environmentally sustainable projects",
+      "word": "der Online-Unterricht",
+      "meaning": "online teaching",
       "examples": [
-        "Many people have strong opinions about green finance.",
-        "Understanding green finance helped me follow the discussion."
+        {
+          "de": "Während der Pandemie fand viel Online-Unterricht statt.",
+          "en": "A lot of online teaching took place during the pandemic."
+        },
+        {
+          "de": "Online-Unterricht spart Wege, verlangt aber Selbstdisziplin.",
+          "en": "Online teaching saves travel but requires self-discipline."
+        }
       ]
     },
     {
-      "word": "fossil fuels",
-      "meaning": "coal, oil, and natural gas formed from ancient organic material",
+      "word": "der Campus",
+      "meaning": "campus",
       "examples": [
-        "Fossil fuels was one of the key ideas in the article.",
-        "I used the term fossil fuels when explaining my opinion."
+        {
+          "de": "Auf dem Campus trifft man Studierende aus vielen Fächern.",
+          "en": "On campus, you meet students from many disciplines."
+        },
+        {
+          "de": "Nach Monaten zu Hause war der Campus wieder voller Leben.",
+          "en": "After months at home, the campus was full of life again."
+        }
       ]
     },
     {
-      "word": "sustainable fund",
-      "meaning": "an investment fund that focuses on environmental, social, or governance criteria",
+      "word": "der Austausch",
+      "meaning": "exchange; interaction",
       "examples": [
-        "The speaker described how sustainable fund can affect people's lives.",
-        "Our group talked about the advantages and disadvantages of sustainable fund."
+        {
+          "de": "Persönlicher Austausch ist für viele Studierende wichtig.",
+          "en": "Personal interaction is important to many students."
+        },
+        {
+          "de": "Im Seminar entsteht oft ein intensiver Austausch.",
+          "en": "A seminar often creates intensive exchange."
+        }
       ]
     },
     {
-      "word": "carbon footprint",
-      "meaning": "the total greenhouse-gas emissions caused by a person, product, or activity",
+      "word": "die Motivation",
+      "meaning": "motivation",
       "examples": [
-        "The discussion made me think more carefully about carbon footprint.",
-        "Different countries may have different experiences with carbon footprint."
+        {
+          "de": "Gemeinsames Lernen kann die Motivation erhöhen.",
+          "en": "Learning together can increase motivation."
+        },
+        {
+          "de": "Ohne klare Struktur verliert man im Online-Studium manchmal Motivation.",
+          "en": "Without clear structure, you sometimes lose motivation in online study."
+        }
       ]
     },
     {
-      "word": "divestment",
-      "meaning": "the act of selling investments, often for ethical or strategic reasons",
+      "word": "hybrid",
+      "meaning": "hybrid; combining online and in-person formats",
       "examples": [
-        "I had heard of divestment before, but I did not fully understand it.",
-        "After the lesson, I could explain divestment in my own words."
+        {
+          "de": "Viele Hochschulen testen hybride Lehrveranstaltungen.",
+          "en": "Many universities are testing hybrid classes."
+        },
+        {
+          "de": "Ein hybrides Modell verbindet digitale und persönliche Elemente.",
+          "en": "A hybrid model combines digital and in-person elements."
+        }
       ]
     }
   ]

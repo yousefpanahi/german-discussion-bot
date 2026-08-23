@@ -1,52 +1,88 @@
 {
-  "title": "Can you stop a disaster?",
+  "title": "Wildtier-Viren: eine Gefahr für Menschen",
   "vocabulary": [
     {
-      "word": "disaster preparedness",
-      "meaning": "planning and preparation carried out before a possible disaster",
+      "word": "die Zoonose",
+      "meaning": "zoonosis; disease transmitted between animals and humans",
       "examples": [
-        "The article gave a clear example of disaster preparedness.",
-        "We discussed disaster preparedness during the session."
+        {
+          "de": "COVID-19 ist ein Beispiel für eine Zoonose.",
+          "en": "COVID-19 is an example of a zoonosis."
+        },
+        {
+          "de": "Zoonosen können von Tieren auf Menschen überspringen.",
+          "en": "Zoonoses can jump from animals to humans."
+        }
       ]
     },
     {
-      "word": "risk assessment",
-      "meaning": "the process of identifying dangers and judging how serious they may be",
+      "word": "der Wildtiermarkt",
+      "meaning": "wildlife market",
       "examples": [
-        "Many people have strong opinions about risk assessment.",
-        "Understanding risk assessment helped me follow the discussion."
+        {
+          "de": "Auf einem Wildtiermarkt kommen Menschen und viele Tierarten eng zusammen.",
+          "en": "On a wildlife market, people and many animal species come into close contact."
+        },
+        {
+          "de": "Strengere Hygiene kann Risiken auf Wildtiermärkten reduzieren.",
+          "en": "Stricter hygiene can reduce risks at wildlife markets."
+        }
       ]
     },
     {
-      "word": "early warning",
-      "meaning": "a system or message that gives notice of danger before it happens",
+      "word": "die Hygienevorschrift",
+      "meaning": "hygiene regulation",
       "examples": [
-        "Early warning was one of the key ideas in the article.",
-        "I used the term early warning when explaining my opinion."
+        {
+          "de": "Neue Hygienevorschriften sollen die Übertragung von Krankheiten verhindern.",
+          "en": "New hygiene regulations are intended to prevent the transmission of diseases."
+        },
+        {
+          "de": "Hygienevorschriften müssen regelmäßig kontrolliert werden.",
+          "en": "Hygiene regulations must be checked regularly."
+        }
       ]
     },
     {
-      "word": "evacuation",
-      "meaning": "the organised movement of people away from a dangerous place",
+      "word": "überspringen",
+      "meaning": "to jump or spill over",
       "examples": [
-        "The speaker described how evacuation can affect people's lives.",
-        "Our group talked about the advantages and disadvantages of evacuation."
+        {
+          "de": "Ein Virus kann unter bestimmten Bedingungen auf eine andere Art überspringen.",
+          "en": "A virus can jump to another species under certain conditions."
+        },
+        {
+          "de": "Forscher untersuchen, welche Viren auf Menschen überspringen könnten.",
+          "en": "Researchers study which viruses could spill over to humans."
+        }
       ]
     },
     {
-      "word": "prevention",
-      "meaning": "action taken to stop something harmful from happening",
+      "word": "die Tierart",
+      "meaning": "animal species",
       "examples": [
-        "The discussion made me think more carefully about prevention.",
-        "Different countries may have different experiences with prevention."
+        {
+          "de": "Auf dem Markt werden viele verschiedene Tierarten verkauft.",
+          "en": "Many different animal species are sold at the market."
+        },
+        {
+          "de": "Jede Tierart kann andere Krankheitserreger tragen.",
+          "en": "Each animal species can carry different pathogens."
+        }
       ]
     },
     {
-      "word": "emergency response",
-      "meaning": "the organised actions taken during and immediately after an emergency",
+      "word": "der Pandemieschutz",
+      "meaning": "pandemic prevention and protection",
       "examples": [
-        "I had heard of emergency response before, but I did not fully understand it.",
-        "After the lesson, I could explain emergency response in my own words."
+        {
+          "de": "Pandemieschutz ist eine internationale Aufgabe.",
+          "en": "Pandemic prevention is an international task."
+        },
+        {
+          "de": "Für guten Pandemieschutz müssen Staaten Informationen schnell austauschen.",
+          "en": "For effective pandemic prevention, states have to exchange information quickly."
+        }
       ]
     }
   ]

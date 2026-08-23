@@ -1,52 +1,88 @@
 {
-  "title": "Should we fear chatbots?",
+  "title": "Das Gendersternchen: Bürger oder Bürger*innen?",
   "vocabulary": [
     {
-      "word": "chatbot",
-      "meaning": "a computer program designed to communicate with people through text or speech",
+      "word": "das Gendersternchen",
+      "meaning": "gender asterisk",
       "examples": [
-        "The article gave a clear example of chatbot.",
-        "We discussed chatbot during the session."
+        {
+          "de": "Das Gendersternchen soll unterschiedliche Geschlechter sprachlich einschließen.",
+          "en": "The gender asterisk is intended to include different genders linguistically."
+        },
+        {
+          "de": "Über das Gendersternchen wird in Deutschland intensiv diskutiert.",
+          "en": "The gender asterisk is intensively debated in Germany."
+        }
       ]
     },
     {
-      "word": "artificial intelligence",
-      "meaning": "computer systems designed to perform tasks that normally require human intelligence",
+      "word": "geschlechtsneutral",
+      "meaning": "gender-neutral",
       "examples": [
-        "Many people have strong opinions about artificial intelligence.",
-        "Understanding artificial intelligence helped me follow the discussion."
+        {
+          "de": "Viele Institutionen suchen nach geschlechtsneutralen Formulierungen.",
+          "en": "Many institutions are looking for gender-neutral wording."
+        },
+        {
+          "de": "Eine geschlechtsneutrale Sprache soll niemanden ausschließen.",
+          "en": "Gender-neutral language is intended not to exclude anyone."
+        }
       ]
     },
     {
-      "word": "hallucination",
-      "meaning": "an AI-generated answer that sounds confident but contains invented or incorrect information",
+      "word": "nicht-binär",
+      "meaning": "non-binary",
       "examples": [
-        "Hallucination was one of the key ideas in the article.",
-        "I used the term hallucination when explaining my opinion."
+        {
+          "de": "Nicht-binäre Menschen ordnen sich nicht ausschließlich als Mann oder Frau ein.",
+          "en": "Non-binary people do not identify exclusively as male or female."
+        },
+        {
+          "de": "Sprache kann nicht-binäre Personen sichtbarer machen.",
+          "en": "Language can make non-binary people more visible."
+        }
       ]
     },
     {
-      "word": "bias",
-      "meaning": "a systematic preference or unfair tendency that can affect decisions or results",
+      "word": "die Personenbezeichnung",
+      "meaning": "term used to refer to a person",
       "examples": [
-        "The speaker described how bias can affect people's lives.",
-        "Our group talked about the advantages and disadvantages of bias."
+        {
+          "de": "Viele deutsche Personenbezeichnungen haben eine männliche und weibliche Form.",
+          "en": "Many German terms for people have a masculine and feminine form."
+        },
+        {
+          "de": "Bei Personenbezeichnungen gibt es verschiedene Möglichkeiten zu gendern.",
+          "en": "There are different ways to use gender-inclusive language in terms for people."
+        }
       ]
     },
     {
-      "word": "privacy",
-      "meaning": "the right or ability to control access to personal information",
+      "word": "jemanden einschließen",
+      "meaning": "to include someone",
       "examples": [
-        "The discussion made me think more carefully about privacy.",
-        "Different countries may have different experiences with privacy."
+        {
+          "de": "Eine inklusive Formulierung soll möglichst alle Menschen einschließen.",
+          "en": "Inclusive wording is intended to include as many people as possible."
+        },
+        {
+          "de": "Gute Kommunikation schließt unterschiedliche Perspektiven ein.",
+          "en": "Good communication includes different perspectives."
+        }
       ]
     },
     {
-      "word": "automation",
-      "meaning": "the use of technology to perform tasks with little or no direct human action",
+      "word": "umstritten",
+      "meaning": "controversial",
       "examples": [
-        "I had heard of automation before, but I did not fully understand it.",
-        "After the lesson, I could explain automation in my own words."
+        {
+          "de": "Gendergerechte Sprache bleibt gesellschaftlich umstritten.",
+          "en": "Gender-inclusive language remains socially controversial."
+        },
+        {
+          "de": "Eine umstrittene Regel führt oft zu intensiven Debatten.",
+          "en": "A controversial rule often leads to intense debate."
+        }
       ]
     }
   ]

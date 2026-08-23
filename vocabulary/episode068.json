@@ -1,52 +1,88 @@
 {
-  "title": "Can climate change affect our mental health?",
+  "title": "Mit Elon auf den Mars",
   "vocabulary": [
     {
-      "word": "eco-anxiety",
-      "meaning": "worry or fear about environmental damage and climate change",
+      "word": "der Mars",
+      "meaning": "Mars",
       "examples": [
-        "The article gave a clear example of eco-anxiety.",
-        "We discussed eco-anxiety during the session."
+        {
+          "de": "Der Mars ist einer der Nachbarplaneten der Erde.",
+          "en": "Mars is one of Earth's neighbouring planets."
+        },
+        {
+          "de": "Menschen haben den Mars bisher nur mit Robotern erreicht.",
+          "en": "Humans have so far reached Mars only with robots."
+        }
       ]
     },
     {
-      "word": "mental health",
-      "meaning": "a person's emotional, psychological, and social wellbeing",
+      "word": "der Astronaut",
+      "meaning": "astronaut",
       "examples": [
-        "Many people have strong opinions about mental health.",
-        "Understanding mental health helped me follow the discussion."
+        {
+          "de": "Astronauten müssen körperlich und psychisch sehr belastbar sein.",
+          "en": "Astronauts have to be physically and mentally very resilient."
+        },
+        {
+          "de": "Ein Astronaut auf dem Mars wäre monatelang von der Erde entfernt.",
+          "en": "An astronaut on Mars would be months away from Earth."
+        }
       ]
     },
     {
-      "word": "distress",
-      "meaning": "a state of strong worry, sadness, or emotional suffering",
+      "word": "das Raumschiff",
+      "meaning": "spacecraft",
       "examples": [
-        "Distress was one of the key ideas in the article.",
-        "I used the term distress when explaining my opinion."
+        {
+          "de": "Das Raumschiff müsste große Mengen Vorräte transportieren.",
+          "en": "The spacecraft would have to carry large quantities of supplies."
+        },
+        {
+          "de": "Ein modernes Raumschiff braucht zuverlässige Lebenserhaltungssysteme.",
+          "en": "A modern spacecraft needs reliable life-support systems."
+        }
       ]
     },
     {
-      "word": "uncertainty",
-      "meaning": "a situation in which the future or outcome is not known",
+      "word": "die Rakete",
+      "meaning": "rocket",
       "examples": [
-        "The speaker described how uncertainty can affect people's lives.",
-        "Our group talked about the advantages and disadvantages of uncertainty."
+        {
+          "de": "Eine Rakete bringt das Raumschiff aus der Erdatmosphäre.",
+          "en": "A rocket carries the spacecraft out of Earth's atmosphere."
+        },
+        {
+          "de": "Raketenstarts sind technisch kompliziert und sehr teuer.",
+          "en": "Rocket launches are technically complex and very expensive."
+        }
       ]
     },
     {
-      "word": "resilience",
-      "meaning": "the ability to recover emotionally from stress or difficulty",
+      "word": "der Weltraum",
+      "meaning": "space",
       "examples": [
-        "The discussion made me think more carefully about resilience.",
-        "Different countries may have different experiences with resilience."
+        {
+          "de": "Im Weltraum ist der menschliche Körper besonderen Belastungen ausgesetzt.",
+          "en": "The human body is exposed to special stresses in space."
+        },
+        {
+          "de": "Viele Menschen träumen von Reisen in den Weltraum.",
+          "en": "Many people dream of travelling into space."
+        }
       ]
     },
     {
-      "word": "coping strategy",
-      "meaning": "a method used to manage stress, difficult emotions, or challenging situations",
+      "word": "die Besiedlung",
+      "meaning": "settlement; colonisation",
       "examples": [
-        "I had heard of coping strategy before, but I did not fully understand it.",
-        "After the lesson, I could explain coping strategy in my own words."
+        {
+          "de": "Eine dauerhafte Besiedlung des Mars wäre extrem schwierig.",
+          "en": "Permanent settlement of Mars would be extremely difficult."
+        },
+        {
+          "de": "Bei der Besiedlung eines Planeten stellen sich auch ethische Fragen.",
+          "en": "Settling a planet also raises ethical questions."
+        }
       ]
     }
   ]

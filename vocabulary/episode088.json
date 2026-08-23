@@ -1,52 +1,88 @@
 {
-  "title": "Can we boost the immune system?",
+  "title": "Wasser ist knapp – auch in Deutschland",
   "vocabulary": [
     {
-      "word": "immune system",
-      "meaning": "the body's network of cells, tissues, and organs that protects against disease",
+      "word": "die Wasserknappheit",
+      "meaning": "water scarcity",
       "examples": [
-        "The article gave a clear example of immune system.",
-        "We discussed immune system during the session."
+        {
+          "de": "In einigen Regionen Deutschlands nimmt die Wasserknappheit zu.",
+          "en": "Water scarcity is increasing in some regions of Germany."
+        },
+        {
+          "de": "Lange Trockenperioden können Wasserknappheit verschärfen.",
+          "en": "Long dry periods can worsen water scarcity."
+        }
       ]
     },
     {
-      "word": "immunity",
-      "meaning": "the body's ability to resist a particular infection or disease",
+      "word": "die Wasserversorgung",
+      "meaning": "water supply",
       "examples": [
-        "Many people have strong opinions about immunity.",
-        "Understanding immunity helped me follow the discussion."
+        {
+          "de": "Die Wasserversorgung soll auch in trockenen Jahren sicher bleiben.",
+          "en": "The water supply should remain secure even in dry years."
+        },
+        {
+          "de": "Kommunen investieren in eine zuverlässige Wasserversorgung.",
+          "en": "Municipalities invest in a reliable water supply."
+        }
       ]
     },
     {
-      "word": "antibody",
-      "meaning": "a protein made by the immune system that recognises and helps fight harmful substances",
+      "word": "die Talsperre",
+      "meaning": "dam and reservoir",
       "examples": [
-        "Antibody was one of the key ideas in the article.",
-        "I used the term antibody when explaining my opinion."
+        {
+          "de": "Talsperren können große Mengen Wasser speichern.",
+          "en": "Dams and reservoirs can store large amounts of water."
+        },
+        {
+          "de": "Der Bau einer Talsperre verändert die Landschaft deutlich.",
+          "en": "Building a reservoir significantly changes the landscape."
+        }
       ]
     },
     {
-      "word": "infection",
-      "meaning": "the invasion and growth of harmful microorganisms in the body",
+      "word": "die Fernwasserleitung",
+      "meaning": "long-distance water pipeline",
       "examples": [
-        "The speaker described how infection can affect people's lives.",
-        "Our group talked about the advantages and disadvantages of infection."
+        {
+          "de": "Eine Fernwasserleitung transportiert Wasser in trockene Regionen.",
+          "en": "A long-distance water pipeline transports water to dry regions."
+        },
+        {
+          "de": "Neue Fernwasserleitungen sind teuer und brauchen lange Planung.",
+          "en": "New long-distance water pipelines are expensive and require lengthy planning."
+        }
       ]
     },
     {
-      "word": "inflammation",
-      "meaning": "the body's protective response to injury, irritation, or infection",
+      "word": "der Wasserspeicher",
+      "meaning": "water reservoir or storage facility",
       "examples": [
-        "The discussion made me think more carefully about inflammation.",
-        "Different countries may have different experiences with inflammation."
+        {
+          "de": "Wasserspeicher helfen, trockene Perioden zu überbrücken.",
+          "en": "Water reservoirs help bridge dry periods."
+        },
+        {
+          "de": "Die Stadt prüft den Bau zusätzlicher Wasserspeicher.",
+          "en": "The city is considering building additional water storage facilities."
+        }
       ]
     },
     {
-      "word": "vaccination",
-      "meaning": "the use of a vaccine to help the immune system develop protection against disease",
+      "word": "die Wasserstrategie",
+      "meaning": "water strategy",
       "examples": [
-        "I had heard of vaccination before, but I did not fully understand it.",
-        "After the lesson, I could explain vaccination in my own words."
+        {
+          "de": "Eine nationale Wasserstrategie soll Nutzung und Verteilung langfristig regeln.",
+          "en": "A national water strategy is intended to regulate use and distribution in the long term."
+        },
+        {
+          "de": "Die Wasserstrategie berücksichtigt auch Folgen des Klimawandels.",
+          "en": "The water strategy also takes the consequences of climate change into account."
+        }
       ]
     }
   ]

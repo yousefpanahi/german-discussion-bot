@@ -1,52 +1,88 @@
 {
-  "title": "Can we live without plastic?",
+  "title": "Wie das berühmte Einstein-Foto entstand",
   "vocabulary": [
     {
-      "word": "single-use plastic",
-      "meaning": "plastic designed to be used once before being thrown away",
+      "word": "der Fotograf",
+      "meaning": "photographer",
       "examples": [
-        "The article gave a clear example of single-use plastic.",
-        "We discussed single-use plastic during the session."
+        {
+          "de": "Der Fotograf drückte genau im richtigen Moment auf den Auslöser.",
+          "en": "The photographer pressed the shutter at exactly the right moment."
+        },
+        {
+          "de": "Ein guter Fotograf erkennt besondere spontane Situationen.",
+          "en": "A good photographer recognises special spontaneous moments."
+        }
       ]
     },
     {
-      "word": "microplastic",
-      "meaning": "a very small piece of plastic that can pollute water, soil, and living organisms",
+      "word": "der Auslöser",
+      "meaning": "shutter button; trigger",
       "examples": [
-        "Many people have strong opinions about microplastic.",
-        "Understanding microplastic helped me follow the discussion."
+        {
+          "de": "Arthur Sasse drückte auf den Auslöser seiner Kamera.",
+          "en": "Arthur Sasse pressed the shutter button of his camera."
+        },
+        {
+          "de": "Mit dem Auslöser wird das Foto aufgenommen.",
+          "en": "The photo is taken by pressing the shutter button."
+        }
       ]
     },
     {
-      "word": "recycling",
-      "meaning": "the process of turning waste materials into materials that can be used again",
+      "word": "die Zunge herausstrecken",
+      "meaning": "to stick out one's tongue",
       "examples": [
-        "Recycling was one of the key ideas in the article.",
-        "I used the term recycling when explaining my opinion."
+        {
+          "de": "Einstein streckte den Reportern die Zunge heraus.",
+          "en": "Einstein stuck his tongue out at the reporters."
+        },
+        {
+          "de": "Kinder strecken manchmal spielerisch die Zunge heraus.",
+          "en": "Children sometimes stick out their tongues playfully."
+        }
       ]
     },
     {
-      "word": "biodegradable material",
-      "meaning": "material that can naturally break down through biological processes",
+      "word": "zerzaust",
+      "meaning": "dishevelled; tousled",
       "examples": [
-        "The speaker described how biodegradable material can affect people's lives.",
-        "Our group talked about the advantages and disadvantages of biodegradable material."
+        {
+          "de": "Einstein war für seine zerzausten Haare bekannt.",
+          "en": "Einstein was known for his tousled hair."
+        },
+        {
+          "de": "Nach dem starken Wind waren seine Haare völlig zerzaust.",
+          "en": "After the strong wind, his hair was completely dishevelled."
+        }
       ]
     },
     {
-      "word": "plastic pollution",
-      "meaning": "environmental contamination caused by discarded plastic",
+      "word": "der Mythos",
+      "meaning": "myth; legendary public image",
       "examples": [
-        "The discussion made me think more carefully about plastic pollution.",
-        "Different countries may have different experiences with plastic pollution."
+        {
+          "de": "Einstein war schon zu Lebzeiten ein Mythos.",
+          "en": "Einstein was already a legend during his lifetime."
+        },
+        {
+          "de": "Berühmte Fotos können einen Mythos verstärken.",
+          "en": "Famous photos can reinforce a myth."
+        }
       ]
     },
     {
-      "word": "circular economy",
-      "meaning": "an economic system designed to reduce waste by reusing, repairing, and recycling materials",
+      "word": "der Abzug",
+      "meaning": "photographic print",
       "examples": [
-        "I had heard of circular economy before, but I did not fully understand it.",
-        "After the lesson, I could explain circular economy in my own words."
+        {
+          "de": "Einstein bestellte mehrere Abzüge des Fotos.",
+          "en": "Einstein ordered several prints of the photo."
+        },
+        {
+          "de": "Früher ließ man von wichtigen Fotos Abzüge machen.",
+          "en": "In the past, people had prints made of important photos."
+        }
       ]
     }
   ]

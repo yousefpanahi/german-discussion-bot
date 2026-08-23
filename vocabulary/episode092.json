@@ -1,52 +1,88 @@
 {
-  "title": "Can AI solve crime?",
+  "title": "Wie Agrarkonzerne die Landwirtschaft kontrollieren",
   "vocabulary": [
     {
-      "word": "cybercrime",
-      "meaning": "crime carried out using computers, networks, or the internet",
+      "word": "das Saatgut",
+      "meaning": "seed stock",
       "examples": [
-        "The article gave a clear example of cybercrime.",
-        "We discussed cybercrime during the session."
+        {
+          "de": "Saatgut ist die Grundlage landwirtschaftlicher Produktion.",
+          "en": "Seeds are the basis of agricultural production."
+        },
+        {
+          "de": "Viele Bauern möchten eigenes Saatgut aufbewahren und wiederverwenden.",
+          "en": "Many farmers want to save and reuse their own seeds."
+        }
       ]
     },
     {
-      "word": "surveillance",
-      "meaning": "close observation of people or activities, often for security purposes",
+      "word": "der Agrarkonzern",
+      "meaning": "agricultural corporation",
       "examples": [
-        "Many people have strong opinions about surveillance.",
-        "Understanding surveillance helped me follow the discussion."
+        {
+          "de": "Wenige Agrarkonzerne kontrollieren einen großen Teil des Saatgutmarkts.",
+          "en": "A few agricultural corporations control a large part of the seed market."
+        },
+        {
+          "de": "Agrarkonzerne entwickeln neue Sorten und verkaufen dazu passende Produkte.",
+          "en": "Agricultural corporations develop new varieties and sell matching products."
+        }
       ]
     },
     {
-      "word": "facial recognition",
-      "meaning": "technology that identifies or verifies people by analysing their faces",
+      "word": "etwas züchten",
+      "meaning": "to breed or cultivate a variety",
       "examples": [
-        "Facial recognition was one of the key ideas in the article.",
-        "I used the term facial recognition when explaining my opinion."
+        {
+          "de": "Unternehmen züchten Pflanzen mit bestimmten Eigenschaften.",
+          "en": "Companies breed plants with specific characteristics."
+        },
+        {
+          "de": "Bauern züchteten über Jahrhunderte lokale Sorten.",
+          "en": "Farmers cultivated local varieties over centuries."
+        }
       ]
     },
     {
-      "word": "algorithm",
-      "meaning": "a set of rules or instructions used by a computer to solve a problem or make a decision",
+      "word": "die Nutzpflanze",
+      "meaning": "crop plant",
       "examples": [
-        "The speaker described how algorithm can affect people's lives.",
-        "Our group talked about the advantages and disadvantages of algorithm."
+        {
+          "de": "Weizen ist eine der wichtigsten Nutzpflanzen der Welt.",
+          "en": "Wheat is one of the world's most important crops."
+        },
+        {
+          "de": "Die Vielfalt der Nutzpflanzen ist in vielen Regionen zurückgegangen.",
+          "en": "The diversity of crop plants has declined in many regions."
+        }
       ]
     },
     {
-      "word": "evidence",
-      "meaning": "information used to establish facts or support a conclusion",
+      "word": "die Missernte",
+      "meaning": "crop failure",
       "examples": [
-        "The discussion made me think more carefully about evidence.",
-        "Different countries may have different experiences with evidence."
+        {
+          "de": "Dürre kann zu einer schweren Missernte führen.",
+          "en": "Drought can lead to severe crop failure."
+        },
+        {
+          "de": "Eine geringe Sortenvielfalt kann das Risiko von Missernten erhöhen.",
+          "en": "Low crop diversity can increase the risk of crop failures."
+        }
       ]
     },
     {
-      "word": "false positive",
-      "meaning": "a result that incorrectly identifies something as present or suspicious",
+      "word": "über etwas verfügen",
+      "meaning": "to have control over something",
       "examples": [
-        "I had heard of false positive before, but I did not fully understand it.",
-        "After the lesson, I could explain false positive in my own words."
+        {
+          "de": "Bauern möchten frei über ihr eigenes Saatgut verfügen.",
+          "en": "Farmers want to have control over their own seeds."
+        },
+        {
+          "de": "Wer über wichtige Ressourcen verfügt, besitzt wirtschaftlichen Einfluss.",
+          "en": "Those who control important resources have economic influence."
+        }
       ]
     }
   ]

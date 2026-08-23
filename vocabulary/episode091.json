@@ -1,52 +1,88 @@
 {
-  "title": "Learning multiple languages",
+  "title": "Ein Algorithmus schreibt Geschichten",
   "vocabulary": [
     {
-      "word": "multilingualism",
-      "meaning": "the ability to use or the presence of more than one language",
+      "word": "der Algorithmus",
+      "meaning": "algorithm",
       "examples": [
-        "The article gave a clear example of multilingualism.",
-        "We discussed multilingualism during the session."
+        {
+          "de": "Ein Algorithmus kann Wörter und Satzmuster statistisch analysieren.",
+          "en": "An algorithm can statistically analyse words and sentence patterns."
+        },
+        {
+          "de": "Moderne Algorithmen erzeugen erstaunlich flüssige Texte.",
+          "en": "Modern algorithms generate surprisingly fluent texts."
+        }
       ]
     },
     {
-      "word": "fluency",
-      "meaning": "the ability to speak or use a language smoothly and effectively",
+      "word": "eine Geschichte verfassen",
+      "meaning": "to write or compose a story",
       "examples": [
-        "Many people have strong opinions about fluency.",
-        "Understanding fluency helped me follow the discussion."
+        {
+          "de": "Der Schriftsteller ließ eine Maschine Teile einer Geschichte verfassen.",
+          "en": "The writer had a machine compose parts of a story."
+        },
+        {
+          "de": "Eine gute Geschichte zu verfassen braucht Ideen und Struktur.",
+          "en": "Writing a good story requires ideas and structure."
+        }
       ]
     },
     {
-      "word": "accent",
-      "meaning": "a particular way of pronouncing a language, often linked to region or background",
+      "word": "etwas fortsetzen",
+      "meaning": "to continue something",
       "examples": [
-        "Accent was one of the key ideas in the article.",
-        "I used the term accent when explaining my opinion."
+        {
+          "de": "Die KI sollte den begonnenen Text fortsetzen.",
+          "en": "The AI was supposed to continue the text that had been started."
+        },
+        {
+          "de": "Kannst du die Geschichte mit einem überraschenden Ende fortsetzen?",
+          "en": "Can you continue the story with a surprising ending?"
+        }
       ]
     },
     {
-      "word": "language acquisition",
-      "meaning": "the process of learning and developing ability in a language",
+      "word": "die Ästhetik",
+      "meaning": "aesthetic; artistic style or quality",
       "examples": [
-        "The speaker described how language acquisition can affect people's lives.",
-        "Our group talked about the advantages and disadvantages of language acquisition."
+        {
+          "de": "Maschinell erzeugte Literatur kann eine eigene Ästhetik entwickeln.",
+          "en": "Machine-generated literature can develop an aesthetic of its own."
+        },
+        {
+          "de": "Die Ästhetik eines Textes hängt nicht nur von korrekter Grammatik ab.",
+          "en": "The aesthetic of a text does not depend only on correct grammar."
+        }
       ]
     },
     {
-      "word": "immersion",
-      "meaning": "learning a language through extensive exposure and use in real situations",
+      "word": "etwas vorausberechnen",
+      "meaning": "to predict by calculation",
       "examples": [
-        "The discussion made me think more carefully about immersion.",
-        "Different countries may have different experiences with immersion."
+        {
+          "de": "Ein Sprachmodell versucht wahrscheinliche nächste Wörter vorauszuberechnen.",
+          "en": "A language model tries to predict likely next words."
+        },
+        {
+          "de": "Algorithmen können bestimmte Muster erstaunlich gut vorausberechnen.",
+          "en": "Algorithms can predict certain patterns surprisingly well."
+        }
       ]
     },
     {
-      "word": "code-switching",
-      "meaning": "changing between two or more languages or language varieties in conversation",
+      "word": "die Kreativität",
+      "meaning": "creativity",
       "examples": [
-        "I had heard of code-switching before, but I did not fully understand it.",
-        "After the lesson, I could explain code-switching in my own words."
+        {
+          "de": "Kreativität wird oft als typisch menschliche Fähigkeit verstanden.",
+          "en": "Creativity is often understood as a typically human ability."
+        },
+        {
+          "de": "KI stellt unsere Vorstellung von Kreativität infrage.",
+          "en": "AI challenges our idea of creativity."
+        }
       ]
     }
   ]

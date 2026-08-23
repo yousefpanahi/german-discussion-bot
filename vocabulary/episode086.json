@@ -1,52 +1,88 @@
 {
-  "title": "Feed your brain",
+  "title": "Wie Geoengineering die Erde kühlen soll",
   "vocabulary": [
     {
-      "word": "cognition",
-      "meaning": "the mental processes involved in thinking, learning, and understanding",
+      "word": "das Geoengineering",
+      "meaning": "geoengineering",
       "examples": [
-        "The article gave a clear example of cognition.",
-        "We discussed cognition during the session."
+        {
+          "de": "Geoengineering soll das Klima mit technischen Methoden beeinflussen.",
+          "en": "Geoengineering aims to influence the climate using technical methods."
+        },
+        {
+          "de": "Viele mögliche Folgen von Geoengineering sind noch unklar.",
+          "en": "Many possible consequences of geoengineering are still unclear."
+        }
       ]
     },
     {
-      "word": "concentration",
-      "meaning": "the ability to focus attention on a task or subject",
+      "word": "das Aerosol",
+      "meaning": "aerosol; tiny airborne particle",
       "examples": [
-        "Many people have strong opinions about concentration.",
-        "Understanding concentration helped me follow the discussion."
+        {
+          "de": "Bestimmte Aerosole können Sonnenlicht reflektieren.",
+          "en": "Certain aerosols can reflect sunlight."
+        },
+        {
+          "de": "Aerosole in der Atmosphäre beeinflussen das Klima.",
+          "en": "Aerosols in the atmosphere affect the climate."
+        }
       ]
     },
     {
-      "word": "memory",
-      "meaning": "the ability to store, retain, and recall information",
+      "word": "reflektieren",
+      "meaning": "to reflect",
       "examples": [
-        "Memory was one of the key ideas in the article.",
-        "I used the term memory when explaining my opinion."
+        {
+          "de": "Helle Flächen reflektieren mehr Sonnenlicht als dunkle.",
+          "en": "Bright surfaces reflect more sunlight than dark ones."
+        },
+        {
+          "de": "Weiße Dächer können einen Teil der Sonnenstrahlung reflektieren.",
+          "en": "White roofs can reflect part of the solar radiation."
+        }
       ]
     },
     {
-      "word": "nutrient",
-      "meaning": "a substance in food that the body needs for growth, energy, or health",
+      "word": "der Größenwahn",
+      "meaning": "megalomania; excessive belief in one's power",
       "examples": [
-        "The speaker described how nutrient can affect people's lives.",
-        "Our group talked about the advantages and disadvantages of nutrient."
+        {
+          "de": "Kritiker halten großflächiges Geoengineering für menschlichen Größenwahn.",
+          "en": "Critics consider large-scale geoengineering a form of human megalomania."
+        },
+        {
+          "de": "Technischer Optimismus darf nicht in Größenwahn umschlagen.",
+          "en": "Technological optimism must not turn into megalomania."
+        }
       ]
     },
     {
-      "word": "brain function",
-      "meaning": "the processes carried out by the brain, including thinking, memory, and control of the body",
+      "word": "die Treibhausgasemission",
+      "meaning": "greenhouse-gas emission",
       "examples": [
-        "The discussion made me think more carefully about brain function.",
-        "Different countries may have different experiences with brain function."
+        {
+          "de": "Treibhausgasemissionen müssen langfristig stark sinken.",
+          "en": "Greenhouse-gas emissions have to fall sharply in the long term."
+        },
+        {
+          "de": "Geoengineering ersetzt keine Reduktion der Treibhausgasemissionen.",
+          "en": "Geoengineering does not replace reducing greenhouse-gas emissions."
+        }
       ]
     },
     {
-      "word": "balanced diet",
-      "meaning": "a diet containing suitable amounts of different foods and nutrients",
+      "word": "sich anpassen",
+      "meaning": "to adapt",
       "examples": [
-        "I had heard of balanced diet before, but I did not fully understand it.",
-        "After the lesson, I could explain balanced diet in my own words."
+        {
+          "de": "Gesellschaften müssen sich an manche Folgen des Klimawandels anpassen.",
+          "en": "Societies have to adapt to some consequences of climate change."
+        },
+        {
+          "de": "Städte passen sich mit mehr Grünflächen an Hitze an.",
+          "en": "Cities adapt to heat with more green spaces."
+        }
       ]
     }
   ]

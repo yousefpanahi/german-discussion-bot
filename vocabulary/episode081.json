@@ -1,52 +1,88 @@
 {
-  "title": "What causes hearing loss?",
+  "title": "Womit die Kanalisation zu kämpfen hat",
   "vocabulary": [
     {
-      "word": "hearing loss",
-      "meaning": "a partial or complete reduction in the ability to hear",
+      "word": "die Kanalisation",
+      "meaning": "sewer system",
       "examples": [
-        "The article gave a clear example of hearing loss.",
-        "We discussed hearing loss during the session."
+        {
+          "de": "Die Kanalisation kann extreme Regenmengen nicht vollständig aufnehmen.",
+          "en": "The sewer system cannot fully absorb extreme amounts of rain."
+        },
+        {
+          "de": "Ein Teil der Kanalisation ist über hundert Jahre alt.",
+          "en": "Part of the sewer system is over a hundred years old."
+        }
       ]
     },
     {
-      "word": "decibel",
-      "meaning": "a unit used to measure the intensity or loudness of sound",
+      "word": "der Starkregen",
+      "meaning": "heavy rain",
       "examples": [
-        "Many people have strong opinions about decibel.",
-        "Understanding decibel helped me follow the discussion."
+        {
+          "de": "Starkregen kann Straßen und Keller in kurzer Zeit überfluten.",
+          "en": "Heavy rain can flood streets and basements in a short time."
+        },
+        {
+          "de": "Durch den Klimawandel könnte Starkregen häufiger auftreten.",
+          "en": "Heavy rain could occur more frequently because of climate change."
+        }
       ]
     },
     {
-      "word": "eardrum",
-      "meaning": "a thin membrane in the ear that vibrates when sound reaches it",
+      "word": "versiegelt",
+      "meaning": "sealed; covered so water cannot seep into soil",
       "examples": [
-        "Eardrum was one of the key ideas in the article.",
-        "I used the term eardrum when explaining my opinion."
+        {
+          "de": "In Städten sind viele Böden durch Asphalt versiegelt.",
+          "en": "In cities, many surfaces are sealed by asphalt."
+        },
+        {
+          "de": "Auf versiegelten Flächen kann Regenwasser schlecht versickern.",
+          "en": "Rainwater cannot soak away easily on sealed surfaces."
+        }
       ]
     },
     {
-      "word": "noise exposure",
-      "meaning": "the experience of being around loud sound, especially for long periods",
+      "word": "versickern",
+      "meaning": "to seep into the ground",
       "examples": [
-        "The speaker described how noise exposure can affect people's lives.",
-        "Our group talked about the advantages and disadvantages of noise exposure."
+        {
+          "de": "In Grünflächen kann Regenwasser langsam versickern.",
+          "en": "Rainwater can slowly seep into the ground in green areas."
+        },
+        {
+          "de": "Ein durchlässiger Boden lässt Wasser besser versickern.",
+          "en": "Permeable soil allows water to seep away more easily."
+        }
       ]
     },
     {
-      "word": "tinnitus",
-      "meaning": "the experience of hearing ringing or other sounds without an external source",
+      "word": "etwas sanieren",
+      "meaning": "to renovate or rehabilitate something",
       "examples": [
-        "The discussion made me think more carefully about tinnitus.",
-        "Different countries may have different experiences with tinnitus."
+        {
+          "de": "Viele alte Abwasserkanäle müssen saniert werden.",
+          "en": "Many old sewer pipes have to be renovated."
+        },
+        {
+          "de": "Die Sanierung der Infrastruktur kostet Milliarden.",
+          "en": "Renovating infrastructure costs billions."
+        }
       ]
     },
     {
-      "word": "hearing protection",
-      "meaning": "equipment or behaviour used to reduce damage from loud noise",
+      "word": "die Überflutung",
+      "meaning": "flooding",
       "examples": [
-        "I had heard of hearing protection before, but I did not fully understand it.",
-        "After the lesson, I could explain hearing protection in my own words."
+        {
+          "de": "Tiefe Flächen können bei Starkregen als Schutz vor Überflutung dienen.",
+          "en": "Low-lying areas can provide protection from flooding during heavy rain."
+        },
+        {
+          "de": "Nach der Überflutung mussten viele Häuser gereinigt werden.",
+          "en": "Many houses had to be cleaned after the flooding."
+        }
       ]
     }
   ]

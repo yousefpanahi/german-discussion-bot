@@ -1,52 +1,88 @@
 {
-  "title": "Our love of pets",
+  "title": "Ein Hotelzimmer für Obdachlose",
   "vocabulary": [
     {
-      "word": "companionship",
-      "meaning": "the comfort and friendship provided by spending time with another person or animal",
+      "word": "obdachlos",
+      "meaning": "homeless",
       "examples": [
-        "The article gave a clear example of companionship.",
-        "We discussed companionship during the session."
+        {
+          "de": "Im Winter sind obdachlose Menschen besonderen Gefahren ausgesetzt.",
+          "en": "Homeless people face particular dangers in winter."
+        },
+        {
+          "de": "Ein Hotelzimmer bietet einem obdachlosen Menschen Schutz und Privatsphäre.",
+          "en": "A hotel room offers a homeless person protection and privacy."
+        }
       ]
     },
     {
-      "word": "domestication",
-      "meaning": "the process of adapting wild animals or plants for life and use with humans",
+      "word": "die Notunterkunft",
+      "meaning": "emergency shelter",
       "examples": [
-        "Many people have strong opinions about domestication.",
-        "Understanding domestication helped me follow the discussion."
+        {
+          "de": "In einer Notunterkunft schlafen oft viele Menschen in einem Raum.",
+          "en": "In an emergency shelter, many people often sleep in one room."
+        },
+        {
+          "de": "Während der Pandemie musste in Notunterkünften mehr Abstand eingehalten werden.",
+          "en": "During the pandemic, more distance had to be maintained in emergency shelters."
+        }
       ]
     },
     {
-      "word": "pet ownership",
-      "meaning": "the responsibility and experience of keeping an animal as a pet",
+      "word": "das Mehrbettzimmer",
+      "meaning": "shared room with several beds",
       "examples": [
-        "Pet ownership was one of the key ideas in the article.",
-        "I used the term pet ownership when explaining my opinion."
+        {
+          "de": "Mehrbettzimmer bieten weniger Privatsphäre als Einzelzimmer.",
+          "en": "Shared rooms offer less privacy than single rooms."
+        },
+        {
+          "de": "In dicht belegten Mehrbettzimmern steigt das Infektionsrisiko.",
+          "en": "The risk of infection increases in crowded shared rooms."
+        }
       ]
     },
     {
-      "word": "animal welfare",
-      "meaning": "the physical and psychological wellbeing of animals",
+      "word": "jemanden unterbringen",
+      "meaning": "to accommodate or house someone",
       "examples": [
-        "The speaker described how animal welfare can affect people's lives.",
-        "Our group talked about the advantages and disadvantages of animal welfare."
+        {
+          "de": "Die Stadt brachte obdachlose Menschen in Hotels unter.",
+          "en": "The city housed homeless people in hotels."
+        },
+        {
+          "de": "Im Winter müssen besonders gefährdete Personen sicher untergebracht werden.",
+          "en": "Particularly vulnerable people must be safely accommodated in winter."
+        }
       ]
     },
     {
-      "word": "attachment",
-      "meaning": "a strong emotional bond between individuals",
+      "word": "die Aufwandsentschädigung",
+      "meaning": "expense allowance; compensation payment",
       "examples": [
-        "The discussion made me think more carefully about attachment.",
-        "Different countries may have different experiences with attachment."
+        {
+          "de": "Die Hotels erhielten eine Aufwandsentschädigung von der Stadt.",
+          "en": "The hotels received a compensation payment from the city."
+        },
+        {
+          "de": "Eine Aufwandsentschädigung deckt einen Teil der entstehenden Kosten.",
+          "en": "An expense allowance covers part of the costs incurred."
+        }
       ]
     },
     {
-      "word": "responsibility",
-      "meaning": "a duty to care for someone or something and accept the results of your actions",
+      "word": "die seelische Verfassung",
+      "meaning": "mental or emotional condition",
       "examples": [
-        "I had heard of responsibility before, but I did not fully understand it.",
-        "After the lesson, I could explain responsibility in my own words."
+        {
+          "de": "Ein sicherer Schlafplatz kann die seelische Verfassung verbessern.",
+          "en": "A safe place to sleep can improve a person's mental state."
+        },
+        {
+          "de": "Dauerhafter Stress belastet die seelische Verfassung.",
+          "en": "Long-term stress strains mental well-being."
+        }
       ]
     }
   ]

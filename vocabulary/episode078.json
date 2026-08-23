@@ -1,52 +1,88 @@
 {
-  "title": "The stories behind our names",
+  "title": "„klimaneutral“ – nur ein leeres Versprechen?",
   "vocabulary": [
     {
-      "word": "given name",
-      "meaning": "the personal name given to someone at birth or naming",
+      "word": "klimaneutral",
+      "meaning": "climate-neutral",
       "examples": [
-        "The article gave a clear example of given name.",
-        "We discussed given name during the session."
+        {
+          "de": "Das Unternehmen bezeichnet sein Produkt als klimaneutral.",
+          "en": "The company describes its product as climate-neutral."
+        },
+        {
+          "de": "Nicht jede klimaneutrale Werbung bedeutet, dass keine Emissionen entstehen.",
+          "en": "Not every climate-neutral claim means that no emissions are produced."
+        }
       ]
     },
     {
-      "word": "surname",
-      "meaning": "the family name shared by members of a family",
+      "word": "die Emission",
+      "meaning": "emission",
       "examples": [
-        "Many people have strong opinions about surname.",
-        "Understanding surname helped me follow the discussion."
+        {
+          "de": "Unternehmen sollen ihre eigenen Emissionen deutlich reduzieren.",
+          "en": "Companies should significantly reduce their own emissions."
+        },
+        {
+          "de": "Viele Emissionen entstehen bei Produktion und Transport.",
+          "en": "Many emissions are generated during production and transport."
+        }
       ]
     },
     {
-      "word": "namesake",
-      "meaning": "a person or thing that has the same name as another",
+      "word": "etwas ausgleichen",
+      "meaning": "to offset or compensate for something",
       "examples": [
-        "Namesake was one of the key ideas in the article.",
-        "I used the term namesake when explaining my opinion."
+        {
+          "de": "Firmen können einen Teil ihrer Emissionen durch Klimaprojekte ausgleichen.",
+          "en": "Companies can offset some of their emissions through climate projects."
+        },
+        {
+          "de": "Kompensation sollte echte Reduktionen nicht ersetzen.",
+          "en": "Offsetting should not replace real reductions."
+        }
       ]
     },
     {
-      "word": "identity",
-      "meaning": "the qualities and experiences that make a person who they are",
+      "word": "das Zertifikat",
+      "meaning": "certificate; carbon credit",
       "examples": [
-        "The speaker described how identity can affect people's lives.",
-        "Our group talked about the advantages and disadvantages of identity."
+        {
+          "de": "Ein Unternehmen kauft Zertifikate für Klimaschutzprojekte.",
+          "en": "A company buys certificates for climate protection projects."
+        },
+        {
+          "de": "Die Qualität von Klimazertifikaten ist unterschiedlich.",
+          "en": "The quality of carbon credits varies."
+        }
       ]
     },
     {
-      "word": "heritage",
-      "meaning": "the traditions, culture, and history passed down through generations",
+      "word": "das Greenwashing",
+      "meaning": "greenwashing",
       "examples": [
-        "The discussion made me think more carefully about heritage.",
-        "Different countries may have different experiences with heritage."
+        {
+          "de": "Vage Umweltversprechen können als Greenwashing kritisiert werden.",
+          "en": "Vague environmental promises can be criticised as greenwashing."
+        },
+        {
+          "de": "Greenwashing macht es Verbrauchern schwer, echte Fortschritte zu erkennen.",
+          "en": "Greenwashing makes it difficult for consumers to recognise real progress."
+        }
       ]
     },
     {
-      "word": "naming tradition",
-      "meaning": "a customary way in which a culture or family chooses names",
+      "word": "der Standard",
+      "meaning": "standard",
       "examples": [
-        "I had heard of naming tradition before, but I did not fully understand it.",
-        "After the lesson, I could explain naming tradition in my own words."
+        {
+          "de": "Ein internationaler Standard könnte mehr Klarheit schaffen.",
+          "en": "An international standard could create greater clarity."
+        },
+        {
+          "de": "Ohne einheitlichen Standard sind Umweltangaben schwer vergleichbar.",
+          "en": "Without a uniform standard, environmental claims are difficult to compare."
+        }
       ]
     }
   ]

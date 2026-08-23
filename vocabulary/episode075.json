@@ -1,52 +1,88 @@
 {
-  "title": "Grown-ups buying kids’ toys",
+  "title": "KI vollendet Beethovens „Unvollendete“",
   "vocabulary": [
     {
-      "word": "nostalgia",
-      "meaning": "a warm or emotional feeling about experiences from the past",
+      "word": "die Künstliche Intelligenz",
+      "meaning": "artificial intelligence",
       "examples": [
-        "The article gave a clear example of nostalgia.",
-        "We discussed nostalgia during the session."
+        {
+          "de": "Künstliche Intelligenz kann heute Musik und Texte erzeugen.",
+          "en": "Artificial intelligence can generate music and texts today."
+        },
+        {
+          "de": "Die Künstliche Intelligenz wurde mit vielen Musikstücken trainiert.",
+          "en": "The artificial intelligence was trained on many pieces of music."
+        }
       ]
     },
     {
-      "word": "collectible",
-      "meaning": "an object valued because people enjoy collecting items of its type",
+      "word": "die Sinfonie",
+      "meaning": "symphony",
       "examples": [
-        "Many people have strong opinions about collectible.",
-        "Understanding collectible helped me follow the discussion."
+        {
+          "de": "Beethoven konnte seine zehnte Sinfonie nicht vollenden.",
+          "en": "Beethoven was unable to complete his tenth symphony."
+        },
+        {
+          "de": "Das Orchester führte die neue Sinfonie zum ersten Mal auf.",
+          "en": "The orchestra performed the new symphony for the first time."
+        }
       ]
     },
     {
-      "word": "consumer trend",
-      "meaning": "a general change in what people choose to buy or use",
+      "word": "das Fragment",
+      "meaning": "fragment",
       "examples": [
-        "Consumer trend was one of the key ideas in the article.",
-        "I used the term consumer trend when explaining my opinion."
+        {
+          "de": "Von dem Werk blieben nur einige Fragmente erhalten.",
+          "en": "Only a few fragments of the work survived."
+        },
+        {
+          "de": "Ein Fragment kann Forschern Hinweise auf das geplante Gesamtwerk geben.",
+          "en": "A fragment can give researchers clues about the intended complete work."
+        }
       ]
     },
     {
-      "word": "adulthood",
-      "meaning": "the stage of life when a person is fully grown and legally an adult",
+      "word": "der Algorithmus",
+      "meaning": "algorithm",
       "examples": [
-        "The speaker described how adulthood can affect people's lives.",
-        "Our group talked about the advantages and disadvantages of adulthood."
+        {
+          "de": "Ein Algorithmus analysierte typische Muster in Beethovens Musik.",
+          "en": "An algorithm analysed typical patterns in Beethoven's music."
+        },
+        {
+          "de": "Algorithmen können große Datenmengen schnell auswerten.",
+          "en": "Algorithms can analyse large amounts of data quickly."
+        }
       ]
     },
     {
-      "word": "play",
-      "meaning": "an enjoyable activity done for fun, creativity, or relaxation",
+      "word": "imitieren",
+      "meaning": "to imitate",
       "examples": [
-        "The discussion made me think more carefully about play.",
-        "Different countries may have different experiences with play."
+        {
+          "de": "Die KI versucht, einen historischen Kompositionsstil zu imitieren.",
+          "en": "The AI tries to imitate a historical composition style."
+        },
+        {
+          "de": "Eine Maschine kann einen Stil imitieren, aber die Frage nach Kreativität bleibt.",
+          "en": "A machine can imitate a style, but the question of creativity remains."
+        }
       ]
     },
     {
-      "word": "disposable income",
-      "meaning": "money left to spend after taxes and essential costs",
+      "word": "die Uraufführung",
+      "meaning": "premiere; first public performance",
       "examples": [
-        "I had heard of disposable income before, but I did not fully understand it.",
-        "After the lesson, I could explain disposable income in my own words."
+        {
+          "de": "Bei der Uraufführung gab es langen Applaus.",
+          "en": "There was long applause at the premiere."
+        },
+        {
+          "de": "Die Uraufführung eines neuen Werkes ist für Musiker ein besonderer Moment.",
+          "en": "The premiere of a new work is a special moment for musicians."
+        }
       ]
     }
   ]

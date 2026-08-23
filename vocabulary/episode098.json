@@ -1,52 +1,88 @@
 {
-  "title": "Can cows prevent wildfires?",
+  "title": "Nacktszenen ja – aber anders",
   "vocabulary": [
     {
-      "word": "grazing",
-      "meaning": "the activity of animals eating grass and other low-growing plants",
+      "word": "die Nacktszene",
+      "meaning": "nude scene",
       "examples": [
-        "The article gave a clear example of grazing.",
-        "We discussed grazing during the session."
+        {
+          "de": "Nacktszenen werden heute häufiger genau abgesprochen.",
+          "en": "Nude scenes are now more often discussed and agreed on in detail."
+        },
+        {
+          "de": "Eine Nacktszene kann für Schauspieler sehr persönlich sein.",
+          "en": "A nude scene can be very personal for actors."
+        }
       ]
     },
     {
-      "word": "wildfire",
-      "meaning": "a large uncontrolled fire that spreads through vegetation",
+      "word": "der Intimitätskoordinator",
+      "meaning": "intimacy coordinator",
       "examples": [
-        "Many people have strong opinions about wildfire.",
-        "Understanding wildfire helped me follow the discussion."
+        {
+          "de": "Ein Intimitätskoordinator achtet auf klare Absprachen am Set.",
+          "en": "An intimacy coordinator ensures clear agreements on set."
+        },
+        {
+          "de": "Intimitätskoordinatoren helfen, persönliche Grenzen zu respektieren.",
+          "en": "Intimacy coordinators help respect personal boundaries."
+        }
       ]
     },
     {
-      "word": "vegetation",
-      "meaning": "plants collectively growing in a particular area",
+      "word": "die Richtlinie",
+      "meaning": "guideline",
       "examples": [
-        "Vegetation was one of the key ideas in the article.",
-        "I used the term vegetation when explaining my opinion."
+        {
+          "de": "Neue Richtlinien sollen Schauspieler bei intimen Szenen schützen.",
+          "en": "New guidelines are intended to protect actors during intimate scenes."
+        },
+        {
+          "de": "Klare Richtlinien reduzieren Missverständnisse.",
+          "en": "Clear guidelines reduce misunderstandings."
+        }
       ]
     },
     {
-      "word": "firebreak",
-      "meaning": "a strip of land cleared or managed to slow the spread of fire",
+      "word": "etwas absprechen",
+      "meaning": "to agree or coordinate something beforehand",
       "examples": [
-        "The speaker described how firebreak can affect people's lives.",
-        "Our group talked about the advantages and disadvantages of firebreak."
+        {
+          "de": "Intime Szenen sollten vorher genau abgesprochen werden.",
+          "en": "Intimate scenes should be agreed on precisely beforehand."
+        },
+        {
+          "de": "Regisseur und Schauspielerin sprechen jede Bewegung ab.",
+          "en": "The director and actress agree on every movement."
+        }
       ]
     },
     {
-      "word": "livestock",
-      "meaning": "farm animals such as cattle, sheep, and goats",
+      "word": "die Zustimmung",
+      "meaning": "consent",
       "examples": [
-        "The discussion made me think more carefully about livestock.",
-        "Different countries may have different experiences with livestock."
+        {
+          "de": "Ohne klare Zustimmung sollte eine intime Szene nicht gedreht werden.",
+          "en": "An intimate scene should not be filmed without clear consent."
+        },
+        {
+          "de": "Zustimmung kann auch später zurückgezogen werden.",
+          "en": "Consent can also be withdrawn later."
+        }
       ]
     },
     {
-      "word": "land management",
-      "meaning": "the planning and care of land to achieve environmental, agricultural, or social goals",
+      "word": "die Grenze",
+      "meaning": "boundary; limit",
       "examples": [
-        "I had heard of land management before, but I did not fully understand it.",
-        "After the lesson, I could explain land management in my own words."
+        {
+          "de": "Jeder Mensch hat unterschiedliche persönliche Grenzen.",
+          "en": "Everyone has different personal boundaries."
+        },
+        {
+          "de": "Professionelle Arbeit respektiert die Grenzen aller Beteiligten.",
+          "en": "Professional work respects the boundaries of everyone involved."
+        }
       ]
     }
   ]

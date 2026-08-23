@@ -1,52 +1,88 @@
 {
-  "title": "Ways to live for 100 years",
+  "title": "Wenig erforscht: Vulkane unter Wasser",
   "vocabulary": [
     {
-      "word": "longevity",
-      "meaning": "the ability to live for a long time",
+      "word": "der Unterwasservulkan",
+      "meaning": "underwater volcano",
       "examples": [
-        "The article gave a clear example of longevity.",
-        "We discussed longevity during the session."
+        {
+          "de": "Der Unterwasservulkan liegt mehrere hundert Meter unter der Meeresoberfläche.",
+          "en": "The underwater volcano lies several hundred metres below the sea surface."
+        },
+        {
+          "de": "Viele Unterwasservulkane werden kaum beobachtet.",
+          "en": "Many underwater volcanoes are barely observed."
+        }
       ]
     },
     {
-      "word": "lifespan",
-      "meaning": "the length of time that a person or organism lives",
+      "word": "der Ausbruch",
+      "meaning": "eruption",
       "examples": [
-        "Many people have strong opinions about lifespan.",
-        "Understanding lifespan helped me follow the discussion."
+        {
+          "de": "Der Ausbruch verursachte eine starke Druckwelle.",
+          "en": "The eruption caused a strong pressure wave."
+        },
+        {
+          "de": "Nicht jeder vulkanische Ausbruch wird sofort entdeckt.",
+          "en": "Not every volcanic eruption is detected immediately."
+        }
       ]
     },
     {
-      "word": "life expectancy",
-      "meaning": "the average number of years a person is expected to live",
+      "word": "die Tiefsee",
+      "meaning": "deep sea",
       "examples": [
-        "Life expectancy was one of the key ideas in the article.",
-        "I used the term life expectancy when explaining my opinion."
+        {
+          "de": "Große Teile der Tiefsee sind noch unerforscht.",
+          "en": "Large parts of the deep sea are still unexplored."
+        },
+        {
+          "de": "Forschung in der Tiefsee ist technisch aufwendig.",
+          "en": "Research in the deep sea is technically demanding."
+        }
       ]
     },
     {
-      "word": "healthy ageing",
-      "meaning": "growing older while maintaining physical and mental wellbeing",
+      "word": "die Vulkanasche",
+      "meaning": "volcanic ash",
       "examples": [
-        "The speaker described how healthy ageing can affect people's lives.",
-        "Our group talked about the advantages and disadvantages of healthy ageing."
+        {
+          "de": "Vulkanasche kann Luft und Wasser verschmutzen.",
+          "en": "Volcanic ash can pollute air and water."
+        },
+        {
+          "de": "Nach dem Ausbruch fiel Vulkanasche auf mehrere Inseln.",
+          "en": "After the eruption, volcanic ash fell on several islands."
+        }
       ]
     },
     {
-      "word": "lifestyle",
-      "meaning": "the habits and choices that shape the way a person lives",
+      "word": "der Tsunami",
+      "meaning": "tsunami",
       "examples": [
-        "The discussion made me think more carefully about lifestyle.",
-        "Different countries may have different experiences with lifestyle."
+        {
+          "de": "Ein Unterwasserausbruch kann unter bestimmten Bedingungen einen Tsunami auslösen.",
+          "en": "An underwater eruption can trigger a tsunami under certain conditions."
+        },
+        {
+          "de": "Warnsysteme sollen Menschen vor einem Tsunami schützen.",
+          "en": "Warning systems are intended to protect people from a tsunami."
+        }
       ]
     },
     {
-      "word": "genetics",
-      "meaning": "the study of genes and inherited characteristics",
+      "word": "unerforscht",
+      "meaning": "unexplored",
       "examples": [
-        "I had heard of genetics before, but I did not fully understand it.",
-        "After the lesson, I could explain genetics in my own words."
+        {
+          "de": "Der Meeresboden ist in vielen Regionen noch weitgehend unerforscht.",
+          "en": "The seabed is still largely unexplored in many regions."
+        },
+        {
+          "de": "Unerforschte Gebiete können wichtige wissenschaftliche Erkenntnisse liefern.",
+          "en": "Unexplored areas can provide important scientific insights."
+        }
       ]
     }
   ]

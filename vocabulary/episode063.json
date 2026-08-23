@@ -1,52 +1,88 @@
 {
-  "title": "How can we prevent food shortages?",
+  "title": "Umweltprobleme bei Olympia 2022",
   "vocabulary": [
     {
-      "word": "food security",
-      "meaning": "reliable access to enough safe and nutritious food",
+      "word": "der Kunstschnee",
+      "meaning": "artificial snow",
       "examples": [
-        "The article gave a clear example of food security.",
-        "We discussed food security during the session."
+        {
+          "de": "Für die Wettkämpfe wurde viel Kunstschnee produziert.",
+          "en": "A lot of artificial snow was produced for the competitions."
+        },
+        {
+          "de": "Kunstschnee benötigt große Mengen Wasser und Energie.",
+          "en": "Artificial snow requires large amounts of water and energy."
+        }
       ]
     },
     {
-      "word": "shortage",
-      "meaning": "a situation in which there is not enough of something that is needed",
+      "word": "der Wasserverbrauch",
+      "meaning": "water consumption",
       "examples": [
-        "Many people have strong opinions about shortage.",
-        "Understanding shortage helped me follow the discussion."
+        {
+          "de": "Der Wasserverbrauch der Sportanlagen wurde kritisiert.",
+          "en": "The water consumption of the sports facilities was criticised."
+        },
+        {
+          "de": "Wir versuchen, unseren täglichen Wasserverbrauch zu reduzieren.",
+          "en": "We try to reduce our daily water consumption."
+        }
       ]
     },
     {
-      "word": "crop yield",
-      "meaning": "the amount of food produced from a particular area of farmland",
+      "word": "das Naturschutzgebiet",
+      "meaning": "nature reserve",
       "examples": [
-        "Crop yield was one of the key ideas in the article.",
-        "I used the term crop yield when explaining my opinion."
+        {
+          "de": "Ein Teil der Sportanlagen lag in einem Naturschutzgebiet.",
+          "en": "Part of the sports facilities was located in a nature reserve."
+        },
+        {
+          "de": "In einem Naturschutzgebiet gelten besondere Regeln.",
+          "en": "Special rules apply in a nature reserve."
+        }
       ]
     },
     {
-      "word": "supply chain",
-      "meaning": "the network of steps involved in producing and delivering a product",
+      "word": "die Erosion",
+      "meaning": "erosion",
       "examples": [
-        "The speaker described how supply chain can affect people's lives.",
-        "Our group talked about the advantages and disadvantages of supply chain."
+        {
+          "de": "Bauarbeiten können die Erosion an Berghängen verstärken.",
+          "en": "Construction work can increase erosion on mountain slopes."
+        },
+        {
+          "de": "Pflanzen schützen den Boden vor Erosion.",
+          "en": "Plants protect the soil from erosion."
+        }
       ]
     },
     {
-      "word": "famine",
-      "meaning": "an extreme shortage of food affecting a large number of people",
+      "word": "nachhaltig",
+      "meaning": "sustainable",
       "examples": [
-        "The discussion made me think more carefully about famine.",
-        "Different countries may have different experiences with famine."
+        {
+          "de": "Große Veranstaltungen sollten möglichst nachhaltig organisiert werden.",
+          "en": "Large events should be organised as sustainably as possible."
+        },
+        {
+          "de": "Nachhaltige Planung berücksichtigt langfristige Folgen.",
+          "en": "Sustainable planning takes long-term consequences into account."
+        }
       ]
     },
     {
-      "word": "resilience",
-      "meaning": "the ability to recover from difficulties and continue functioning",
+      "word": "die Bedenken",
+      "meaning": "concerns",
       "examples": [
-        "I had heard of resilience before, but I did not fully understand it.",
-        "After the lesson, I could explain resilience in my own words."
+        {
+          "de": "Umweltschützer äußerten Bedenken gegen das Projekt.",
+          "en": "Environmentalists expressed concerns about the project."
+        },
+        {
+          "de": "Trotz einiger Bedenken wurde die Veranstaltung durchgeführt.",
+          "en": "Despite some concerns, the event went ahead."
+        }
       ]
     }
   ]

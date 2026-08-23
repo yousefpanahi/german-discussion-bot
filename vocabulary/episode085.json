@@ -1,52 +1,88 @@
 {
-  "title": "Should we eat less rice?",
+  "title": "Weiter im Homeoffice oder zurück ins Büro?",
   "vocabulary": [
     {
-      "word": "rice cultivation",
-      "meaning": "the farming and growing of rice",
+      "word": "das Homeoffice",
+      "meaning": "working from home",
       "examples": [
-        "The article gave a clear example of rice cultivation.",
-        "We discussed rice cultivation during the session."
+        {
+          "de": "Viele Beschäftigte möchten auch künftig teilweise im Homeoffice arbeiten.",
+          "en": "Many employees want to continue working partly from home."
+        },
+        {
+          "de": "Im Homeoffice spare ich täglich Zeit für den Arbeitsweg.",
+          "en": "Working from home saves me daily commuting time."
+        }
       ]
     },
     {
-      "word": "methane emission",
-      "meaning": "the release of methane, a powerful greenhouse gas, into the atmosphere",
+      "word": "der Rechtsanspruch",
+      "meaning": "legal entitlement",
       "examples": [
-        "Many people have strong opinions about methane emission.",
-        "Understanding methane emission helped me follow the discussion."
+        {
+          "de": "Gewerkschaften fordern einen Rechtsanspruch auf Homeoffice.",
+          "en": "Trade unions are demanding a legal right to work from home."
+        },
+        {
+          "de": "Ein Rechtsanspruch würde nicht für jede Tätigkeit sinnvoll sein.",
+          "en": "A legal entitlement would not make sense for every job."
+        }
       ]
     },
     {
-      "word": "staple food",
-      "meaning": "a basic food eaten regularly and forming a major part of a population's diet",
+      "word": "pendeln",
+      "meaning": "to commute",
       "examples": [
-        "Staple food was one of the key ideas in the article.",
-        "I used the term staple food when explaining my opinion."
+        {
+          "de": "Viele Arbeitnehmer pendeln jeden Tag in die Stadt.",
+          "en": "Many employees commute to the city every day."
+        },
+        {
+          "de": "Wer im Homeoffice arbeitet, muss seltener pendeln.",
+          "en": "Those who work from home have to commute less often."
+        }
       ]
     },
     {
-      "word": "water use",
-      "meaning": "the amount of water required or consumed for an activity",
+      "word": "die Zeiteinteilung",
+      "meaning": "time management; scheduling",
       "examples": [
-        "The speaker described how water use can affect people's lives.",
-        "Our group talked about the advantages and disadvantages of water use."
+        {
+          "de": "Homeoffice ermöglicht oft eine flexiblere Zeiteinteilung.",
+          "en": "Working from home often allows more flexible scheduling."
+        },
+        {
+          "de": "Gute Zeiteinteilung verhindert, dass Arbeit den ganzen Tag bestimmt.",
+          "en": "Good time management prevents work from dominating the entire day."
+        }
       ]
     },
     {
-      "word": "crop yield",
-      "meaning": "the amount of a crop produced from a given area of land",
+      "word": "der Feierabend",
+      "meaning": "end of the working day; time after work",
       "examples": [
-        "The discussion made me think more carefully about crop yield.",
-        "Different countries may have different experiences with crop yield."
+        {
+          "de": "Im Homeoffice vergessen manche Menschen rechtzeitig Feierabend zu machen.",
+          "en": "Some people working from home forget to stop work on time."
+        },
+        {
+          "de": "Nach Feierabend schalte ich berufliche Benachrichtigungen aus.",
+          "en": "After work, I turn off work notifications."
+        }
       ]
     },
     {
-      "word": "sustainability",
-      "meaning": "the ability to meet present needs without causing long-term environmental or social harm",
+      "word": "virtuell",
+      "meaning": "virtual",
       "examples": [
-        "I had heard of sustainability before, but I did not fully understand it.",
-        "After the lesson, I could explain sustainability in my own words."
+        {
+          "de": "Während der Pandemie fanden viele Besprechungen nur virtuell statt.",
+          "en": "During the pandemic, many meetings took place only virtually."
+        },
+        {
+          "de": "Virtuelle Zusammenarbeit funktioniert besonders gut mit klaren Regeln.",
+          "en": "Virtual collaboration works particularly well with clear rules."
+        }
       ]
     }
   ]
