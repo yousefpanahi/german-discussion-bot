@@ -1,12 +1,13 @@
 {
-  "title": "Can AI solve crime?",
-  "published": null,
+  "title": "Wie Agrarkonzerne die Landwirtschaft kontrollieren",
+  "pdf_url": "https://static.dw.com/downloads/57186027/top-thema-mit-vokabeln-2021-04-13-wie-agrarkonzerne-die-landwirtschaft-kontrollieren-manuskript.pdf",
+  "audio_url": "https://soundcloud.com/dw-learngerman/deutsch-lernen-b1-wie-agrarkonzerne-die-landwirtschaft-kontrollieren",
   "questions": [
-    "What are the main ideas you learned from this episode? Please give a brief summary in your own words.",
-    "Which types of crime do you think AI could help investigate most effectively?",
-    "What is the danger of relying on an algorithm to identify suspicious people?",
-    "Should police be allowed to use facial recognition in public places?",
-    "Who should be responsible when an AI system falsely accuses someone?",
-    "What kind of human oversight should always remain when AI is used in criminal investigations?"
+    "Worum geht es in diesem Thema? Fasse die wichtigsten Ideen kurz mit deinen eigenen Worten zusammen.",
+    "Warum ist Saatgut für die Unabhängigkeit von Landwirten so wichtig?",
+    "Welche Probleme entstehen, wenn wenige große Konzerne einen großen Teil des Saatgutmarktes kontrollieren?",
+    "Sollten Bauern das Recht haben, Saatgut aus ihrer eigenen Ernte wiederzuverwenden und zu tauschen?",
+    "Wie beeinflusst die geringe Vielfalt von Nutzpflanzen die Ernährungssicherheit?",
+    "Welche Vorteile könnten Open-Source-Saatgut und lokale Saatgutnetzwerke haben?"
   ]
 }
