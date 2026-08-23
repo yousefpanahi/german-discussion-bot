@@ -1,52 +1,88 @@
 {
-  "title": "Family belongings",
+  "title": "Deutschlands Angst vor der Rohstoffkrise",
   "vocabulary": [
     {
-      "word": "belonging",
-      "meaning": "an object owned by a person",
+      "word": "der Rohstoff",
+      "meaning": "raw material",
       "examples": [
-        "She packed her personal belongings into boxes.",
-        "Family belongings can have strong emotional value."
+        {
+          "de": "Viele Industrien sind auf importierte Rohstoffe angewiesen.",
+          "en": "Many industries depend on imported raw materials."
+        },
+        {
+          "de": "Seltene Erden sind wichtige Rohstoffe für moderne Technik.",
+          "en": "Rare earths are important raw materials for modern technology."
+        }
       ]
     },
     {
-      "word": "heirloom",
-      "meaning": "a valuable or meaningful object passed down through a family",
+      "word": "die Abhängigkeit",
+      "meaning": "dependence",
       "examples": [
-        "The watch is a family heirloom.",
-        "She inherited an heirloom from her grandmother."
+        {
+          "de": "Eine starke Abhängigkeit von einem Lieferland kann riskant sein.",
+          "en": "Strong dependence on one supplier country can be risky."
+        },
+        {
+          "de": "Deutschland möchte seine Abhängigkeit von einzelnen Rohstoffquellen reduzieren.",
+          "en": "Germany wants to reduce its dependence on individual sources of raw materials."
+        }
       ]
     },
     {
-      "word": "inherit",
-      "meaning": "to receive money, property, or an object from someone who has died",
+      "word": "die seltenen Erden",
+      "meaning": "rare earth elements",
       "examples": [
-        "He inherited several books from his father.",
-        "Children may inherit objects with sentimental value."
+        {
+          "de": "Seltene Erden werden unter anderem für Elektroautos benötigt.",
+          "en": "Rare earth elements are needed for electric cars, among other things."
+        },
+        {
+          "de": "Beim Abbau seltener Erden entstehen oft Umweltprobleme.",
+          "en": "Mining rare earth elements often causes environmental problems."
+        }
       ]
     },
     {
-      "word": "sentimental value",
-      "meaning": "emotional importance that an object has because of memories or relationships",
+      "word": "das Monopol",
+      "meaning": "monopoly",
       "examples": [
-        "The ring has great sentimental value.",
-        "An old photograph can have more sentimental value than financial value."
+        {
+          "de": "Ein Monopol kann andere Länder wirtschaftlich abhängig machen.",
+          "en": "A monopoly can make other countries economically dependent."
+        },
+        {
+          "de": "Beim Abbau bestimmter Rohstoffe hat ein Land fast ein Monopol.",
+          "en": "One country has almost a monopoly on mining certain raw materials."
+        }
       ]
     },
     {
-      "word": "keepsake",
-      "meaning": "a small object kept because it reminds someone of a person or event",
+      "word": "der Abbau",
+      "meaning": "extraction; mining",
       "examples": [
-        "She kept the ticket as a keepsake.",
-        "The box contains family keepsakes."
+        {
+          "de": "Der Abbau von Rohstoffen kann Landschaften stark verändern.",
+          "en": "Mining raw materials can greatly alter landscapes."
+        },
+        {
+          "de": "Beim Abbau müssen Umweltstandards eingehalten werden.",
+          "en": "Environmental standards must be observed during extraction."
+        }
       ]
     },
     {
-      "word": "possession",
-      "meaning": "something owned by someone",
+      "word": "erpressbar",
+      "meaning": "vulnerable to pressure or blackmail",
       "examples": [
-        "The photograph is one of his most treasured possessions.",
-        "People often keep possessions connected with important memories."
+        {
+          "de": "Wer nur einen Lieferanten hat, kann wirtschaftlich erpressbar werden.",
+          "en": "Those with only one supplier can become economically vulnerable to pressure."
+        },
+        {
+          "de": "Eine vielfältige Lieferkette macht ein Unternehmen weniger erpressbar.",
+          "en": "A diverse supply chain makes a company less vulnerable to pressure."
+        }
       ]
     }
   ]

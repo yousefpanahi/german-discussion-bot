@@ -1,52 +1,88 @@
 {
-  "title": "Living in a tiny space",
+  "title": "Kommt die Rente mit 70?",
   "vocabulary": [
     {
-      "word": "tiny home",
-      "meaning": "a very small house designed to use space efficiently",
+      "word": "das Rentenalter",
+      "meaning": "retirement age",
       "examples": [
-        "She moved into a tiny home to reduce her expenses.",
-        "Tiny homes require careful planning and storage."
+        {
+          "de": "Das Rentenalter wird in vielen Ländern schrittweise erhöht.",
+          "en": "The retirement age is being gradually raised in many countries."
+        },
+        {
+          "de": "Ein höheres Rentenalter ist politisch umstritten.",
+          "en": "A higher retirement age is politically controversial."
+        }
       ]
     },
     {
-      "word": "compact",
-      "meaning": "small but arranged efficiently",
+      "word": "der demografische Wandel",
+      "meaning": "demographic change",
       "examples": [
-        "The apartment is compact but comfortable.",
-        "Compact furniture can save valuable space."
+        {
+          "de": "Der demografische Wandel verändert die Altersstruktur der Gesellschaft.",
+          "en": "Demographic change is altering the age structure of society."
+        },
+        {
+          "de": "Durch den demografischen Wandel gibt es relativ mehr ältere Menschen.",
+          "en": "Demographic change means there are relatively more older people."
+        }
       ]
     },
     {
-      "word": "storage",
-      "meaning": "space used for keeping possessions",
+      "word": "der Beitragszahler",
+      "meaning": "contributor to a social insurance system",
       "examples": [
-        "Good storage is essential in a small flat.",
-        "The bed has built-in storage underneath."
+        {
+          "de": "Beitragszahler finanzieren einen großen Teil des Rentensystems.",
+          "en": "Contributors finance a large part of the pension system."
+        },
+        {
+          "de": "Wenn es weniger Beitragszahler gibt, steigt der Druck auf das System.",
+          "en": "If there are fewer contributors, pressure on the system increases."
+        }
       ]
     },
     {
-      "word": "minimalism",
-      "meaning": "a lifestyle involving fewer possessions and a simpler environment",
+      "word": "die Sozialabgabe",
+      "meaning": "social insurance contribution",
       "examples": [
-        "Minimalism can make small-space living easier.",
-        "He became interested in minimalism after moving."
+        {
+          "de": "Arbeitnehmer zahlen Sozialabgaben von ihrem Einkommen.",
+          "en": "Employees pay social insurance contributions from their income."
+        },
+        {
+          "de": "Steigende Sozialabgaben belasten Beschäftigte und Unternehmen.",
+          "en": "Rising social contributions burden employees and companies."
+        }
       ]
     },
     {
-      "word": "downsize",
-      "meaning": "to move to a smaller home or reduce the number of possessions you own",
+      "word": "der Geringverdiener",
+      "meaning": "low-income earner",
       "examples": [
-        "The couple decided to downsize after retirement.",
-        "Downsizing forced them to choose what they really needed."
+        {
+          "de": "Ein höheres Rentenalter kann Geringverdiener besonders stark treffen.",
+          "en": "A higher retirement age can affect low-income earners particularly strongly."
+        },
+        {
+          "de": "Geringverdiener haben oft weniger Möglichkeiten, privat vorzusorgen.",
+          "en": "Low-income earners often have fewer opportunities to save privately for retirement."
+        }
       ]
     },
     {
-      "word": "multifunctional",
-      "meaning": "designed to serve more than one purpose",
+      "word": "die Zuwanderung",
+      "meaning": "immigration",
       "examples": [
-        "A multifunctional table can be used for eating and working.",
-        "Small homes often use multifunctional furniture."
+        {
+          "de": "Qualifizierte Zuwanderung kann den Arbeitsmarkt unterstützen.",
+          "en": "Skilled immigration can support the labour market."
+        },
+        {
+          "de": "Zuwanderung allein löst die Rentenfrage jedoch nicht vollständig.",
+          "en": "Immigration alone does not completely solve the pension issue."
+        }
       ]
     }
   ]

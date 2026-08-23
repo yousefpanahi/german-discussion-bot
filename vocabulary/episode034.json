@@ -1,52 +1,88 @@
 {
-  "title": "Going where the work is",
+  "title": "Der schwierige Kampf gegen Umweltkriminalität",
   "vocabulary": [
     {
-      "word": "relocate",
-      "meaning": "to move to a different place, especially for work or living",
+      "word": "die Umweltkriminalität",
+      "meaning": "environmental crime",
       "examples": [
-        "She relocated to another city for a new job.",
-        "The company offered support to employees who had to relocate."
+        {
+          "de": "Umweltkriminalität verursacht weltweit große Schäden.",
+          "en": "Environmental crime causes major damage worldwide."
+        },
+        {
+          "de": "Internationale Banden verdienen viel Geld mit Umweltkriminalität.",
+          "en": "International gangs make a lot of money from environmental crime."
+        }
       ]
     },
     {
-      "word": "job opportunity",
-      "meaning": "a chance to obtain employment",
+      "word": "das Kartell",
+      "meaning": "cartel; organised group controlling illegal or economic activity",
       "examples": [
-        "He moved abroad for a better job opportunity.",
-        "Remote work has created new job opportunities."
+        {
+          "de": "Ein kriminelles Kartell kontrolliert den illegalen Handel.",
+          "en": "A criminal cartel controls the illegal trade."
+        },
+        {
+          "de": "Kartelle arbeiten oft über mehrere Länder hinweg.",
+          "en": "Cartels often operate across several countries."
+        }
       ]
     },
     {
-      "word": "commute",
-      "meaning": "to travel regularly between home and work",
+      "word": "etwas aufdecken",
+      "meaning": "to uncover or expose something",
       "examples": [
-        "She commutes by train every day.",
-        "A long commute can affect work-life balance."
+        {
+          "de": "Gezielte Kontrollen können Umweltverbrechen aufdecken.",
+          "en": "Targeted inspections can uncover environmental crimes."
+        },
+        {
+          "de": "Journalisten deckten den illegalen Handel auf.",
+          "en": "Journalists uncovered the illegal trade."
+        }
       ]
     },
     {
-      "word": "mobility",
-      "meaning": "the ability or willingness to move between places or jobs",
+      "word": "der Ermittler",
+      "meaning": "investigator",
       "examples": [
-        "Career mobility is important in some industries.",
-        "Better transport can improve worker mobility."
+        {
+          "de": "Die Ermittler arbeiten mit Behörden aus mehreren Ländern zusammen.",
+          "en": "The investigators work with authorities from several countries."
+        },
+        {
+          "de": "Ein Umweltermittler sammelt Beweise für illegale Aktivitäten.",
+          "en": "An environmental investigator collects evidence of illegal activities."
+        }
       ]
     },
     {
-      "word": "transfer",
-      "meaning": "to move an employee from one office, role, or location to another",
+      "word": "die Geldstrafe",
+      "meaning": "fine; financial penalty",
       "examples": [
-        "He requested a transfer to the northern office.",
-        "The company transferred several staff members overseas."
+        {
+          "de": "Eine geringe Geldstrafe schreckt organisierte Täter kaum ab.",
+          "en": "A small fine hardly deters organised offenders."
+        },
+        {
+          "de": "Das Gericht verhängte eine hohe Geldstrafe.",
+          "en": "The court imposed a high fine."
+        }
       ]
     },
     {
-      "word": "career move",
-      "meaning": "a change of job or position intended to improve a career",
+      "word": "jemanden observieren",
+      "meaning": "to surveil or observe someone",
       "examples": [
-        "Moving to Berlin was a major career move.",
-        "She considered whether the promotion was the right career move."
+        {
+          "de": "Bei schweren Straftaten darf die Polizei Verdächtige observieren.",
+          "en": "For serious crimes, the police may surveil suspects."
+        },
+        {
+          "de": "Die Ermittler observierten die Gruppe mehrere Wochen lang.",
+          "en": "The investigators observed the group for several weeks."
+        }
       ]
     }
   ]

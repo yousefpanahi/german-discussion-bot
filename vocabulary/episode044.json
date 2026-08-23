@@ -1,52 +1,88 @@
 {
-  "title": "Is it OK to disagree?",
+  "title": "Schwimmen – eine lebenswichtige Fähigkeit",
   "vocabulary": [
     {
-      "word": "disagree",
-      "meaning": "to have a different opinion from someone else",
+      "word": "ertrinken",
+      "meaning": "to drown",
       "examples": [
-        "It is possible to disagree without being rude.",
-        "We disagree about the best solution."
+        {
+          "de": "Kinder sollten schwimmen lernen, damit das Risiko zu ertrinken sinkt.",
+          "en": "Children should learn to swim so that the risk of drowning decreases."
+        },
+        {
+          "de": "Im offenen Wasser kann man auch als guter Schwimmer in Gefahr geraten und ertrinken.",
+          "en": "Even a good swimmer can get into danger and drown in open water."
+        }
       ]
     },
     {
-      "word": "opinion",
-      "meaning": "a belief or judgement that may not be based on complete fact",
+      "word": "der Schwimmunterricht",
+      "meaning": "swimming lessons at school",
       "examples": [
-        "Everyone should be able to express an opinion.",
-        "Her opinion changed after hearing more evidence."
+        {
+          "de": "An vielen Schulen fiel der Schwimmunterricht zeitweise aus.",
+          "en": "Swimming lessons were temporarily cancelled at many schools."
+        },
+        {
+          "de": "Guter Schwimmunterricht braucht ausreichend Zeit und qualifizierte Lehrkräfte.",
+          "en": "Good swimming lessons require enough time and qualified teachers."
+        }
       ]
     },
     {
-      "word": "debate",
-      "meaning": "a discussion in which people express different views",
+      "word": "die Lehrkraft",
+      "meaning": "teacher; instructor",
       "examples": [
-        "The issue caused a lively debate.",
-        "A respectful debate can help people understand other perspectives."
+        {
+          "de": "Für Schwimmkurse fehlen häufig qualifizierte Lehrkräfte.",
+          "en": "Qualified instructors are often lacking for swimming courses."
+        },
+        {
+          "de": "Eine erfahrene Lehrkraft kann Kindern Sicherheit im Wasser geben.",
+          "en": "An experienced instructor can give children confidence in the water."
+        }
       ]
     },
     {
-      "word": "respectful",
-      "meaning": "showing consideration for other people's feelings and views",
+      "word": "die Fähigkeit",
+      "meaning": "ability; skill",
       "examples": [
-        "Keep the discussion respectful even when you strongly disagree.",
-        "She gave a respectful response."
+        {
+          "de": "Schwimmen ist eine lebenswichtige Fähigkeit.",
+          "en": "Swimming is a life-saving skill."
+        },
+        {
+          "de": "Praktische Fähigkeiten sollten regelmäßig geübt werden.",
+          "en": "Practical skills should be practised regularly."
+        }
       ]
     },
     {
-      "word": "argument",
-      "meaning": "a reason or set of reasons supporting a viewpoint, or an angry disagreement",
+      "word": "etwas ausfallen",
+      "meaning": "to be cancelled",
       "examples": [
-        "He made a strong argument for the proposal.",
-        "The discussion became an argument when people stopped listening."
+        {
+          "de": "Während der Pandemie mussten viele Kurse ausfallen.",
+          "en": "Many courses had to be cancelled during the pandemic."
+        },
+        {
+          "de": "Wenn der Schwimmunterricht ausfällt, verlieren Kinder wichtige Lernzeit.",
+          "en": "When swimming lessons are cancelled, children lose valuable learning time."
+        }
       ]
     },
     {
-      "word": "perspective",
-      "meaning": "a particular way of viewing a situation",
+      "word": "sich einsetzen für",
+      "meaning": "to advocate for something",
       "examples": [
-        "Try to understand the other person's perspective.",
-        "Different experiences create different perspectives."
+        {
+          "de": "Die DLRG setzt sich für mehr Schwimmsicherheit ein.",
+          "en": "The DLRG advocates for greater swimming safety."
+        },
+        {
+          "de": "Viele Eltern setzen sich für kostenlose Schwimmkurse ein.",
+          "en": "Many parents advocate for free swimming courses."
+        }
       ]
     }
   ]

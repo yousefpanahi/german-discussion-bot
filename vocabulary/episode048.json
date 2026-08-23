@@ -1,52 +1,88 @@
 {
-  "title": "Why we love a film that makes us cry",
+  "title": "50 Jahre Interrail: mit dem Zug quer durch Europa",
   "vocabulary": [
     {
-      "word": "tearjerker",
-      "meaning": "a film or story designed to make people feel sad and cry",
+      "word": "der Interrail-Pass",
+      "meaning": "Interrail rail pass",
       "examples": [
-        "The movie is a classic tearjerker.",
-        "I enjoy a good tearjerker when the story feels genuine."
+        {
+          "de": "Mit einem Interrail-Pass kann man durch viele europäische Länder reisen.",
+          "en": "With an Interrail pass, you can travel through many European countries."
+        },
+        {
+          "de": "Der Interrail-Pass ist besonders bei jungen Reisenden beliebt.",
+          "en": "The Interrail pass is especially popular with young travellers."
+        }
       ]
     },
     {
-      "word": "empathy",
-      "meaning": "the ability to understand and share another person's feelings",
+      "word": "klimafreundlich",
+      "meaning": "climate-friendly",
       "examples": [
-        "Films can build empathy by showing different experiences.",
-        "The audience felt empathy for the main character."
+        {
+          "de": "Bahnreisen gelten oft als klimafreundlicher als Flüge.",
+          "en": "Rail travel is often considered more climate-friendly than flying."
+        },
+        {
+          "de": "Viele Menschen möchten im Urlaub klimafreundlicher unterwegs sein.",
+          "en": "Many people want to travel more climate-friendly on holiday."
+        }
       ]
     },
     {
-      "word": "emotional response",
-      "meaning": "a feeling or reaction caused by an experience",
+      "word": "entschleunigt",
+      "meaning": "slower-paced; deliberately less rushed",
       "examples": [
-        "Music can create a strong emotional response.",
-        "The final scene produced an intense emotional response."
+        {
+          "de": "Eine lange Zugreise kann sich angenehm entschleunigt anfühlen.",
+          "en": "A long train journey can feel pleasantly slow-paced."
+        },
+        {
+          "de": "Entschleunigtes Reisen lässt mehr Zeit für Begegnungen.",
+          "en": "Slow-paced travel leaves more time for encounters."
+        }
       ]
     },
     {
-      "word": "character",
-      "meaning": "a person in a story, film, or play",
+      "word": "die Resonanz",
+      "meaning": "response; reaction",
       "examples": [
-        "The main character faces a difficult loss.",
-        "Viewers often cry when they care deeply about a character."
+        {
+          "de": "Das günstige Jubiläumsangebot bekam eine sehr gute Resonanz.",
+          "en": "The discounted anniversary offer received a very positive response."
+        },
+        {
+          "de": "Die Bahn war von der starken Resonanz überrascht.",
+          "en": "The railway company was surprised by the strong response."
+        }
       ]
     },
     {
-      "word": "plot",
-      "meaning": "the main events that make up a story",
+      "word": "etwas meiden",
+      "meaning": "to avoid something",
       "examples": [
-        "The plot develops slowly but becomes very emotional.",
-        "A surprising plot can keep viewers interested."
+        {
+          "de": "Sie versucht sehr volle Züge zu meiden.",
+          "en": "She tries to avoid very crowded trains."
+        },
+        {
+          "de": "Viele Reisende meiden Flüge aus Klimagründen.",
+          "en": "Many travellers avoid flights for climate reasons."
+        }
       ]
     },
     {
-      "word": "catharsis",
-      "meaning": "a feeling of emotional release after experiencing strong feelings",
+      "word": "das Lebensgefühl",
+      "meaning": "way of life; feeling associated with a lifestyle",
       "examples": [
-        "Crying during a film can provide a sense of catharsis.",
-        "Some people find sad stories emotionally cathartic."
+        {
+          "de": "Für manche Menschen ist Interrail ein besonderes Lebensgefühl.",
+          "en": "For some people, Interrail represents a special way of life."
+        },
+        {
+          "de": "Langsames Reisen vermittelt ein anderes Lebensgefühl als ein kurzer Flug.",
+          "en": "Slow travel creates a different feeling from a short flight."
+        }
       ]
     }
   ]

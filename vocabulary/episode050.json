@@ -1,52 +1,88 @@
 {
-  "title": "Scared of speaking English?",
+  "title": "In den Müll oder doch lieber auf den Teller?",
   "vocabulary": [
     {
-      "word": "anxiety",
-      "meaning": "a feeling of worry, nervousness, or fear",
+      "word": "die Lebensmittelverschwendung",
+      "meaning": "food waste",
       "examples": [
-        "Speaking English in public can cause anxiety.",
-        "Practice can reduce language anxiety over time."
+        {
+          "de": "Lebensmittelverschwendung verursacht unnötige Kosten und Emissionen.",
+          "en": "Food waste causes unnecessary costs and emissions."
+        },
+        {
+          "de": "Viele Haushalte können ihre Lebensmittelverschwendung deutlich reduzieren.",
+          "en": "Many households can significantly reduce their food waste."
+        }
       ]
     },
     {
-      "word": "confidence",
-      "meaning": "belief in your own ability",
+      "word": "das Mindesthaltbarkeitsdatum",
+      "meaning": "best-before date",
       "examples": [
-        "Her confidence grew after several successful conversations.",
-        "Confidence often matters as much as perfect grammar."
+        {
+          "de": "Ein abgelaufenes Mindesthaltbarkeitsdatum bedeutet nicht automatisch, dass ein Produkt schlecht ist.",
+          "en": "An expired best-before date does not automatically mean a product is bad."
+        },
+        {
+          "de": "Vor dem Wegwerfen sollte man das Mindesthaltbarkeitsdatum richtig verstehen.",
+          "en": "Before throwing food away, one should correctly understand the best-before date."
+        }
       ]
     },
     {
-      "word": "fluency",
-      "meaning": "the ability to speak smoothly and easily",
+      "word": "essbar",
+      "meaning": "edible; safe to eat",
       "examples": [
-        "Regular speaking practice improves fluency.",
-        "Fluency develops gradually."
+        {
+          "de": "Der Joghurt ist trotz des Datums noch essbar.",
+          "en": "The yoghurt is still edible despite the date."
+        },
+        {
+          "de": "Reste lassen sich oft noch zu einer essbaren Mahlzeit verarbeiten.",
+          "en": "Leftovers can often still be turned into an edible meal."
+        }
       ]
     },
     {
-      "word": "hesitation",
-      "meaning": "a pause caused by uncertainty or nervousness",
+      "word": "etwas spenden",
+      "meaning": "to donate something",
       "examples": [
-        "A little hesitation is normal when using a new language.",
-        "She spoke with less hesitation after practising."
+        {
+          "de": "Supermärkte können unverkaufte Lebensmittel an Hilfsorganisationen spenden.",
+          "en": "Supermarkets can donate unsold food to charities."
+        },
+        {
+          "de": "Viele Menschen spenden haltbare Lebensmittel an Tafeln.",
+          "en": "Many people donate non-perishable food to food banks."
+        }
       ]
     },
     {
-      "word": "pronunciation",
-      "meaning": "the way words are spoken",
+      "word": "der Bedarf",
+      "meaning": "need; demand",
       "examples": [
-        "Good pronunciation helps listeners understand you.",
-        "You do not need a native accent to have clear pronunciation."
+        {
+          "de": "Restaurants können ihren tatsächlichen Bedarf besser berechnen.",
+          "en": "Restaurants can calculate their actual needs more accurately."
+        },
+        {
+          "de": "Wer seinen Bedarf kennt, kauft weniger unnötige Lebensmittel.",
+          "en": "Those who know their needs buy less unnecessary food."
+        }
       ]
     },
     {
-      "word": "self-conscious",
-      "meaning": "uncomfortably aware of how other people may judge you",
+      "word": "der Überfluss",
+      "meaning": "abundance; excess",
       "examples": [
-        "He feels self-conscious about his accent.",
-        "Small friendly groups can help learners feel less self-conscious."
+        {
+          "de": "In reichen Ländern sind viele Lebensmittel ständig im Überfluss vorhanden.",
+          "en": "In wealthy countries, many foods are constantly available in abundance."
+        },
+        {
+          "de": "Überfluss kann dazu führen, dass Produkte weniger wertgeschätzt werden.",
+          "en": "Abundance can lead to products being valued less."
+        }
       ]
     }
   ]

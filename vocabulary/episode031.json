@@ -1,52 +1,88 @@
 {
-  "title": "Genetically modified cows",
+  "title": "Cannabis-Legalisierung in Deutschland",
   "vocabulary": [
     {
-      "word": "genetically modified",
-      "meaning": "changed by altering an organism's genetic material using biotechnology",
+      "word": "die Legalisierung",
+      "meaning": "legalisation",
       "examples": [
-        "Scientists developed genetically modified cattle.",
-        "Genetically modified crops are grown in many countries."
+        {
+          "de": "Die Legalisierung von Cannabis wird kontrovers diskutiert.",
+          "en": "The legalisation of cannabis is controversially debated."
+        },
+        {
+          "de": "Eine Legalisierung braucht klare Regeln zum Jugendschutz.",
+          "en": "Legalisation requires clear rules to protect minors."
+        }
       ]
     },
     {
-      "word": "gene",
-      "meaning": "a unit of biological information passed from parents to offspring",
+      "word": "die Abgabe",
+      "meaning": "controlled distribution or sale",
       "examples": [
-        "Researchers changed a specific gene in the animal.",
-        "A single gene can influence an important trait."
+        {
+          "de": "Die Abgabe soll nur in lizenzierten Geschäften erlaubt sein.",
+          "en": "Distribution is to be permitted only in licensed shops."
+        },
+        {
+          "de": "Für die Abgabe an Erwachsene gelten besondere Regeln.",
+          "en": "Special rules apply to distribution to adults."
+        }
       ]
     },
     {
-      "word": "biotechnology",
-      "meaning": "the use of living systems or biological processes to develop products and technologies",
+      "word": "der Anbau",
+      "meaning": "cultivation",
       "examples": [
-        "Modern biotechnology can change how food is produced.",
-        "She works in agricultural biotechnology."
+        {
+          "de": "Der private Anbau soll nur in begrenztem Umfang erlaubt sein.",
+          "en": "Private cultivation is to be permitted only to a limited extent."
+        },
+        {
+          "de": "Beim Anbau von Cannabis müssen gesetzliche Vorschriften beachtet werden.",
+          "en": "Legal regulations must be observed when cultivating cannabis."
+        }
       ]
     },
     {
-      "word": "trait",
-      "meaning": "a particular characteristic of an organism",
+      "word": "der Besitz",
+      "meaning": "possession",
       "examples": [
-        "The scientists wanted to introduce a disease-resistant trait.",
-        "Some traits are influenced by many genes."
+        {
+          "de": "Der Besitz kleiner Mengen könnte künftig erlaubt sein.",
+          "en": "Possession of small amounts could be permitted in the future."
+        },
+        {
+          "de": "Für Minderjährige bleibt der Besitz verboten.",
+          "en": "Possession remains prohibited for minors."
+        }
       ]
     },
     {
-      "word": "breeding",
-      "meaning": "the controlled reproduction of animals or plants to produce desired characteristics",
+      "word": "die Suchtprävention",
+      "meaning": "addiction prevention",
       "examples": [
-        "Traditional breeding can take many generations.",
-        "Genetic engineering is different from selective breeding."
+        {
+          "de": "Suchtprävention ist besonders für Jugendliche wichtig.",
+          "en": "Addiction prevention is especially important for young people."
+        },
+        {
+          "de": "Der Staat möchte mehr Geld in Suchtprävention investieren.",
+          "en": "The state wants to invest more money in addiction prevention."
+        }
       ]
     },
     {
-      "word": "genome",
-      "meaning": "the complete set of genetic information in an organism",
+      "word": "der Verstoß",
+      "meaning": "violation; breach of a rule or law",
       "examples": [
-        "Scientists mapped the cow's genome.",
-        "Editing the genome raises technical and ethical questions."
+        {
+          "de": "Ein Verstoß gegen die Regeln kann bestraft werden.",
+          "en": "A violation of the rules can be punished."
+        },
+        {
+          "de": "Die Polizei verfolgt schwere Verstöße gegen das Gesetz.",
+          "en": "The police pursue serious violations of the law."
+        }
       ]
     }
   ]

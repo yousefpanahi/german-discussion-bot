@@ -1,52 +1,88 @@
 {
-  "title": "The benefits of doing nothing",
+  "title": "Raubkunst aus Afrika: ein Erbe der Kolonialzeit",
   "vocabulary": [
     {
-      "word": "downtime",
-      "meaning": "time when you are not working and can rest or relax",
+      "word": "die Raubkunst",
+      "meaning": "looted art",
       "examples": [
-        "The article gave a clear example of downtime.",
-        "We discussed downtime during the session."
+        {
+          "de": "Viele Museen untersuchen heute ihre Bestände auf Raubkunst.",
+          "en": "Many museums today examine their collections for looted art."
+        },
+        {
+          "de": "Raubkunst aus der Kolonialzeit ist ein wichtiges politisches Thema.",
+          "en": "Looted art from the colonial era is an important political issue."
+        }
       ]
     },
     {
-      "word": "idleness",
-      "meaning": "the state of not being active or busy",
+      "word": "die Kolonialzeit",
+      "meaning": "colonial era",
       "examples": [
-        "Many people have strong opinions about idleness.",
-        "Understanding idleness helped me follow the discussion."
+        {
+          "de": "Viele afrikanische Kunstobjekte kamen während der Kolonialzeit nach Europa.",
+          "en": "Many African art objects came to Europe during the colonial era."
+        },
+        {
+          "de": "Die Folgen der Kolonialzeit wirken bis heute nach.",
+          "en": "The consequences of the colonial era continue to have an effect today."
+        }
       ]
     },
     {
-      "word": "rest",
-      "meaning": "a period of relaxing in order to recover energy",
+      "word": "der rechtmäßige Eigentümer",
+      "meaning": "rightful owner",
       "examples": [
-        "Rest was one of the key ideas in the article.",
-        "I used the term rest when explaining my opinion."
+        {
+          "de": "Provenienzforscher versuchen, den rechtmäßigen Eigentümer eines Objekts zu bestimmen.",
+          "en": "Provenance researchers try to identify the rightful owner of an object."
+        },
+        {
+          "de": "Ein Museum sollte ein gestohlenes Werk an den rechtmäßigen Eigentümer zurückgeben.",
+          "en": "A museum should return a stolen work to its rightful owner."
+        }
       ]
     },
     {
-      "word": "burnout",
-      "meaning": "physical and emotional exhaustion caused by long-term stress or overwork",
+      "word": "die Provenienzforschung",
+      "meaning": "provenance research",
       "examples": [
-        "The speaker described how burnout can affect people's lives.",
-        "Our group talked about the advantages and disadvantages of burnout."
+        {
+          "de": "Provenienzforschung untersucht die Herkunft und Besitzgeschichte von Kunstwerken.",
+          "en": "Provenance research examines the origin and ownership history of artworks."
+        },
+        {
+          "de": "Ohne Provenienzforschung bleibt die Geschichte vieler Objekte unklar.",
+          "en": "Without provenance research, the history of many objects remains unclear."
+        }
       ]
     },
     {
-      "word": "productivity",
-      "meaning": "the amount of useful work achieved in a given time",
+      "word": "die Rückgabe",
+      "meaning": "return; restitution",
       "examples": [
-        "The discussion made me think more carefully about productivity.",
-        "Different countries may have different experiences with productivity."
+        {
+          "de": "Nigeria fordert die Rückgabe zahlreicher Kunstwerke.",
+          "en": "Nigeria is demanding the return of numerous artworks."
+        },
+        {
+          "de": "Eine Rückgabe kann ein wichtiger Schritt im Umgang mit kolonialem Unrecht sein.",
+          "en": "Restitution can be an important step in addressing colonial injustice."
+        }
       ]
     },
     {
-      "word": "mental recharge",
-      "meaning": "a period of rest that helps restore attention and emotional energy",
+      "word": "das Abkommen",
+      "meaning": "agreement; treaty",
       "examples": [
-        "I had heard of mental recharge before, but I did not fully understand it.",
-        "After the lesson, I could explain mental recharge in my own words."
+        {
+          "de": "Ein internationales Abkommen kann Regeln für Kulturgüter festlegen.",
+          "en": "An international agreement can establish rules for cultural objects."
+        },
+        {
+          "de": "Die Staaten verhandeln über ein neues Abkommen zur Rückgabe von Kunst.",
+          "en": "The states are negotiating a new agreement on the return of art."
+        }
       ]
     }
   ]

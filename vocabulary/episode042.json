@@ -1,52 +1,88 @@
 {
-  "title": "How noisy is 'too noisy'",
+  "title": "Fischsterben in der Oder",
   "vocabulary": [
     {
-      "word": "noise",
-      "meaning": "unwanted or disturbing sound",
+      "word": "das Fischsterben",
+      "meaning": "mass fish die-off",
       "examples": [
-        "Traffic noise can affect sleep.",
-        "The neighbours complained about late-night noise."
+        {
+          "de": "Das Fischsterben in der Oder war eine schwere Umweltkatastrophe.",
+          "en": "The fish die-off in the Oder was a serious environmental disaster."
+        },
+        {
+          "de": "Nach dem Fischsterben suchten Experten nach der Ursache.",
+          "en": "After the fish die-off, experts searched for the cause."
+        }
       ]
     },
     {
-      "word": "decibel",
-      "meaning": "a unit used to measure the loudness of sound",
+      "word": "die Algenblüte",
+      "meaning": "algal bloom",
       "examples": [
-        "The machine produces more than ninety decibels.",
-        "Long exposure to high decibel levels can damage hearing."
+        {
+          "de": "Eine starke Algenblüte kann das Wasser ökologisch verändern.",
+          "en": "A strong algal bloom can change the water ecologically."
+        },
+        {
+          "de": "Hitze und Nährstoffe können eine Algenblüte begünstigen.",
+          "en": "Heat and nutrients can promote an algal bloom."
+        }
       ]
     },
     {
-      "word": "hearing loss",
-      "meaning": "reduced ability to hear sounds",
+      "word": "das Pestizid",
+      "meaning": "pesticide",
       "examples": [
-        "Very loud music can contribute to hearing loss.",
-        "Workers use ear protection to prevent hearing loss."
+        {
+          "de": "Im Wasser wurden Rückstände eines Pestizids gefunden.",
+          "en": "Traces of a pesticide were found in the water."
+        },
+        {
+          "de": "Pestizide können für Tiere und Pflanzen gefährlich sein.",
+          "en": "Pesticides can be dangerous to animals and plants."
+        }
       ]
     },
     {
-      "word": "exposure",
-      "meaning": "the state of being in contact with something, especially for a period of time",
+      "word": "verenden",
+      "meaning": "to die; used especially for animals",
       "examples": [
-        "Long exposure to loud noise can be harmful.",
-        "The study measured workers' noise exposure."
+        {
+          "de": "Tausende Fische verendeten im Fluss.",
+          "en": "Thousands of fish died in the river."
+        },
+        {
+          "de": "Die Helfer sammelten verendete Tiere am Ufer ein.",
+          "en": "Helpers collected dead animals along the riverbank."
+        }
       ]
     },
     {
-      "word": "ear protection",
-      "meaning": "equipment worn to reduce harmful sound reaching the ears",
+      "word": "etwas einleiten",
+      "meaning": "to discharge something into water",
       "examples": [
-        "Construction workers should use ear protection.",
-        "Good ear protection can reduce noise exposure."
+        {
+          "de": "Illegale Betriebe dürfen keine Abwässer in einen Fluss einleiten.",
+          "en": "Illegal businesses must not discharge wastewater into a river."
+        },
+        {
+          "de": "Behörden prüfen, ob schädliche Stoffe eingeleitet wurden.",
+          "en": "Authorities are investigating whether harmful substances were discharged."
+        }
       ]
     },
     {
-      "word": "disturbance",
-      "meaning": "something that interrupts peace, sleep, or normal activity",
+      "word": "das Alarmsignal",
+      "meaning": "warning sign",
       "examples": [
-        "Night-time noise can cause serious disturbance.",
-        "The airport introduced rules to reduce disturbance to residents."
+        {
+          "de": "Das Fischsterben gilt als Alarmsignal für den Zustand europäischer Flüsse.",
+          "en": "The fish die-off is seen as a warning sign for the condition of European rivers."
+        },
+        {
+          "de": "Extrem niedrige Wasserstände sind ein weiteres Alarmsignal.",
+          "en": "Extremely low water levels are another warning sign."
+        }
       ]
     }
   ]

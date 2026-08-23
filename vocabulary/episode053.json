@@ -1,52 +1,88 @@
 {
-  "title": "Drinking around the world",
+  "title": "Plastikmüll – ein ganz normales Handelsgut?",
   "vocabulary": [
     {
-      "word": "drinking culture",
-      "meaning": "social customs and attitudes connected with drinking alcohol",
+      "word": "der Kunststoffabfall",
+      "meaning": "plastic waste",
       "examples": [
-        "Drinking culture varies greatly between countries.",
-        "Work events can reflect local drinking culture."
+        {
+          "de": "Kunststoffabfälle werden teilweise ins Ausland exportiert.",
+          "en": "Plastic waste is partly exported abroad."
+        },
+        {
+          "de": "Schlecht sortierte Kunststoffabfälle lassen sich nur schwer recyceln.",
+          "en": "Poorly sorted plastic waste is difficult to recycle."
+        }
       ]
     },
     {
-      "word": "alcohol",
-      "meaning": "drinks such as beer, wine, or spirits that contain ethanol",
+      "word": "das Handelsgut",
+      "meaning": "tradable commodity",
       "examples": [
-        "Some people choose not to drink alcohol.",
-        "Laws regulate the sale of alcohol."
+        {
+          "de": "Die Branche betrachtet Plastikmüll teilweise als normales Handelsgut.",
+          "en": "The industry partly views plastic waste as a normal tradable commodity."
+        },
+        {
+          "de": "Nicht alles, was einen Preis hat, sollte automatisch als gewöhnliches Handelsgut gelten.",
+          "en": "Not everything that has a price should automatically be treated as an ordinary commodity."
+        }
       ]
     },
     {
-      "word": "toast",
-      "meaning": "a short statement wishing someone well before people drink",
+      "word": "die Reederei",
+      "meaning": "shipping company",
       "examples": [
-        "The host raised a glass and made a toast.",
-        "Wedding toasts are common in many cultures."
+        {
+          "de": "Eine große Reederei will keinen Plastikmüll mehr transportieren.",
+          "en": "A large shipping company no longer wants to transport plastic waste."
+        },
+        {
+          "de": "Reedereien entscheiden mit, welche Waren international verschifft werden.",
+          "en": "Shipping companies help determine which goods are transported internationally."
+        }
       ]
     },
     {
-      "word": "pub",
-      "meaning": "a place, especially in Britain, where alcoholic and other drinks are served",
+      "word": "wiederverwertbar",
+      "meaning": "recyclable; reusable as material",
       "examples": [
-        "They met friends at the local pub.",
-        "Pubs often function as social meeting places."
+        {
+          "de": "Nur sauberer Kunststoff ist wirklich gut wiederverwertbar.",
+          "en": "Only clean plastic is truly easy to recycle."
+        },
+        {
+          "de": "Wiederverwertbare Materialien sollten getrennt gesammelt werden.",
+          "en": "Recyclable materials should be collected separately."
+        }
       ]
     },
     {
-      "word": "moderation",
-      "meaning": "the practice of avoiding excessive amounts",
+      "word": "etwas aufbereiten",
+      "meaning": "to process or treat material for reuse",
       "examples": [
-        "Health advice often recommends moderation.",
-        "He drinks occasionally and in moderation."
+        {
+          "de": "Die Abfälle sollen im Zielland fachgerecht aufbereitet werden.",
+          "en": "The waste is supposed to be properly processed in the destination country."
+        },
+        {
+          "de": "Nicht jede Recyclinganlage kann gemischten Plastikmüll aufbereiten.",
+          "en": "Not every recycling plant can process mixed plastic waste."
+        }
       ]
     },
     {
-      "word": "custom",
-      "meaning": "a traditional or usual way of behaving",
+      "word": "sich rühmen",
+      "meaning": "to pride oneself on something",
       "examples": [
-        "Offering a drink is a social custom in some places.",
-        "Visitors may not understand every local custom."
+        {
+          "de": "Deutschland rühmt sich seiner hohen technischen Standards.",
+          "en": "Germany prides itself on its high technical standards."
+        },
+        {
+          "de": "Ein Land sollte sich nicht mit Recyclingquoten rühmen, wenn Abfälle nur exportiert werden.",
+          "en": "A country should not pride itself on recycling rates if waste is merely exported."
+        }
       ]
     }
   ]

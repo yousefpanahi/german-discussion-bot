@@ -1,52 +1,88 @@
 {
-  "title": "Retirement",
+  "title": "Ukraine-Krieg: Werden Lebensmittel knapp?",
   "vocabulary": [
     {
-      "word": "retirement",
-      "meaning": "the period of life after someone permanently stops regular paid work",
+      "word": "die Ernährungssicherheit",
+      "meaning": "food security",
       "examples": [
-        "She is looking forward to retirement.",
-        "Retirement can bring both freedom and major lifestyle changes."
+        {
+          "de": "In einigen Regionen ist die Ernährungssicherheit gefährdet.",
+          "en": "Food security is at risk in some regions."
+        },
+        {
+          "de": "Stabile Lieferketten sind für die Ernährungssicherheit wichtig.",
+          "en": "Stable supply chains are important for food security."
+        }
       ]
     },
     {
-      "word": "pension",
-      "meaning": "regular money paid to someone after retirement, usually from a government or employment scheme",
+      "word": "die Kornkammer",
+      "meaning": "breadbasket; major grain-producing region",
       "examples": [
-        "He receives a workplace pension.",
-        "Pension rules differ between countries."
+        {
+          "de": "Die Schwarzmeerregion gilt als wichtige Kornkammer.",
+          "en": "The Black Sea region is considered an important breadbasket."
+        },
+        {
+          "de": "Ein Krieg in einer Kornkammer kann weltweite Folgen haben.",
+          "en": "A war in a breadbasket region can have global consequences."
+        }
       ]
     },
     {
-      "word": "retire",
-      "meaning": "to stop working permanently, usually because of age",
+      "word": "der Weizen",
+      "meaning": "wheat",
       "examples": [
-        "She plans to retire at sixty-five.",
-        "Some people retire gradually by reducing their hours."
+        {
+          "de": "Weizen ist ein wichtiges Grundnahrungsmittel in vielen Ländern.",
+          "en": "Wheat is an important staple food in many countries."
+        },
+        {
+          "de": "Steigende Weizenpreise treffen arme Haushalte besonders stark.",
+          "en": "Rising wheat prices hit poor households particularly hard."
+        }
       ]
     },
     {
-      "word": "savings",
-      "meaning": "money kept for future use",
+      "word": "der Düngemittelpreis",
+      "meaning": "fertiliser price",
       "examples": [
-        "Retirement savings can take decades to build.",
-        "They increased their monthly savings."
+        {
+          "de": "Hohe Düngemittelpreise verteuern die Landwirtschaft.",
+          "en": "High fertiliser prices make farming more expensive."
+        },
+        {
+          "de": "Wenn Düngemittelpreise steigen, erhöhen sich oft auch Lebensmittelpreise.",
+          "en": "When fertiliser prices rise, food prices often increase too."
+        }
       ]
     },
     {
-      "word": "retirement age",
-      "meaning": "the age at which people normally or officially stop working or become eligible for benefits",
+      "word": "der Exportüberschuss",
+      "meaning": "export surplus",
       "examples": [
-        "The retirement age has increased in some countries.",
-        "Not everyone wants to stop working at the official retirement age."
+        {
+          "de": "Die EU hat bei manchen Agrarprodukten einen Exportüberschuss.",
+          "en": "The EU has an export surplus in some agricultural products."
+        },
+        {
+          "de": "Ein Exportüberschuss bedeutet, dass mehr ausgeführt als eingeführt wird.",
+          "en": "An export surplus means more is exported than imported."
+        }
       ]
     },
     {
-      "word": "financial planning",
-      "meaning": "the process of organising money to meet future needs and goals",
+      "word": "die Hungerkrise",
+      "meaning": "hunger crisis",
       "examples": [
-        "Retirement requires careful financial planning.",
-        "Good financial planning considers income, expenses, and risk."
+        {
+          "de": "Hilfsorganisationen warnen vor neuen Hungerkrisen.",
+          "en": "Aid organisations warn of new hunger crises."
+        },
+        {
+          "de": "Eine Hungerkrise kann durch Krieg, Dürre und hohe Preise gleichzeitig entstehen.",
+          "en": "A hunger crisis can be caused by war, drought, and high prices at the same time."
+        }
       ]
     }
   ]

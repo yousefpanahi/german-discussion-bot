@@ -1,52 +1,88 @@
 {
-  "title": "Was Christmas better in the past?",
+  "title": "Warum sich Menschen an Kunstwerke kleben",
   "vocabulary": [
     {
-      "word": "Christmas",
-      "meaning": "the annual Christian holiday celebrated on 25 December and widely observed as a cultural festival",
+      "word": "der Klimaaktivist",
+      "meaning": "climate activist",
       "examples": [
-        "Christmas traditions vary between families and countries.",
-        "Some people feel Christmas has changed over time."
+        {
+          "de": "Klimaaktivisten nutzen ungewöhnliche Protestformen, um Aufmerksamkeit zu erzeugen.",
+          "en": "Climate activists use unusual forms of protest to attract attention."
+        },
+        {
+          "de": "Ein Klimaaktivist klebte sich im Museum an einen Rahmen.",
+          "en": "A climate activist glued himself to a frame in a museum."
+        }
       ]
     },
     {
-      "word": "nostalgia",
-      "meaning": "a warm and sometimes sad feeling about the past",
+      "word": "sich festkleben",
+      "meaning": "to glue oneself to something",
       "examples": [
-        "Old Christmas songs can create nostalgia.",
-        "Nostalgia may make past celebrations seem better than they really were."
+        {
+          "de": "Die Aktivisten klebten sich an einem Kunstwerk fest.",
+          "en": "The activists glued themselves to an artwork."
+        },
+        {
+          "de": "Wer sich festklebt, kann einen Einsatz von Polizei oder Feuerwehr auslösen.",
+          "en": "Someone who glues themselves in place can trigger a police or fire service response."
+        }
       ]
     },
     {
-      "word": "tradition",
-      "meaning": "a custom passed from one generation to another",
+      "word": "die Aufmerksamkeit",
+      "meaning": "attention",
       "examples": [
-        "Decorating a tree is a Christmas tradition in many homes.",
-        "Families often create their own traditions."
+        {
+          "de": "Die Aktion sollte öffentliche Aufmerksamkeit auf die Klimakrise lenken.",
+          "en": "The action was intended to draw public attention to the climate crisis."
+        },
+        {
+          "de": "Spektakuläre Proteste bekommen schnell viel Aufmerksamkeit.",
+          "en": "Spectacular protests quickly receive a lot of attention."
+        }
       ]
     },
     {
-      "word": "festive",
-      "meaning": "connected with celebration and enjoyment",
+      "word": "die Verbindung",
+      "meaning": "connection; link",
       "examples": [
-        "The town centre looked festive with lights and decorations.",
-        "People were in a festive mood."
+        {
+          "de": "Die Aktivisten sehen eine Verbindung zwischen Kunst und Klimaschutz.",
+          "en": "The activists see a connection between art and climate protection."
+        },
+        {
+          "de": "Nicht jeder erkennt sofort die Verbindung zwischen Aktion und Botschaft.",
+          "en": "Not everyone immediately recognises the connection between the action and the message."
+        }
       ]
     },
     {
-      "word": "commercialisation",
-      "meaning": "the process of making something increasingly focused on selling and profit",
+      "word": "das Weltkulturerbe",
+      "meaning": "world cultural heritage",
       "examples": [
-        "Some people criticise the commercialisation of Christmas.",
-        "Advertising contributes to holiday commercialisation."
+        {
+          "de": "Kunstwerke des Weltkulturerbes müssen besonders geschützt werden.",
+          "en": "Works of world cultural heritage require special protection."
+        },
+        {
+          "de": "Auch Klimaschutz und Weltkulturerbe können miteinander in Konflikt geraten.",
+          "en": "Climate protection and world cultural heritage can also come into conflict."
+        }
       ]
     },
     {
-      "word": "gift-giving",
-      "meaning": "the practice of giving presents to other people",
+      "word": "der Protest",
+      "meaning": "protest",
       "examples": [
-        "Gift-giving is an important part of many Christmas celebrations.",
-        "Some families set limits on gift-giving."
+        {
+          "de": "Friedlicher Protest ist ein wichtiges demokratisches Recht.",
+          "en": "Peaceful protest is an important democratic right."
+        },
+        {
+          "de": "Die Form des Protests kann beeinflussen, wie eine Botschaft wahrgenommen wird.",
+          "en": "The form of protest can influence how a message is perceived."
+        }
       ]
     }
   ]

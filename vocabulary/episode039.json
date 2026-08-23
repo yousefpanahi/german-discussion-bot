@@ -1,52 +1,88 @@
 {
-  "title": "Annoying office habits",
+  "title": "Die Zukunft des deutschen Waldes",
   "vocabulary": [
     {
-      "word": "interrupt",
-      "meaning": "to stop someone while they are speaking or working",
+      "word": "der Förster",
+      "meaning": "forester",
       "examples": [
-        "Constantly interrupting colleagues can be annoying.",
-        "Please let her finish before you interrupt."
+        {
+          "de": "Ein Förster beobachtet den Zustand des Waldes.",
+          "en": "A forester monitors the condition of the forest."
+        },
+        {
+          "de": "Förster müssen heute stärker auf Klimaveränderungen reagieren.",
+          "en": "Foresters today have to respond more strongly to climate change."
+        }
       ]
     },
     {
-      "word": "loud",
-      "meaning": "making a lot of noise",
+      "word": "die Dürre",
+      "meaning": "drought",
       "examples": [
-        "He speaks very loudly on the phone.",
-        "Loud conversations can distract an entire office."
+        {
+          "de": "Lange Dürreperioden schwächen viele Bäume.",
+          "en": "Long periods of drought weaken many trees."
+        },
+        {
+          "de": "Die Dürre erhöht auch die Gefahr von Waldbränden.",
+          "en": "Drought also increases the risk of forest fires."
+        }
       ]
     },
     {
-      "word": "messy",
-      "meaning": "untidy or disorganised",
+      "word": "der Kronenschaden",
+      "meaning": "damage to a tree crown",
       "examples": [
-        "Her desk is messy but she knows where everything is.",
-        "Shared spaces should not be left messy."
+        {
+          "de": "Viele Bäume zeigen deutliche Kronenschäden.",
+          "en": "Many trees show clear damage to their crowns."
+        },
+        {
+          "de": "Ein Kronenschaden kann ein Zeichen für starken Stress sein.",
+          "en": "Damage to the crown can be a sign of severe stress."
+        }
       ]
     },
     {
-      "word": "personal space",
-      "meaning": "the physical area around a person that they prefer others not to enter",
+      "word": "die Holzernte",
+      "meaning": "timber harvest",
       "examples": [
-        "People have different ideas about personal space.",
-        "Standing too close can invade a colleague's personal space."
+        {
+          "de": "Die Holzernte muss mit dem Schutz des Waldes vereinbar sein.",
+          "en": "Timber harvesting must be compatible with forest protection."
+        },
+        {
+          "de": "Zu intensive Holzernte kann ein Ökosystem belasten.",
+          "en": "Overly intensive timber harvesting can burden an ecosystem."
+        }
       ]
     },
     {
-      "word": "distracting",
-      "meaning": "taking attention away from work or another activity",
+      "word": "das Fördergeld",
+      "meaning": "grant or public funding",
       "examples": [
-        "Repeated phone notifications are distracting.",
-        "Strong smells can also be distracting in an office."
+        {
+          "de": "Für klimaangepassten Waldumbau gibt es Fördergelder.",
+          "en": "Public funding is available for climate-adapted forest conversion."
+        },
+        {
+          "de": "Mit Fördergeldern können neue Schutzprojekte finanziert werden.",
+          "en": "New conservation projects can be financed with grants."
+        }
       ]
     },
     {
-      "word": "habit",
-      "meaning": "something someone does regularly, often without thinking",
+      "word": "klimaangepasst",
+      "meaning": "adapted to climate change",
       "examples": [
-        "Tapping his pen is an annoying habit.",
-        "Small workplace habits can affect other people."
+        {
+          "de": "Ein klimaangepasster Wald braucht verschiedene Baumarten.",
+          "en": "A climate-adapted forest needs different tree species."
+        },
+        {
+          "de": "Städte planen zunehmend klimaangepasste Grünflächen.",
+          "en": "Cities are increasingly planning climate-adapted green spaces."
+        }
       ]
     }
   ]

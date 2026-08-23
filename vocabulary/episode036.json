@@ -1,52 +1,88 @@
 {
-  "title": "Angry people",
+  "title": "Das Erbe des Römischen Reiches",
   "vocabulary": [
     {
-      "word": "anger",
-      "meaning": "a strong feeling of annoyance or displeasure",
+      "word": "das Erbe",
+      "meaning": "legacy; heritage",
       "examples": [
-        "Unfair treatment can cause anger.",
-        "He learned to express his anger without shouting."
+        {
+          "de": "Viele römische Erfindungen sind Teil unseres kulturellen Erbes.",
+          "en": "Many Roman inventions are part of our cultural heritage."
+        },
+        {
+          "de": "Historische Bauwerke erinnern an das Erbe früherer Gesellschaften.",
+          "en": "Historical buildings remind us of the legacy of earlier societies."
+        }
       ]
     },
     {
-      "word": "temper",
-      "meaning": "a person's tendency to become angry",
+      "word": "die Kanalisation",
+      "meaning": "sewer system",
       "examples": [
-        "He has a quick temper when he is under stress.",
-        "She managed to control her temper during the argument."
+        {
+          "de": "Die Römer bauten bereits leistungsfähige Kanalisationen.",
+          "en": "The Romans already built efficient sewer systems."
+        },
+        {
+          "de": "Eine moderne Stadt braucht eine zuverlässige Kanalisation.",
+          "en": "A modern city needs a reliable sewer system."
+        }
       ]
     },
     {
-      "word": "frustration",
-      "meaning": "the feeling of being upset because you cannot achieve or change something",
+      "word": "überdauern",
+      "meaning": "to endure or survive for a long time",
       "examples": [
-        "Traffic delays caused a lot of frustration.",
-        "People sometimes express frustration as anger."
+        {
+          "de": "Einige römische Bauwerke haben fast zwei Jahrtausende überdauert.",
+          "en": "Some Roman buildings have endured for almost two millennia."
+        },
+        {
+          "de": "Gute Materialien können viele Generationen überdauern.",
+          "en": "Good materials can last for many generations."
+        }
       ]
     },
     {
-      "word": "irritated",
-      "meaning": "slightly angry or annoyed",
+      "word": "der Lastkran",
+      "meaning": "crane for lifting heavy loads",
       "examples": [
-        "She became irritated by the repeated interruptions.",
-        "He sounded irritated on the phone."
+        {
+          "de": "Schon die Römer nutzten Lastkräne für große Bauprojekte.",
+          "en": "The Romans already used cranes for large construction projects."
+        },
+        {
+          "de": "Mit einem Lastkran lassen sich schwere Steine anheben.",
+          "en": "Heavy stones can be lifted with a crane."
+        }
       ]
     },
     {
-      "word": "lose your temper",
-      "meaning": "to suddenly become very angry",
+      "word": "die Fußbodenheizung",
+      "meaning": "underfloor heating",
       "examples": [
-        "He lost his temper during the meeting.",
-        "Try not to lose your temper when someone disagrees with you."
+        {
+          "de": "Römische Badehäuser hatten teilweise schon eine Fußbodenheizung.",
+          "en": "Some Roman bathhouses already had underfloor heating."
+        },
+        {
+          "de": "Eine moderne Fußbodenheizung verteilt Wärme gleichmäßig im Raum.",
+          "en": "Modern underfloor heating distributes heat evenly throughout a room."
+        }
       ]
     },
     {
-      "word": "calm down",
-      "meaning": "to become less angry or excited",
+      "word": "in Vergessenheit geraten",
+      "meaning": "to fall into oblivion",
       "examples": [
-        "Take a few minutes to calm down before replying.",
-        "She walked outside to calm down."
+        {
+          "de": "Manche antiken Techniken gerieten später in Vergessenheit.",
+          "en": "Some ancient techniques later fell into oblivion."
+        },
+        {
+          "de": "Altes Wissen kann verloren gehen und in Vergessenheit geraten.",
+          "en": "Old knowledge can be lost and fall into oblivion."
+        }
       ]
     }
   ]

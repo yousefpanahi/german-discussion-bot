@@ -1,52 +1,88 @@
 {
-  "title": "Is silence golden?",
+  "title": "Waldbrände – eine vermeidbare Katastrophe",
   "vocabulary": [
     {
-      "word": "silence",
-      "meaning": "the complete absence of sound",
+      "word": "der Waldbrand",
+      "meaning": "forest fire",
       "examples": [
-        "The room fell into silence after the announcement.",
-        "Some people find silence relaxing, while others find it uncomfortable."
+        {
+          "de": "Ein Waldbrand kann sich bei Hitze sehr schnell ausbreiten.",
+          "en": "A forest fire can spread very quickly in hot weather."
+        },
+        {
+          "de": "Viele Waldbrände werden durch menschliches Verhalten ausgelöst.",
+          "en": "Many forest fires are caused by human behaviour."
+        }
       ]
     },
     {
-      "word": "quiet",
-      "meaning": "a state with little or no noise",
+      "word": "die Dürre",
+      "meaning": "drought",
       "examples": [
-        "I need some quiet when I am trying to concentrate.",
-        "The library offers a quiet place to work."
+        {
+          "de": "Lange Dürren trocknen Böden und Pflanzen aus.",
+          "en": "Long droughts dry out soil and vegetation."
+        },
+        {
+          "de": "Dürre erhöht in vielen Regionen die Waldbrandgefahr.",
+          "en": "Drought increases the risk of forest fires in many regions."
+        }
       ]
     },
     {
-      "word": "solitude",
-      "meaning": "the state of being alone, especially when it is peaceful",
+      "word": "das Buschfeuer",
+      "meaning": "bushfire",
       "examples": [
-        "She enjoys a little solitude at the end of the day.",
-        "Solitude can give people time to think."
+        {
+          "de": "In trockenen Regionen können Buschfeuer ganze Landschaften zerstören.",
+          "en": "In dry regions, bushfires can destroy entire landscapes."
+        },
+        {
+          "de": "Starker Wind lässt ein Buschfeuer schneller wachsen.",
+          "en": "Strong winds cause a bushfire to spread faster."
+        }
       ]
     },
     {
-      "word": "pause",
-      "meaning": "a short stop in speech or activity",
+      "word": "das Ökosystem",
+      "meaning": "ecosystem",
       "examples": [
-        "A brief pause can make a conversation feel more thoughtful.",
-        "He paused before answering the difficult question."
+        {
+          "de": "Ein großer Brand kann ein Ökosystem für Jahre verändern.",
+          "en": "A large fire can change an ecosystem for years."
+        },
+        {
+          "de": "Gesunde Ökosysteme sind oft widerstandsfähiger gegen Störungen.",
+          "en": "Healthy ecosystems are often more resilient to disturbances."
+        }
       ]
     },
     {
-      "word": "reflection",
-      "meaning": "careful thought about an experience or idea",
+      "word": "die Aufforstung",
+      "meaning": "reforestation",
       "examples": [
-        "Silence can create time for reflection.",
-        "After the meeting, she spent a few minutes in reflection."
+        {
+          "de": "Nach einem Brand kann Aufforstung sinnvoll sein.",
+          "en": "Reforestation can be useful after a fire."
+        },
+        {
+          "de": "Bei der Aufforstung sollte man klimaangepasste Baumarten auswählen.",
+          "en": "Climate-adapted tree species should be selected during reforestation."
+        }
       ]
     },
     {
-      "word": "awkward",
-      "meaning": "uncomfortable or embarrassing",
+      "word": "die Prävention",
+      "meaning": "prevention",
       "examples": [
-        "There was an awkward silence after his joke.",
-        "Silence does not always have to be awkward."
+        {
+          "de": "Prävention ist oft günstiger als die Bekämpfung einer Katastrophe.",
+          "en": "Prevention is often cheaper than fighting a disaster."
+        },
+        {
+          "de": "Zur Prävention gehören Aufklärung, Waldpflege und Brandschutz.",
+          "en": "Prevention includes education, forest management, and fire protection."
+        }
       ]
     }
   ]

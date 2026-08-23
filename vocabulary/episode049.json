@@ -1,52 +1,88 @@
 {
-  "title": "Is social media dead?",
+  "title": "Zu wenig Personal in der Tourismusbranche",
   "vocabulary": [
     {
-      "word": "social media",
-      "meaning": "websites and apps that allow people to create, share, and interact with content",
+      "word": "der Personalmangel",
+      "meaning": "staff shortage",
       "examples": [
-        "Social media has changed how people communicate.",
-        "Many businesses rely on social media for marketing."
+        {
+          "de": "Der Personalmangel führt an Flughäfen zu langen Wartezeiten.",
+          "en": "Staff shortages lead to long waiting times at airports."
+        },
+        {
+          "de": "Auch Hotels und Restaurants leiden unter Personalmangel.",
+          "en": "Hotels and restaurants also suffer from staff shortages."
+        }
       ]
     },
     {
-      "word": "platform",
-      "meaning": "an online service where users communicate or share content",
+      "word": "der Flugausfall",
+      "meaning": "flight cancellation",
       "examples": [
-        "Young users often move from one platform to another.",
-        "The platform changed its privacy settings."
+        {
+          "de": "Wegen eines Flugausfalls mussten die Reisenden mit dem Zug fahren.",
+          "en": "Because of a flight cancellation, the travellers had to take the train."
+        },
+        {
+          "de": "Viele Flugausfälle sorgen in der Ferienzeit für Chaos.",
+          "en": "Many flight cancellations cause chaos during the holiday season."
+        }
       ]
     },
     {
-      "word": "engagement",
-      "meaning": "likes, comments, shares, and other interactions with online content",
+      "word": "die Hilfskraft",
+      "meaning": "temporary or auxiliary worker",
       "examples": [
-        "The post received high engagement.",
-        "Platforms try to keep users engaged for longer."
+        {
+          "de": "Die Regierung wollte zusätzliche Hilfskräfte aus dem Ausland gewinnen.",
+          "en": "The government wanted to recruit additional auxiliary workers from abroad."
+        },
+        {
+          "de": "Hilfskräfte können kurzfristig Engpässe verringern.",
+          "en": "Auxiliary workers can reduce shortages in the short term."
+        }
       ]
     },
     {
-      "word": "algorithm",
-      "meaning": "a set of computer rules used to select or recommend content",
+      "word": "die Nachfrage",
+      "meaning": "demand",
       "examples": [
-        "The algorithm decides which posts appear first.",
-        "Algorithms can shape what users see online."
+        {
+          "de": "Nach der Pandemie stieg die Nachfrage nach Reisen sehr schnell.",
+          "en": "After the pandemic, demand for travel rose very quickly."
+        },
+        {
+          "de": "Unternehmen müssen genug Personal haben, um auf hohe Nachfrage zu reagieren.",
+          "en": "Companies need enough staff to respond to high demand."
+        }
       ]
     },
     {
-      "word": "influencer",
-      "meaning": "a person with an online audience who can affect other people's opinions or purchases",
+      "word": "die Gastronomie",
+      "meaning": "hospitality and restaurant sector",
       "examples": [
-        "The brand hired an influencer to promote the product.",
-        "Some influencers have millions of followers."
+        {
+          "de": "In der Gastronomie arbeiten viele Menschen zu ungewöhnlichen Zeiten.",
+          "en": "Many people in the hospitality sector work unusual hours."
+        },
+        {
+          "de": "Bessere Bedingungen könnten mehr Beschäftigte in die Gastronomie zurückholen.",
+          "en": "Better conditions could bring more workers back to the hospitality sector."
+        }
       ]
     },
     {
-      "word": "feed",
-      "meaning": "the stream of posts and content shown to a social-media user",
+      "word": "sich verschärfen",
+      "meaning": "to worsen or become more severe",
       "examples": [
-        "My feed is full of travel videos.",
-        "The app personalises each user's feed."
+        {
+          "de": "Ohne neue Mitarbeiter könnte sich der Personalmangel weiter verschärfen.",
+          "en": "Without new employees, the staff shortage could worsen further."
+        },
+        {
+          "de": "Hohe Belastung kann das Problem zusätzlich verschärfen.",
+          "en": "Heavy workloads can further worsen the problem."
+        }
       ]
     }
   ]

@@ -1,52 +1,88 @@
 {
-  "title": "On the right track",
+  "title": "Ausbau von Radwegen: klimafreundlich, aber langsam",
   "vocabulary": [
     {
-      "word": "on track",
-      "meaning": "making progress as planned toward a goal",
+      "word": "der Radweg",
+      "meaning": "cycle path",
       "examples": [
-        "The project is on track to finish next month.",
-        "After a difficult start, her studies are back on track."
+        {
+          "de": "Ein sicherer Radweg macht das Fahrradfahren attraktiver.",
+          "en": "A safe cycle path makes cycling more attractive."
+        },
+        {
+          "de": "Viele Pendler wünschen sich durchgehende Radwege.",
+          "en": "Many commuters want continuous cycle paths."
+        }
       ]
     },
     {
-      "word": "progress",
-      "meaning": "movement toward a better or more complete state",
+      "word": "der Radschnellweg",
+      "meaning": "cycle superhighway",
       "examples": [
-        "We have made good progress this week.",
-        "Regular practice helps you see progress over time."
+        {
+          "de": "Ein Radschnellweg verbindet mehrere Städte miteinander.",
+          "en": "A cycle superhighway connects several cities."
+        },
+        {
+          "de": "Radschnellwege sollen schnelle und sichere Fahrten ermöglichen.",
+          "en": "Cycle superhighways are intended to enable fast and safe journeys."
+        }
       ]
     },
     {
-      "word": "target",
-      "meaning": "a result or level that you aim to achieve",
+      "word": "der Radverkehrsanteil",
+      "meaning": "share of journeys made by bicycle",
       "examples": [
-        "The team reached its monthly target.",
-        "Set a realistic target for the next stage."
+        {
+          "de": "In manchen Städten ist der Radverkehrsanteil sehr hoch.",
+          "en": "In some cities, the share of journeys made by bicycle is very high."
+        },
+        {
+          "de": "Breite Radwege können den Radverkehrsanteil erhöhen.",
+          "en": "Wide cycle paths can increase the share of cycling."
+        }
       ]
     },
     {
-      "word": "milestone",
-      "meaning": "an important point that marks progress",
+      "word": "die Teilstrecke",
+      "meaning": "section of a route",
       "examples": [
-        "Completing the first module was an important milestone.",
-        "The company celebrated a major project milestone."
+        {
+          "de": "Bisher ist nur eine kurze Teilstrecke fertiggestellt.",
+          "en": "So far, only a short section of the route has been completed."
+        },
+        {
+          "de": "Die Baustelle betrifft nur eine Teilstrecke des Weges.",
+          "en": "The construction work affects only one section of the route."
+        }
       ]
     },
     {
-      "word": "setback",
-      "meaning": "a problem that delays or prevents progress",
+      "word": "der Räumdienst",
+      "meaning": "snow-clearing service",
       "examples": [
-        "The technical failure was a temporary setback.",
-        "Do not let one setback make you abandon your goal."
+        {
+          "de": "Im Winter braucht ein Radschnellweg einen zuverlässigen Räumdienst.",
+          "en": "In winter, a cycle superhighway needs a reliable snow-clearing service."
+        },
+        {
+          "de": "Der Räumdienst sorgt morgens für sichere Wege.",
+          "en": "The snow-clearing service ensures safe paths in the morning."
+        }
       ]
     },
     {
-      "word": "strategy",
-      "meaning": "a plan designed to achieve a particular goal",
+      "word": "in die Gänge kommen",
+      "meaning": "to get moving; make progress",
       "examples": [
-        "We need a clearer strategy for improving sales.",
-        "Her study strategy includes daily review."
+        {
+          "de": "Beim Ausbau der Radwege muss die Stadt endlich in die Gänge kommen.",
+          "en": "The city finally needs to get moving on expanding cycle paths."
+        },
+        {
+          "de": "Nach vielen Verzögerungen kommt das Projekt langsam in die Gänge.",
+          "en": "After many delays, the project is slowly getting moving."
+        }
       ]
     }
   ]

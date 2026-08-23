@@ -1,52 +1,88 @@
 {
-  "title": "Sleeping for learning",
+  "title": "Mallorca – einer Urlaubsinsel droht der Kollaps",
   "vocabulary": [
     {
-      "word": "sleep",
-      "meaning": "the natural state of rest in which the body and brain recover",
+      "word": "der Massentourismus",
+      "meaning": "mass tourism",
       "examples": [
-        "Good sleep supports learning and concentration.",
-        "Students should not sacrifice sleep every night to study."
+        {
+          "de": "Massentourismus belastet die Infrastruktur der Insel.",
+          "en": "Mass tourism puts pressure on the island's infrastructure."
+        },
+        {
+          "de": "Viele Bewohner wünschen sich Grenzen für den Massentourismus.",
+          "en": "Many residents want limits on mass tourism."
+        }
       ]
     },
     {
-      "word": "memory consolidation",
-      "meaning": "the process by which new memories become more stable after learning",
+      "word": "der Wassermangel",
+      "meaning": "water shortage",
       "examples": [
-        "Sleep plays an important role in memory consolidation.",
-        "Researchers study memory consolidation after different kinds of learning."
+        {
+          "de": "Im Sommer leidet die Insel unter Wassermangel.",
+          "en": "The island suffers from water shortages in summer."
+        },
+        {
+          "de": "Wassermangel kann durch hohe Besucherzahlen verschärft werden.",
+          "en": "Water shortages can be worsened by high visitor numbers."
+        }
       ]
     },
     {
-      "word": "recall",
-      "meaning": "the ability to remember information",
+      "word": "etwas rationieren",
+      "meaning": "to ration something",
       "examples": [
-        "A good night's sleep may improve recall.",
-        "The test measured students' recall of new words."
+        {
+          "de": "In trockenen Zeiten muss Trinkwasser manchmal rationiert werden.",
+          "en": "During dry periods, drinking water sometimes has to be rationed."
+        },
+        {
+          "de": "Die Gemeinde rationiert Wasser für private Gärten.",
+          "en": "The municipality is rationing water for private gardens."
+        }
       ]
     },
     {
-      "word": "retention",
-      "meaning": "the ability to keep information in memory over time",
+      "word": "der Rettungsweg",
+      "meaning": "emergency access route",
       "examples": [
-        "Spaced practice improves long-term retention.",
-        "Sleep may support the retention of newly learned material."
+        {
+          "de": "Parkende Autos dürfen Rettungswege nicht blockieren.",
+          "en": "Parked cars must not block emergency routes."
+        },
+        {
+          "de": "Freie Rettungswege sind bei Unfällen lebenswichtig.",
+          "en": "Clear emergency routes are vital in accidents."
+        }
       ]
     },
     {
-      "word": "nap",
-      "meaning": "a short period of sleep, usually during the day",
+      "word": "etwas begrenzen",
+      "meaning": "to limit something",
       "examples": [
-        "A short nap helped him feel more alert.",
-        "Some studies examine whether a nap improves learning."
+        {
+          "de": "Die Insel möchte die Zahl touristischer Betten begrenzen.",
+          "en": "The island wants to limit the number of tourist beds."
+        },
+        {
+          "de": "Ein Besucherlimit kann helfen, sensible Orte zu schützen.",
+          "en": "A visitor limit can help protect sensitive places."
+        }
       ]
     },
     {
-      "word": "sleep cycle",
-      "meaning": "a repeated sequence of stages during sleep",
+      "word": "die Überfüllung",
+      "meaning": "overcrowding",
       "examples": [
-        "We pass through several sleep cycles each night.",
-        "Different parts of the sleep cycle may support different brain functions."
+        {
+          "de": "Überfüllung kann den Alltag der Bewohner stark beeinträchtigen.",
+          "en": "Overcrowding can seriously affect residents' daily lives."
+        },
+        {
+          "de": "In der Hochsaison führt die Überfüllung zu langen Staus.",
+          "en": "During high season, overcrowding leads to long traffic jams."
+        }
       ]
     }
   ]

@@ -1,52 +1,88 @@
 {
-  "title": "Is breakfast the most important meal of the day?",
+  "title": "9-Euro-Ticket: gut fürs Portemonnaie und fürs Klima",
   "vocabulary": [
     {
-      "word": "breakfast",
-      "meaning": "the first meal of the day, usually eaten in the morning",
+      "word": "der Nahverkehr",
+      "meaning": "local public transport",
       "examples": [
-        "She eats breakfast before going to work.",
-        "Some people regularly skip breakfast."
+        {
+          "de": "Das Ticket galt im öffentlichen Nahverkehr in ganz Deutschland.",
+          "en": "The ticket was valid on local public transport throughout Germany."
+        },
+        {
+          "de": "Guter Nahverkehr braucht regelmäßige und zuverlässige Verbindungen.",
+          "en": "Good local public transport requires frequent and reliable connections."
+        }
       ]
     },
     {
-      "word": "metabolism",
-      "meaning": "the chemical processes through which the body uses energy",
+      "word": "die Subvention",
+      "meaning": "subsidy",
       "examples": [
-        "People often discuss whether breakfast affects metabolism.",
-        "Metabolism is influenced by many factors."
+        {
+          "de": "Der Staat finanziert günstige Tickets mit Subventionen.",
+          "en": "The state finances cheap tickets with subsidies."
+        },
+        {
+          "de": "Subventionen können klimafreundliches Verhalten fördern.",
+          "en": "Subsidies can encourage climate-friendly behaviour."
+        }
       ]
     },
     {
-      "word": "appetite",
-      "meaning": "the desire to eat food",
+      "word": "der Pendler",
+      "meaning": "commuter",
       "examples": [
-        "A high-protein breakfast may affect appetite later in the day.",
-        "Stress can also change appetite."
+        {
+          "de": "Viele Pendler nutzen täglich Bus und Bahn.",
+          "en": "Many commuters use buses and trains every day."
+        },
+        {
+          "de": "Für Pendler ist Zuverlässigkeit oft wichtiger als ein besonders niedriger Preis.",
+          "en": "For commuters, reliability is often more important than a very low price."
+        }
       ]
     },
     {
-      "word": "nutrition",
-      "meaning": "the process of obtaining and using food needed for health",
+      "word": "überlastet",
+      "meaning": "overloaded; overcrowded",
       "examples": [
-        "Breakfast quality matters more than simply eating anything.",
-        "Good nutrition depends on the whole diet."
+        {
+          "de": "Das Bahnnetz ist auf manchen Strecken bereits überlastet.",
+          "en": "The rail network is already overloaded on some routes."
+        },
+        {
+          "de": "Überlastete Züge machen den Nahverkehr weniger attraktiv.",
+          "en": "Overcrowded trains make public transport less attractive."
+        }
       ]
     },
     {
-      "word": "skip",
-      "meaning": "to not do or have something that would normally be expected",
+      "word": "auf etwas umsteigen",
+      "meaning": "to switch to another means of transport",
       "examples": [
-        "He often skips breakfast when he is busy.",
-        "Skipping a meal affects people differently."
+        {
+          "de": "Mehr Menschen sollen vom Auto auf Bus und Bahn umsteigen.",
+          "en": "More people are expected to switch from cars to buses and trains."
+        },
+        {
+          "de": "Ich würde häufiger auf den Zug umsteigen, wenn er zuverlässiger wäre.",
+          "en": "I would switch to the train more often if it were more reliable."
+        }
       ]
     },
     {
-      "word": "balanced meal",
-      "meaning": "a meal containing a useful combination of food groups and nutrients",
+      "word": "durch die Decke gehen",
+      "meaning": "to skyrocket",
       "examples": [
-        "Eggs, vegetables, and whole-grain bread can make a balanced meal.",
-        "Try to start the day with a balanced meal."
+        {
+          "de": "Die Energiepreise gingen zeitweise durch die Decke.",
+          "en": "Energy prices temporarily skyrocketed."
+        },
+        {
+          "de": "Wenn Kosten stark steigen, können auch Ticketpreise durch die Decke gehen.",
+          "en": "If costs rise sharply, ticket prices can also skyrocket."
+        }
       ]
     }
   ]

@@ -1,52 +1,88 @@
 {
-  "title": "Customer complaints",
+  "title": "Lieferengpässe bedrohen die Wirtschaft",
   "vocabulary": [
     {
-      "word": "complaint",
-      "meaning": "a statement that something is wrong or unsatisfactory",
+      "word": "der Lieferengpass",
+      "meaning": "supply shortage",
       "examples": [
-        "The customer made a complaint about the delayed delivery.",
-        "We received several complaints about the new service."
+        {
+          "de": "Ein Lieferengpass kann die Produktion einer Fabrik stoppen.",
+          "en": "A supply shortage can stop a factory's production."
+        },
+        {
+          "de": "Bei bestimmten Bauteilen gibt es weiterhin Lieferengpässe.",
+          "en": "There are still supply shortages for certain components."
+        }
       ]
     },
     {
-      "word": "dissatisfied",
-      "meaning": "not pleased or satisfied with something",
+      "word": "die Lieferkette",
+      "meaning": "supply chain",
       "examples": [
-        "The customer was dissatisfied with the product quality.",
-        "Dissatisfied clients should be given a clear way to respond."
+        {
+          "de": "Globale Lieferketten verbinden Unternehmen auf der ganzen Welt.",
+          "en": "Global supply chains connect companies around the world."
+        },
+        {
+          "de": "Eine unterbrochene Lieferkette kann viele Branchen gleichzeitig treffen.",
+          "en": "A disrupted supply chain can affect many industries at the same time."
+        }
       ]
     },
     {
-      "word": "resolve",
-      "meaning": "to solve a problem or disagreement",
+      "word": "die Frachtkosten",
+      "meaning": "freight costs",
       "examples": [
-        "The support team resolved the issue within an hour.",
-        "We want to resolve every complaint fairly."
+        {
+          "de": "Die Frachtkosten sind während der Krise stark gestiegen.",
+          "en": "Freight costs rose sharply during the crisis."
+        },
+        {
+          "de": "Sinkende Frachtkosten entlasten Importeure.",
+          "en": "Falling freight costs relieve importers."
+        }
       ]
     },
     {
-      "word": "refund",
-      "meaning": "money returned to a customer after a purchase",
+      "word": "der Frachter",
+      "meaning": "freighter; cargo ship",
       "examples": [
-        "The shop offered a full refund.",
-        "She requested a refund because the item was damaged."
+        {
+          "de": "Mehrere Frachter mussten vor dem Hafen warten.",
+          "en": "Several cargo ships had to wait outside the port."
+        },
+        {
+          "de": "Der Frachter transportiert Waren aus Asien nach Europa.",
+          "en": "The cargo ship transports goods from Asia to Europe."
+        }
       ]
     },
     {
-      "word": "apologise",
-      "meaning": "to say that you are sorry for a mistake or problem",
+      "word": "die Rezession",
+      "meaning": "recession",
       "examples": [
-        "The manager apologised for the inconvenience.",
-        "A sincere apology can calm an angry customer."
+        {
+          "de": "In einer Rezession sinkt häufig die Nachfrage nach Produkten.",
+          "en": "During a recession, demand for products often falls."
+        },
+        {
+          "de": "Viele Unternehmen fürchten eine längere Rezession.",
+          "en": "Many companies fear a prolonged recession."
+        }
       ]
     },
     {
-      "word": "compensation",
-      "meaning": "money or another benefit given because someone experienced loss or inconvenience",
+      "word": "sich entspannen",
+      "meaning": "to ease or improve",
       "examples": [
-        "The airline offered compensation for the long delay.",
-        "Customers may receive compensation when a service fails badly."
+        {
+          "de": "Die Situation in den Häfen beginnt sich langsam zu entspannen.",
+          "en": "The situation at the ports is beginning to ease slowly."
+        },
+        {
+          "de": "Wenn die Nachfrage sinkt, kann sich der Liefermarkt entspannen.",
+          "en": "When demand falls, the supply market can ease."
+        }
       ]
     }
   ]

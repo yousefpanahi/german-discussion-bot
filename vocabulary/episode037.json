@@ -1,52 +1,88 @@
 {
-  "title": "Crying men",
+  "title": "Gute Zeiten für Pfandhäuser",
   "vocabulary": [
     {
-      "word": "cry",
-      "meaning": "to produce tears because of emotion, pain, or irritation",
+      "word": "das Pfandhaus",
+      "meaning": "pawnshop",
       "examples": [
-        "Some men find it difficult to cry in public.",
-        "Crying can be a natural emotional response."
+        {
+          "de": "Im Pfandhaus bekommt man Geld gegen einen Wertgegenstand.",
+          "en": "At a pawnshop, you receive money in exchange for a valuable item."
+        },
+        {
+          "de": "In wirtschaftlich schwierigen Zeiten nutzen mehr Menschen Pfandhäuser.",
+          "en": "More people use pawnshops during economically difficult times."
+        }
       ]
     },
     {
-      "word": "emotion",
-      "meaning": "a strong feeling such as sadness, joy, fear, or anger",
+      "word": "etwas verpfänden",
+      "meaning": "to pawn something",
       "examples": [
-        "People express emotion in different ways.",
-        "Cultural expectations can affect emotional behaviour."
+        {
+          "de": "Er musste seine Uhr verpfänden, um schnell Geld zu bekommen.",
+          "en": "He had to pawn his watch to get money quickly."
+        },
+        {
+          "de": "Man sollte nur Dinge verpfänden, deren Verlust man notfalls verkraften kann.",
+          "en": "You should only pawn things whose loss you could cope with if necessary."
+        }
       ]
     },
     {
-      "word": "vulnerability",
-      "meaning": "the state of being open to emotional hurt or showing weakness",
+      "word": "der Wertgegenstand",
+      "meaning": "valuable item",
       "examples": [
-        "Sharing feelings can require vulnerability.",
-        "Some people wrongly associate vulnerability with weakness."
+        {
+          "de": "Schmuck ist ein typischer Wertgegenstand im Pfandhaus.",
+          "en": "Jewellery is a typical valuable item at a pawnshop."
+        },
+        {
+          "de": "Sie bewahrt ihre wichtigsten Wertgegenstände sicher auf.",
+          "en": "She keeps her most valuable items safe."
+        }
       ]
     },
     {
-      "word": "masculinity",
-      "meaning": "qualities and expectations traditionally associated with men",
+      "word": "etwas einlösen",
+      "meaning": "to redeem something",
       "examples": [
-        "Ideas about masculinity are changing.",
-        "Traditional masculinity can discourage some men from showing emotion."
+        {
+          "de": "Nach drei Monaten konnte sie ihren Ring wieder einlösen.",
+          "en": "After three months, she was able to redeem her ring."
+        },
+        {
+          "de": "Wer das Pfand nicht rechtzeitig einlöst, kann es verlieren.",
+          "en": "Those who do not redeem the pawn in time may lose it."
+        }
       ]
     },
     {
-      "word": "stereotype",
-      "meaning": "a fixed and simplified belief about a group of people",
+      "word": "die Versteigerung",
+      "meaning": "auction",
       "examples": [
-        "The idea that men should never cry is a stereotype.",
-        "Media can reinforce or challenge stereotypes."
+        {
+          "de": "Nicht eingelöste Gegenstände kommen manchmal zur Versteigerung.",
+          "en": "Unredeemed items sometimes go to auction."
+        },
+        {
+          "de": "Bei der Versteigerung erhielt die Uhr einen hohen Preis.",
+          "en": "The watch fetched a high price at the auction."
+        }
       ]
     },
     {
-      "word": "suppress",
-      "meaning": "to prevent yourself from expressing a feeling",
+      "word": "die Diskretion",
+      "meaning": "discretion; confidentiality",
       "examples": [
-        "Constantly suppressing emotions can be exhausting.",
-        "He learned not to suppress sadness."
+        {
+          "de": "Für Kunden eines Pfandhauses ist Diskretion besonders wichtig.",
+          "en": "Discretion is especially important to pawnshop customers."
+        },
+        {
+          "de": "Gute Beratung erfordert Vertrauen und Diskretion.",
+          "en": "Good advice requires trust and discretion."
+        }
       ]
     }
   ]

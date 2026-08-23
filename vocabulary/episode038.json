@@ -1,52 +1,88 @@
 {
-  "title": "Feeling good about your country",
+  "title": "Kritik an der britischen Monarchie",
   "vocabulary": [
     {
-      "word": "national pride",
-      "meaning": "a positive feeling about one's country and its achievements",
+      "word": "die Monarchie",
+      "meaning": "monarchy",
       "examples": [
-        "Sporting success can increase national pride.",
-        "National pride can be expressed in many different ways."
+        {
+          "de": "Die britische Monarchie hat eine lange Geschichte.",
+          "en": "The British monarchy has a long history."
+        },
+        {
+          "de": "Nicht alle Bürger unterstützen die Monarchie.",
+          "en": "Not all citizens support the monarchy."
+        }
       ]
     },
     {
-      "word": "patriotism",
-      "meaning": "love of and attachment to one's country",
+      "word": "der Thron",
+      "meaning": "throne",
       "examples": [
-        "Patriotism does not have to mean believing your country is perfect.",
-        "Public ceremonies can encourage patriotism."
+        {
+          "de": "Nach dem Tod der Königin folgte ihr Sohn auf den Thron.",
+          "en": "After the queen's death, her son succeeded her to the throne."
+        },
+        {
+          "de": "Der Thron ist ein Symbol königlicher Macht.",
+          "en": "The throne is a symbol of royal power."
+        }
       ]
     },
     {
-      "word": "identity",
-      "meaning": "the sense of who a person or group is",
+      "word": "das Königshaus",
+      "meaning": "royal family",
       "examples": [
-        "Nationality can be one part of a person's identity.",
-        "People may have several cultural identities."
+        {
+          "de": "Das Vermögen des Königshauses wird öffentlich diskutiert.",
+          "en": "The wealth of the royal family is publicly discussed."
+        },
+        {
+          "de": "Das Königshaus erfüllt viele repräsentative Aufgaben.",
+          "en": "The royal family performs many ceremonial duties."
+        }
       ]
     },
     {
-      "word": "belonging",
-      "meaning": "the feeling of being accepted as part of a group or place",
+      "word": "steuerfrei",
+      "meaning": "tax-free",
       "examples": [
-        "Citizenship can create a sense of belonging.",
-        "Community activities help some newcomers develop belonging."
+        {
+          "de": "Ein Teil des Erbes wurde steuerfrei übertragen.",
+          "en": "Part of the inheritance was transferred tax-free."
+        },
+        {
+          "de": "Viele Menschen kritisieren besondere steuerfreie Privilegien.",
+          "en": "Many people criticise special tax-free privileges."
+        }
       ]
     },
     {
-      "word": "citizen",
-      "meaning": "a legally recognised member of a country",
+      "word": "die Meinungsfreiheit",
+      "meaning": "freedom of expression",
       "examples": [
-        "Citizens have both rights and responsibilities.",
-        "The survey asked citizens how they felt about their country."
+        {
+          "de": "Proteste gehören zur Meinungsfreiheit in einer Demokratie.",
+          "en": "Protests are part of freedom of expression in a democracy."
+        },
+        {
+          "de": "Die Meinungsfreiheit schützt auch kritische Stimmen.",
+          "en": "Freedom of expression also protects critical voices."
+        }
       ]
     },
     {
-      "word": "reputation",
-      "meaning": "the general opinion others have about a person, organisation, or country",
+      "word": "das Referendum",
+      "meaning": "referendum",
       "examples": [
-        "International events can affect a country's reputation.",
-        "The country has a strong reputation in science."
+        {
+          "de": "Ein Referendum kann über die Zukunft einer Monarchie entscheiden.",
+          "en": "A referendum can decide the future of a monarchy."
+        },
+        {
+          "de": "Die Bevölkerung stimmte in einem Referendum über die Staatsform ab.",
+          "en": "The population voted in a referendum on the form of government."
+        }
       ]
     }
   ]

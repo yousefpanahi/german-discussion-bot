@@ -1,52 +1,88 @@
 {
-  "title": "Odd job interviews",
+  "title": "Mit Kindern über Krisen sprechen",
   "vocabulary": [
     {
-      "word": "interviewer",
-      "meaning": "a person who asks questions during a job interview",
+      "word": "die Krise",
+      "meaning": "crisis",
       "examples": [
-        "The interviewer asked several unusual questions.",
-        "Make eye contact with the interviewer."
+        {
+          "de": "Kinder bekommen gesellschaftliche Krisen oft stärker mit, als Erwachsene denken.",
+          "en": "Children often notice social crises more strongly than adults think."
+        },
+        {
+          "de": "In einer Krise brauchen Kinder verlässliche Informationen.",
+          "en": "In a crisis, children need reliable information."
+        }
       ]
     },
     {
-      "word": "candidate",
-      "meaning": "a person being considered for a job",
+      "word": "die Angst",
+      "meaning": "fear; anxiety",
       "examples": [
-        "Each candidate completed two interviews.",
-        "The strongest candidate gave clear examples of past work."
+        {
+          "de": "Eltern sollten die Angst eines Kindes ernst nehmen.",
+          "en": "Parents should take a child's fear seriously."
+        },
+        {
+          "de": "Über Angst zu sprechen kann entlastend sein.",
+          "en": "Talking about fear can be relieving."
+        }
       ]
     },
     {
-      "word": "unexpected question",
-      "meaning": "a question that a candidate did not prepare for",
+      "word": "etwas wahrnehmen",
+      "meaning": "to perceive or notice something",
       "examples": [
-        "The unexpected question made him pause.",
-        "Stay calm if you receive an unexpected question."
+        {
+          "de": "Kinder nehmen auch unausgesprochene Sorgen ihrer Eltern wahr.",
+          "en": "Children also notice their parents' unspoken worries."
+        },
+        {
+          "de": "Wir nehmen emotionale Signale oft unbewusst wahr.",
+          "en": "We often perceive emotional signals unconsciously."
+        }
       ]
     },
     {
-      "word": "body language",
-      "meaning": "communication through posture, facial expressions, and movement",
+      "word": "kindgerecht",
+      "meaning": "age-appropriate for children",
       "examples": [
-        "Confident body language can create a positive impression.",
-        "Interviewers may notice nervous body language."
+        {
+          "de": "Schwierige Nachrichten sollten kindgerecht erklärt werden.",
+          "en": "Difficult news should be explained in an age-appropriate way."
+        },
+        {
+          "de": "Kindgerechte Sprache ist klar und nicht unnötig beängstigend.",
+          "en": "Child-friendly language is clear and not unnecessarily frightening."
+        }
       ]
     },
     {
-      "word": "CV",
-      "meaning": "a document summarising education, skills, and work experience",
+      "word": "die Verunsicherung",
+      "meaning": "uncertainty; insecurity",
       "examples": [
-        "Bring an updated CV to the interview.",
-        "The interviewer asked about a project listed on her CV."
+        {
+          "de": "Widersprüchliche Informationen können bei Kindern Verunsicherung auslösen.",
+          "en": "Conflicting information can cause uncertainty in children."
+        },
+        {
+          "de": "Routinen helfen, Verunsicherung im Alltag zu reduzieren.",
+          "en": "Routines help reduce insecurity in everyday life."
+        }
       ]
     },
     {
-      "word": "qualification",
-      "meaning": "a skill, certificate, or experience that makes someone suitable for a job",
+      "word": "Geborgenheit",
+      "meaning": "sense of safety and security",
       "examples": [
-        "The role requires a technical qualification.",
-        "She explained how her qualifications matched the position."
+        {
+          "de": "Kinder brauchen in Krisenzeiten besonders viel Geborgenheit.",
+          "en": "Children need a strong sense of security, especially during crises."
+        },
+        {
+          "de": "Ein vertrautes Gespräch kann Geborgenheit vermitteln.",
+          "en": "A familiar conversation can provide a sense of safety."
+        }
       ]
     }
   ]

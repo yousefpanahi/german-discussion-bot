@@ -1,52 +1,88 @@
 {
-  "title": "Animal species 'extinction crisis'",
+  "title": "Kühlere Wohnungen ganz ohne Strom",
   "vocabulary": [
     {
-      "word": "extinction",
-      "meaning": "the complete disappearance of a species",
+      "word": "die Abkühlung",
+      "meaning": "cooling; reduction in temperature",
       "examples": [
-        "Habitat loss can push animals towards extinction.",
-        "Conservation aims to prevent extinction."
+        {
+          "de": "Pflanzen können an heißen Tagen für Abkühlung sorgen.",
+          "en": "Plants can provide cooling on hot days."
+        },
+        {
+          "de": "Nachts bringt frische Luft oft etwas Abkühlung.",
+          "en": "Fresh air at night often brings some cooling."
+        }
       ]
     },
     {
-      "word": "endangered",
-      "meaning": "at serious risk of extinction",
+      "word": "der Stromverbrauch",
+      "meaning": "electricity consumption",
       "examples": [
-        "The species is officially classified as endangered.",
-        "Endangered animals need effective protection."
+        {
+          "de": "Klimaanlagen können den Stromverbrauch stark erhöhen.",
+          "en": "Air conditioners can significantly increase electricity consumption."
+        },
+        {
+          "de": "Gute Dämmung kann den Stromverbrauch für Kühlung reduzieren.",
+          "en": "Good insulation can reduce electricity consumption for cooling."
+        }
       ]
     },
     {
-      "word": "biodiversity",
-      "meaning": "the variety of living species in an area or on Earth",
+      "word": "die Klimaanlage",
+      "meaning": "air conditioner",
       "examples": [
-        "Biodiversity is declining in many regions.",
-        "Healthy ecosystems depend on biodiversity."
+        {
+          "de": "Die Klimaanlage läuft während der Hitzewelle fast ständig.",
+          "en": "The air conditioner runs almost constantly during the heatwave."
+        },
+        {
+          "de": "Nicht jede Wohnung braucht unbedingt eine Klimaanlage.",
+          "en": "Not every apartment necessarily needs an air conditioner."
+        }
       ]
     },
     {
-      "word": "habitat loss",
-      "meaning": "the destruction or reduction of the natural places where species live",
+      "word": "die Verschattung",
+      "meaning": "shading",
       "examples": [
-        "Deforestation causes major habitat loss.",
-        "Habitat loss is one of the biggest threats to wildlife."
+        {
+          "de": "Außenjalousien sorgen für wirksame Verschattung.",
+          "en": "External blinds provide effective shading."
+        },
+        {
+          "de": "Verschattung verhindert, dass Räume sich zu stark aufheizen.",
+          "en": "Shading prevents rooms from heating up too much."
+        }
       ]
     },
     {
-      "word": "conservation",
-      "meaning": "the protection and careful management of nature",
+      "word": "die Begrünung",
+      "meaning": "greening; use of plants on buildings or in cities",
       "examples": [
-        "Conservation programmes have helped some species recover.",
-        "International cooperation is important for conservation."
+        {
+          "de": "Dach- und Fassadenbegrünung kann Gebäude kühlen.",
+          "en": "Green roofs and façades can cool buildings."
+        },
+        {
+          "de": "Städtische Begrünung verbessert außerdem das Mikroklima.",
+          "en": "Urban greening also improves the microclimate."
+        }
       ]
     },
     {
-      "word": "species",
-      "meaning": "a group of living organisms that can reproduce with one another",
+      "word": "sich aufheizen",
+      "meaning": "to heat up",
       "examples": [
-        "Scientists discover new species every year.",
-        "Some species adapt better to environmental change than others."
+        {
+          "de": "Große Glasflächen können sich und den Innenraum stark aufheizen.",
+          "en": "Large glass surfaces can heat up significantly and warm the interior."
+        },
+        {
+          "de": "Ohne Schatten heizt sich die Wohnung am Nachmittag schnell auf.",
+          "en": "Without shade, the apartment heats up quickly in the afternoon."
+        }
       ]
     }
   ]

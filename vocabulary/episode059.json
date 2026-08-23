@@ -1,52 +1,88 @@
 {
-  "title": "Homesickness",
+  "title": "Warum wir im Urlaub krank werden",
   "vocabulary": [
     {
-      "word": "homesickness",
-      "meaning": "sadness caused by being away from home and familiar people or places",
+      "word": "die Freizeitkrankheit",
+      "meaning": "leisure sickness; becoming ill when stress stops",
       "examples": [
-        "Homesickness is common after moving to a new country.",
-        "Her homesickness became easier after she made new friends."
+        {
+          "de": "Manche Menschen erleben im Urlaub eine sogenannte Freizeitkrankheit.",
+          "en": "Some people experience so-called leisure sickness while on holiday."
+        },
+        {
+          "de": "Freizeitkrankheit wird oft mit lang anhaltendem Stress verbunden.",
+          "en": "Leisure sickness is often associated with prolonged stress."
+        }
       ]
     },
     {
-      "word": "homesick",
-      "meaning": "feeling sad because you are away from home",
+      "word": "der Neurotransmitter",
+      "meaning": "neurotransmitter",
       "examples": [
-        "He felt homesick during his first month abroad.",
-        "Calling family can help when you feel homesick."
+        {
+          "de": "Adrenalin ist ein wichtiger Neurotransmitter im Körper.",
+          "en": "Adrenaline is an important neurotransmitter in the body."
+        },
+        {
+          "de": "Neurotransmitter übertragen Signale im Nervensystem.",
+          "en": "Neurotransmitters transmit signals in the nervous system."
+        }
       ]
     },
     {
-      "word": "miss",
-      "meaning": "to feel sad because someone or something is absent",
+      "word": "das Immunsystem",
+      "meaning": "immune system",
       "examples": [
-        "I miss my family and old neighbourhood.",
-        "She especially misses home-cooked food."
+        {
+          "de": "Dauerhafter Stress kann das Immunsystem schwächen.",
+          "en": "Long-term stress can weaken the immune system."
+        },
+        {
+          "de": "Schlaf und Erholung unterstützen ein gesundes Immunsystem.",
+          "en": "Sleep and rest support a healthy immune system."
+        }
       ]
     },
     {
-      "word": "familiar",
-      "meaning": "well known and easy to recognise",
+      "word": "die Verkrampfung",
+      "meaning": "muscle tension or cramp",
       "examples": [
-        "Familiar music can be comforting when you are abroad.",
-        "He looked for familiar foods at the international shop."
+        {
+          "de": "Stress kann zu Verspannungen und Verkrampfungen führen.",
+          "en": "Stress can lead to tension and muscle cramps."
+        },
+        {
+          "de": "Regelmäßige Bewegung kann Verkrampfungen reduzieren.",
+          "en": "Regular exercise can reduce muscle tension."
+        }
       ]
     },
     {
-      "word": "settle in",
-      "meaning": "to become comfortable and familiar with a new place",
+      "word": "die Einstellung",
+      "meaning": "attitude; mindset",
       "examples": [
-        "It takes time to settle in after a big move.",
-        "Joining a local club helped her settle in."
+        {
+          "de": "Unsere Einstellung zur Arbeit beeinflusst unser Stressniveau.",
+          "en": "Our attitude towards work influences our stress level."
+        },
+        {
+          "de": "Eine gesunde Einstellung bedeutet auch, Grenzen zu akzeptieren.",
+          "en": "A healthy mindset also means accepting limits."
+        }
       ]
     },
     {
-      "word": "belonging",
-      "meaning": "the feeling of being accepted and connected to a place or group",
+      "word": "abschalten",
+      "meaning": "to switch off mentally; relax",
       "examples": [
-        "Making friends can create a stronger sense of belonging.",
-        "Homesickness often becomes easier when people develop belonging in a new place."
+        {
+          "de": "Nach Feierabend fällt es ihm schwer abzuschalten.",
+          "en": "He finds it difficult to switch off after work."
+        },
+        {
+          "de": "Im Urlaub möchte ich wirklich abschalten und nicht ständig E-Mails lesen.",
+          "en": "On holiday, I really want to switch off and not constantly read emails."
+        }
       ]
     }
   ]

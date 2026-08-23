@@ -1,52 +1,88 @@
 {
-  "title": "What class are you?",
+  "title": "Reisen im Schlaf: Der Nachtzug kehrt zurück",
   "vocabulary": [
     {
-      "word": "social class",
-      "meaning": "a group in society based on factors such as income, occupation, education, and status",
+      "word": "der Nachtzug",
+      "meaning": "night train",
       "examples": [
-        "Social class can influence access to opportunities.",
-        "Attitudes toward social class differ between countries."
+        {
+          "de": "Der Nachtzug verbindet mehrere europäische Hauptstädte.",
+          "en": "The night train connects several European capitals."
+        },
+        {
+          "de": "Im Nachtzug kann man während der Reise schlafen.",
+          "en": "On a night train, you can sleep while travelling."
+        }
       ]
     },
     {
-      "word": "working class",
-      "meaning": "a social group traditionally associated with manual or lower-paid work",
+      "word": "die Flugscham",
+      "meaning": "flight shame; guilt about flying because of climate impact",
       "examples": [
-        "The area has a strong working-class history.",
-        "Definitions of working class have changed over time."
+        {
+          "de": "Flugscham beeinflusst manche Menschen bei ihrer Reiseplanung.",
+          "en": "Flight shame influences some people's travel planning."
+        },
+        {
+          "de": "Nicht jeder empfindet Flugscham trotz der Klimawirkung des Fliegens.",
+          "en": "Not everyone feels flight shame despite the climate impact of flying."
+        }
       ]
     },
     {
-      "word": "middle class",
-      "meaning": "a broad social group generally between the working and upper classes",
+      "word": "der Schlafwagen",
+      "meaning": "sleeping car",
       "examples": [
-        "Education and occupation are often used to describe the middle class.",
-        "The size of the middle class varies between countries."
+        {
+          "de": "Im Schlafwagen gibt es Betten für längere Nachtfahrten.",
+          "en": "There are beds for longer overnight journeys in the sleeping car."
+        },
+        {
+          "de": "Ein privates Abteil im Schlafwagen ist oft teuer.",
+          "en": "A private compartment in a sleeping car is often expensive."
+        }
       ]
     },
     {
-      "word": "upper class",
-      "meaning": "the social group traditionally associated with high wealth or status",
+      "word": "ausschlaggebend",
+      "meaning": "decisive; crucial",
       "examples": [
-        "The programme discussed stereotypes about the upper class.",
-        "Some upper-class advantages are inherited."
+        {
+          "de": "Für sie ist der Klimaschutz bei der Wahl des Verkehrsmittels ausschlaggebend.",
+          "en": "For her, climate protection is decisive when choosing a means of transport."
+        },
+        {
+          "de": "Der Preis ist für viele Reisende weiterhin ausschlaggebend.",
+          "en": "Price remains decisive for many travellers."
+        }
       ]
     },
     {
-      "word": "status",
-      "meaning": "a person's social or professional position",
+      "word": "der Boom",
+      "meaning": "boom; rapid rise in popularity",
       "examples": [
-        "People sometimes use clothing to signal social status.",
-        "Status can come from wealth, occupation, or reputation."
+        {
+          "de": "Nachtzüge erleben in Europa einen neuen Boom.",
+          "en": "Night trains are experiencing a new boom in Europe."
+        },
+        {
+          "de": "Der Boom hat zu neuen Strecken und Angeboten geführt.",
+          "en": "The boom has led to new routes and services."
+        }
       ]
     },
     {
-      "word": "income",
-      "meaning": "money received regularly from work, investments, or other sources",
+      "word": "etwas hinterfragen",
+      "meaning": "to question something critically",
       "examples": [
-        "Household income affects many life choices.",
-        "Income is only one way to measure social class."
+        {
+          "de": "Viele Menschen hinterfragen ihr eigenes Reiseverhalten.",
+          "en": "Many people question their own travel behaviour."
+        },
+        {
+          "de": "Es ist sinnvoll, alte Gewohnheiten regelmäßig zu hinterfragen.",
+          "en": "It is useful to question old habits regularly."
+        }
       ]
     }
   ]

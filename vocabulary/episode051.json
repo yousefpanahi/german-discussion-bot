@@ -1,52 +1,88 @@
 {
-  "title": "Are you a winner",
+  "title": "Bühne frei für mehr Frauen!",
   "vocabulary": [
     {
-      "word": "competition",
-      "meaning": "an activity in which people try to perform better than others",
+      "word": "die Bühne",
+      "meaning": "stage",
       "examples": [
-        "Competition can motivate some people.",
-        "Not every situation needs to become a competition."
+        {
+          "de": "Auf der großen Bühne traten fast nur Männer auf.",
+          "en": "Almost only men performed on the main stage."
+        },
+        {
+          "de": "Mehr Künstlerinnen sollen die Chance auf große Bühnen bekommen.",
+          "en": "More female artists should get the chance to perform on major stages."
+        }
       ]
     },
     {
-      "word": "achievement",
-      "meaning": "something successfully completed through effort or skill",
+      "word": "die Ungleichheit",
+      "meaning": "inequality",
       "examples": [
-        "Winning the award was a major achievement.",
-        "Personal achievements can be more important than public prizes."
+        {
+          "de": "Die Initiative möchte die Ungleichheit in der Musikbranche sichtbar machen.",
+          "en": "The initiative wants to make inequality in the music industry visible."
+        },
+        {
+          "de": "Ungleichheit entsteht oft durch viele kleine strukturelle Vorteile.",
+          "en": "Inequality often arises through many small structural advantages."
+        }
       ]
     },
     {
-      "word": "success",
-      "meaning": "the achievement of a goal or desired result",
+      "word": "die Musikerin",
+      "meaning": "female musician",
       "examples": [
-        "People define success in different ways.",
-        "Hard work can contribute to success, but luck also matters."
+        {
+          "de": "Die Musikerin tritt dieses Jahr auf mehreren Festivals auf.",
+          "en": "The female musician is performing at several festivals this year."
+        },
+        {
+          "de": "Viele Musikerinnen berichten von ungleichen Chancen.",
+          "en": "Many female musicians report unequal opportunities."
+        }
       ]
     },
     {
-      "word": "failure",
-      "meaning": "lack of success in achieving something",
+      "word": "das Line-up",
+      "meaning": "line-up; list of performers",
       "examples": [
-        "Failure can provide useful lessons.",
-        "One failure does not define a person's ability."
+        {
+          "de": "Das Festival hat ein vielfältiges Line-up angekündigt.",
+          "en": "The festival has announced a diverse line-up."
+        },
+        {
+          "de": "Beim Line-up sollte nicht nur Bekanntheit eine Rolle spielen.",
+          "en": "The line-up should not be determined only by fame."
+        }
       ]
     },
     {
-      "word": "resilience",
-      "meaning": "the ability to recover after problems or disappointment",
+      "word": "die Quote",
+      "meaning": "quota; target share",
       "examples": [
-        "Athletes need resilience after losing.",
-        "Resilience helps people continue after setbacks."
+        {
+          "de": "Eine Quote kann kurzfristig mehr Vielfalt schaffen.",
+          "en": "A quota can create more diversity in the short term."
+        },
+        {
+          "de": "Nicht alle Künstlerinnen halten eine feste Quote für die beste Lösung.",
+          "en": "Not all female artists consider a fixed quota the best solution."
+        }
       ]
     },
     {
-      "word": "goal",
-      "meaning": "something you aim to achieve",
+      "word": "unterrepräsentiert",
+      "meaning": "underrepresented",
       "examples": [
-        "Set a clear goal before you begin.",
-        "Her goal was to improve rather than simply win."
+        {
+          "de": "Frauen sind auf vielen Festivalbühnen weiterhin unterrepräsentiert.",
+          "en": "Women remain underrepresented on many festival stages."
+        },
+        {
+          "de": "Auch andere Gruppen können in einer Branche unterrepräsentiert sein.",
+          "en": "Other groups can also be underrepresented in an industry."
+        }
       ]
     }
   ]

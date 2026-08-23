@@ -1,52 +1,88 @@
 {
-  "title": "Arranging meetings",
+  "title": "Dringend gesucht: Schiedsrichter im Fußball",
   "vocabulary": [
     {
-      "word": "arrange",
-      "meaning": "to organise or plan something in advance",
+      "word": "der Schiedsrichter",
+      "meaning": "referee",
       "examples": [
-        "I'll arrange a meeting for next Tuesday.",
-        "Could you arrange a suitable time with the client?"
+        {
+          "de": "Der Schiedsrichter muss in Sekunden eine Entscheidung treffen.",
+          "en": "The referee has to make a decision within seconds."
+        },
+        {
+          "de": "Ohne Schiedsrichter kann ein offizielles Spiel nicht stattfinden.",
+          "en": "An official match cannot take place without a referee."
+        }
       ]
     },
     {
-      "word": "availability",
-      "meaning": "the times when someone is free or able to do something",
+      "word": "die Anfeindung",
+      "meaning": "hostile attack or abuse",
       "examples": [
-        "Please send me your availability for this week.",
-        "We need to check everyone's availability before booking the meeting."
+        {
+          "de": "Viele Schiedsrichter erleben Anfeindungen im Internet.",
+          "en": "Many referees experience abuse online."
+        },
+        {
+          "de": "Öffentliche Anfeindungen können junge Menschen von dem Beruf abschrecken.",
+          "en": "Public hostility can discourage young people from the profession."
+        }
       ]
     },
     {
-      "word": "schedule",
-      "meaning": "a plan showing when activities or events will happen",
+      "word": "die Morddrohung",
+      "meaning": "death threat",
       "examples": [
-        "The meeting is already on my schedule.",
-        "We changed the schedule because two people were unavailable."
+        {
+          "de": "Morddrohungen gegen Sportler oder Schiedsrichter sind niemals akzeptabel.",
+          "en": "Death threats against athletes or referees are never acceptable."
+        },
+        {
+          "de": "Nach einer Morddrohung informierte er die Polizei.",
+          "en": "After a death threat, he informed the police."
+        }
       ]
     },
     {
-      "word": "reschedule",
-      "meaning": "to arrange an event for a different time",
+      "word": "der Nachwuchs",
+      "meaning": "young talent; new generation",
       "examples": [
-        "Can we reschedule the meeting for Friday?",
-        "The manager had to reschedule because of an urgent appointment."
+        {
+          "de": "Im Amateurfußball fehlt es an Schiedsrichternachwuchs.",
+          "en": "Amateur football lacks young refereeing talent."
+        },
+        {
+          "de": "Der Verband möchte mehr Nachwuchs für das Ehrenamt gewinnen.",
+          "en": "The association wants to attract more young people to volunteer roles."
+        }
       ]
     },
     {
-      "word": "agenda",
-      "meaning": "a list of topics to be discussed at a meeting",
+      "word": "die Wertschätzung",
+      "meaning": "appreciation",
       "examples": [
-        "I'll send the agenda before the meeting.",
-        "The first item on the agenda is the project deadline."
+        {
+          "de": "Schiedsrichter wünschen sich mehr Wertschätzung von Spielern und Fans.",
+          "en": "Referees want more appreciation from players and fans."
+        },
+        {
+          "de": "Öffentliches Lob kann ein Zeichen von Wertschätzung sein.",
+          "en": "Public praise can be a sign of appreciation."
+        }
       ]
     },
     {
-      "word": "confirm",
-      "meaning": "to state that an arrangement or piece of information is definite",
+      "word": "der Amateurbereich",
+      "meaning": "amateur level",
       "examples": [
-        "Please confirm whether you can attend.",
-        "She confirmed the meeting by email."
+        {
+          "de": "Im Amateurbereich arbeiten viele Menschen ehrenamtlich.",
+          "en": "At amateur level, many people work on a voluntary basis."
+        },
+        {
+          "de": "Aggressives Verhalten ist auch im Amateurbereich ein Problem.",
+          "en": "Aggressive behaviour is also a problem at amateur level."
+        }
       ]
     }
   ]

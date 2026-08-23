@@ -1,52 +1,88 @@
 {
-  "title": "Global traffic jam",
+  "title": "Frauenfußball: Was passiert nach der Euro 2022?",
   "vocabulary": [
     {
-      "word": "traffic jam",
-      "meaning": "a long line of vehicles moving very slowly or not at all",
+      "word": "die Chancengleichheit",
+      "meaning": "equal opportunities",
       "examples": [
-        "We were stuck in a traffic jam for more than an hour.",
-        "Traffic jams are common during rush hour."
+        {
+          "de": "Im Profisport gibt es noch keine vollständige Chancengleichheit.",
+          "en": "There is still no complete equality of opportunity in professional sport."
+        },
+        {
+          "de": "Mehr Chancengleichheit braucht langfristige Investitionen.",
+          "en": "Greater equality of opportunity requires long-term investment."
+        }
       ]
     },
     {
-      "word": "congestion",
-      "meaning": "the state of roads being too crowded with traffic",
+      "word": "das Mindestgehalt",
+      "meaning": "minimum salary",
       "examples": [
-        "Road congestion increases travel times.",
-        "The city introduced new measures to reduce congestion."
+        {
+          "de": "Viele Spielerinnen fordern ein Mindestgehalt in der Profiliga.",
+          "en": "Many female players are calling for a minimum salary in the professional league."
+        },
+        {
+          "de": "Ein Mindestgehalt könnte den Beruf für Sportlerinnen sicherer machen.",
+          "en": "A minimum salary could make the profession more secure for female athletes."
+        }
       ]
     },
     {
-      "word": "rush hour",
-      "meaning": "the busy time when many people travel to or from work",
+      "word": "die Sendezeit",
+      "meaning": "airtime; broadcast time",
       "examples": [
-        "Trains are crowded during rush hour.",
-        "Try to avoid driving through the city at rush hour."
+        {
+          "de": "Frauenfußball bekommt im Fernsehen oft weniger Sendezeit.",
+          "en": "Women's football often receives less airtime on television."
+        },
+        {
+          "de": "Mehr Sendezeit kann neue Fans für eine Sportart gewinnen.",
+          "en": "More airtime can attract new fans to a sport."
+        }
       ]
     },
     {
-      "word": "commuter",
-      "meaning": "a person who regularly travels between home and work or study",
+      "word": "der Hype",
+      "meaning": "hype; intense temporary excitement",
       "examples": [
-        "Thousands of commuters enter the city every morning.",
-        "Long delays frustrate commuters."
+        {
+          "de": "Nach dem Turnier entstand ein großer Hype um die Mannschaft.",
+          "en": "A major hype developed around the team after the tournament."
+        },
+        {
+          "de": "Die Frage ist, ob der Hype auch langfristig anhält.",
+          "en": "The question is whether the hype will last in the long term."
+        }
       ]
     },
     {
-      "word": "gridlock",
-      "meaning": "a situation in which traffic cannot move because roads are completely blocked",
+      "word": "nebenbei arbeiten",
+      "meaning": "to work another job on the side",
       "examples": [
-        "A crash caused gridlock across the city centre.",
-        "Poor planning can lead to severe gridlock."
+        {
+          "de": "Einige Profisportlerinnen müssen nebenbei arbeiten.",
+          "en": "Some professional female athletes have to work another job on the side."
+        },
+        {
+          "de": "Wer nebenbei arbeitet, hat weniger Zeit für Training und Erholung.",
+          "en": "Those who work on the side have less time for training and recovery."
+        }
       ]
     },
     {
-      "word": "public transport",
-      "meaning": "buses, trains, and other shared transport services",
+      "word": "die Anstoßzeit",
+      "meaning": "kick-off time",
       "examples": [
-        "Better public transport can reduce car use.",
-        "Many commuters depend on public transport."
+        {
+          "de": "Unattraktive Anstoßzeiten können Zuschauer abschrecken.",
+          "en": "Unattractive kick-off times can discourage spectators."
+        },
+        {
+          "de": "Die Liga möchte familienfreundlichere Anstoßzeiten testen.",
+          "en": "The league wants to test more family-friendly kick-off times."
+        }
       ]
     }
   ]
