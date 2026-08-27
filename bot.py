@@ -249,6 +249,16 @@ message_type = os.environ.get("MESSAGE_TYPE")
 
 wait_until_target()
 
+
+print("Refreshing repository before reading episode state...")
+
+subprocess.run(
+    ["git", "pull", "--rebase", "origin", "main"],
+    check=True
+)
+
+print("Repository refreshed successfully.")
+
 # ==================================================
 # 1. CLASS REMINDER
 # ==================================================
