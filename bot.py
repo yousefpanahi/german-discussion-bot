@@ -292,7 +292,7 @@ Bis später! 🇩🇪"""
 
 elif message_type == "join":
 
-    message = """🔴 LIVE NOW — English Free Discussion 🇬🇧
+    message = """🔴 LIVE NOW — German Discussion 🇩🇪
 
 We’re starting the class now!
 Tap the link and join us — we’d love to have you in the discussion. 👋
@@ -300,7 +300,19 @@ Tap the link and join us — we’d love to have you in the discussion. 👋
 Even if you’re a few minutes late, just jump in!
 
 🔗 Join the meeting:
-https://meet.google.com/vtg-anvk-vgn"""
+https://meet.google.com/frb-sazg-hpp
+
+---
+
+🔴 JETZT LIVE — Deutsch-Diskussionsrunde 🇩🇪
+
+Wir starten jetzt!
+Klick auf den Link und mach mit — wir freuen uns auf dich. 👋
+
+Auch wenn du ein paar Minuten später kommst, kannst du einfach dazukommen!
+
+🔗 Zum Meeting:
+https://meet.google.com/frb-sazg-hpp"""
 
     # Send the Join Class message
     join_message_id = send_message(message)
