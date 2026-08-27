@@ -265,9 +265,7 @@ print("Repository refreshed successfully.")
 
 if message_type == "reminder":
 
-    message = 
-    
-"""🔴 Hallo zusammen,
+    message = """🔴 Hallo zusammen,
 
 🇩🇪 Kurze Erinnerung:
 Wir haben heute unsere Deutsch-Diskussionsrunde von 17:30 bis 18:30 Uhr (UTC).
@@ -293,9 +291,7 @@ See you there! 🇩🇪"""
 
 elif message_type == "join":
 
-    message = """
-    
-    🔴 JETZT LIVE — Deutsch-Diskussionsrunde 🇩🇪
+    message = """ 🔴 JETZT LIVE — Deutsch-Diskussionsrunde 🇩🇪
 
 Wir starten jetzt!
 Klick auf den Link und mach mit — wir freuen uns auf dich. 👋
