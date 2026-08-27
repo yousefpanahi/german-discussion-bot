@@ -118,7 +118,7 @@ jobs:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
           CHAT_ID: ${{ secrets.CHAT_ID }}
           MESSAGE_TYPE: join
-          TARGET_TEHRAN_TIME: ${{ github.event_name == 'schedule' && '20:00' || '' }}
+          TARGET_TEHRAN_TIME: ${{ github.event_name == 'schedule' && '21:00' || '' }}
           UNPIN_DELAY_SECONDS: ${{ github.event_name == 'schedule' && '10800' || '20' }}
         run: python bot.py
 
