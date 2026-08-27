@@ -265,9 +265,23 @@ print("Repository refreshed successfully.")
 
 if message_type == "reminder":
 
-    message = """Hello Everyone. Kindly Reminder
+message = """🔴 Hello Everyone,
 
-We will have the English Free Discussion meeting today at 4:30 PM - 5:30 PM (UTC)."""
+🇩🇪 Kindly reminder:
+We will have our German Discussion meeting today from 5:30 PM to 6:30 PM (UTC).
+
+We will discuss today's German lesson topic together.
+See you there! 🇩🇪
+
+---
+
+🔴 Hallo zusammen,
+
+🇩🇪 Kurze Erinnerung:
+Wir haben heute unsere Deutsch-Diskussionsrunde von 17:30 bis 18:30 Uhr (UTC).
+
+Wir werden gemeinsam über das heutige Thema der Deutschlektion sprechen.
+Bis später! 🇩🇪"""
 
     send_message(message)
 
