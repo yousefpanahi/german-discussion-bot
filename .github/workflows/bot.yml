@@ -84,7 +84,7 @@ jobs:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
           CHAT_ID: ${{ secrets.CHAT_ID }}
           MESSAGE_TYPE: reminder
-          TARGET_TEHRAN_TIME: ${{ github.event_name == 'schedule' && '17:00' || '' }}
+          TARGET_TEHRAN_TIME: ${{ github.event_name == 'schedule' && '18:00' || '' }}
         run: python bot.py
 
 
