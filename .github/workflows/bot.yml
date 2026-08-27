@@ -136,7 +136,7 @@ jobs:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
           CHAT_ID: ${{ secrets.CHAT_ID }}
           MESSAGE_TYPE: bbc
-          TARGET_TEHRAN_TIME: ${{ github.event_name == 'schedule' && '22:00' || '' }}
+          TARGET_TEHRAN_TIME: ${{ github.event_name == 'schedule' && '23:00' || '' }}
         run: python bot.py
 
 
