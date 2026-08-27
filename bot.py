@@ -265,23 +265,24 @@ print("Repository refreshed successfully.")
 
 if message_type == "reminder":
 
-    message = """🔴 Hello Everyone,
-
-🇩🇪 Kindly reminder:
-We will have our German Discussion meeting today from 5:30 PM to 6:30 PM (UTC).
-
-We will discuss today's German lesson topic together.
-See you there! 🇩🇪
-
----
-
-🔴 Hallo zusammen,
+    message = 
+    
+"""🔴 Hallo zusammen,
 
 🇩🇪 Kurze Erinnerung:
 Wir haben heute unsere Deutsch-Diskussionsrunde von 17:30 bis 18:30 Uhr (UTC).
 
 Wir werden gemeinsam über das heutige Thema der Deutschlektion sprechen.
-Bis später! 🇩🇪"""
+Bis später! 🇩🇪
+---------
+
+🔴 Hello Everyone,
+
+🇩🇪 Kindly reminder:
+We will have our German Discussion meeting today from 5:30 PM to 6:30 PM (UTC).
+
+We will discuss today's German lesson topic together.
+See you there! 🇩🇪"""
 
     send_message(message)
 
@@ -292,19 +293,9 @@ Bis später! 🇩🇪"""
 
 elif message_type == "join":
 
-    message = """🔴 LIVE NOW — German Discussion 🇩🇪
-
-We’re starting the class now!
-Tap the link and join us — we’d love to have you in the discussion. 👋
-
-Even if you’re a few minutes late, just jump in!
-
-🔗 Join the meeting:
-https://meet.google.com/frb-sazg-hpp
-
----
-
-🔴 JETZT LIVE — Deutsch-Diskussionsrunde 🇩🇪
+    message = """
+    
+    🔴 JETZT LIVE — Deutsch-Diskussionsrunde 🇩🇪
 
 Wir starten jetzt!
 Klick auf den Link und mach mit — wir freuen uns auf dich. 👋
@@ -312,6 +303,18 @@ Klick auf den Link und mach mit — wir freuen uns auf dich. 👋
 Auch wenn du ein paar Minuten später kommst, kannst du einfach dazukommen!
 
 🔗 Zum Meeting:
+https://meet.google.com/frb-sazg-hpp
+
+---------
+
+🔴 LIVE NOW — German Discussion 🇩🇪
+
+We’re starting the class now!
+Tap the link and join us — we’d love to have you in the discussion. 👋
+
+Even if you’re a few minutes late, just jump in!
+
+🔗 Join the meeting:
 https://meet.google.com/frb-sazg-hpp"""
 
     # Send the Join Class message
