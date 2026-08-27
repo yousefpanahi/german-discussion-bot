@@ -265,7 +265,7 @@ print("Repository refreshed successfully.")
 
 if message_type == "reminder":
 
-message = """🔴 Hello Everyone,
+    message = """🔴 Hello Everyone,
 
 🇩🇪 Kindly reminder:
 We will have our German Discussion meeting today from 5:30 PM to 6:30 PM (UTC).
