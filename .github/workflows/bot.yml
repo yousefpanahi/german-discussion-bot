@@ -101,7 +101,7 @@ jobs:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
           CHAT_ID: ${{ secrets.CHAT_ID }}
           MESSAGE_TYPE: bbc_unpin
-          TARGET_TEHRAN_TIME: ${{ github.event_name == 'schedule' && '20:00' || '' }}
+          TARGET_TEHRAN_TIME: ${{ github.event_name == 'schedule' && '21:00' || '' }}
         run: python bot.py
 
 
