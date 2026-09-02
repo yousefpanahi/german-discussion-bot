@@ -247,9 +247,6 @@ def get_vocabulary(episode_number):
 
 message_type = os.environ.get("MESSAGE_TYPE")
 
-wait_until_target()
-
-
 print("Refreshing repository before reading episode state...")
 
 subprocess.run(
@@ -258,6 +255,8 @@ subprocess.run(
 )
 
 print("Repository refreshed successfully.")
+
+wait_until_target()
 
 # ==================================================
 # 1. CLASS REMINDER
