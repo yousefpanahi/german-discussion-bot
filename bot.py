@@ -4,7 +4,7 @@ import json
 import time
 import subprocess
 import requests
-from datetime import datetime
+from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
 
 
@@ -52,13 +52,9 @@ def wait_until_target():
 
     # If GitHub was extremely late and the target has already passed,
     # send immediately instead of waiting until the next day.
+
     if now >= target:
-        late_seconds = (now - target).total_seconds()
-        print(
-            f"Target time already passed by "
-            f"{late_seconds:.0f} seconds. Sending now."
-        )
-        return
+    target = target + timedelta(days=1)
 
     wait_seconds = (target - now).total_seconds()
 
