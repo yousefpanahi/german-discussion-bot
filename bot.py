@@ -54,7 +54,7 @@ def wait_until_target():
     # send immediately instead of waiting until the next day.
 
     if now >= target:
-    target = target + timedelta(days=1)
+        target = target + timedelta(days=1)
 
     wait_seconds = (target - now).total_seconds()
 
