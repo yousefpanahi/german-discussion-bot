@@ -126,10 +126,12 @@ def unpin_message(message_id):
         }
     )
 
-    print(response.json())
+    result = response.json()
+    print(result)
 
     if not response.ok:
-        raise Exception("Failed to unpin message")
+        print("Warning: Failed to unpin message. Continuing.")
+        return
 
 
 # ==================================================
