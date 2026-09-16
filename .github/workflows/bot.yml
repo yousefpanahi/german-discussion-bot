@@ -4,7 +4,6 @@ permissions:
   contents: write
 
 on:
-  schedule:
     # Vocabulary — next day after each BBC episode
     # Sunday, Tuesday, Thursday — wait until 17:00 Tehran
     
